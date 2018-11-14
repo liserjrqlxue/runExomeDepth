@@ -19,7 +19,7 @@ Rscript run.R bam.list bai.list
 ```R
 library(ExomeDepth)
 data(exons.hg19)
-source(getBins.R)
+source("getBins.R")
 ref='hg19.fa'
 getBins(
     bed.frame = exons.hg19,
@@ -41,7 +41,7 @@ sampleID=args[1]
 bam=args[2]
 library(ExomeDepth)
 data(exons.hg19)
-source(getBamCount.R)
+source("getBamCount.R")
 target <- readRDS(exons.hg19.target.rds)
 my.count <- getBamCount(
     target = target,
