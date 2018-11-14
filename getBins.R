@@ -1,7 +1,6 @@
 getBins <- function(
     bed.frame = NULL,
     bed.file = NULL,
-    read.width = 300, 
     include.chr = FALSE, 
     referenceFasta = NULL,
     prefix = 'exons.hg19',
