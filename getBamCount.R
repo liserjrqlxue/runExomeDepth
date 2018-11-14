@@ -28,5 +28,5 @@ getBamCount <- function(
         read.width = read.width
         )
     message("Number of counted fragments : ", sum(t))
-    return t
+    return(t)
 }
