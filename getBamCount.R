@@ -18,8 +18,6 @@ getBamCount <- function(
         )
     target =readRDS(paste0(prefix,".target.rds"))
     
-    bam <- bam.file
-    index <- index.file
     t <- countBamInGRanges.exomeDepth(
         bam.file = bam, 
         index = index, 
