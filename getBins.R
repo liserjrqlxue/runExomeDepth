@@ -3,7 +3,7 @@ getBins <- function(
     bed.file = NULL,
     include.chr = FALSE, 
     referenceFasta = NULL,
-    prefix = 'exons.hg19',
+    prefix = 'exons.hg19'
     ) {
 
     if (is.null(bed.frame)) {
