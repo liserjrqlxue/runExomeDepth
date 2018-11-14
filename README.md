@@ -1,5 +1,7 @@
 # ExomeDepth for WES CNV calling
 
+## Base on https://github.com/vplagnol/ExomeDepth.git
+
 ## simple run
 ```bash
 Rscript run.R bam.list bai.list
