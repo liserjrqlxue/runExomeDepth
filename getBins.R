@@ -4,6 +4,7 @@ getBins <- function(
     read.width = 300, 
     include.chr = FALSE, 
     referenceFasta = NULL,
+    prefix = 'exons.hg19',
     ) {
 
     if (is.null(bed.frame)) {
@@ -37,6 +38,7 @@ getBins <- function(
         seqnames = bed.frame$seqnames,
         IRanges::IRanges(start=bed.frame$start+1,end=bed.frame$end)
         )
+    saveRDS(target,file=paste0(prefix,".target.rds"))
 
     rdata <- IRanges::RangedData(
         space = GenomicRanges::seqnames(target),
@@ -60,5 +62,6 @@ getBins <- function(
         }
         rdata[["GC"]] <- getGCcontent(target.dnastringset)
     }
+    saveRDS(rdata,file=paste0(prefix,".rdata.rds"))
     return(rdata)
 }
