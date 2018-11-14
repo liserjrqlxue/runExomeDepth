@@ -42,12 +42,12 @@ bam=args[2]
 library(ExomeDepth)
 data(exons.hg19)
 source("getBamCount.R")
-target <- readRDS(exons.hg19.target.rds)
+target <- readRDS("exons.hg19.target.rds")
 my.count <- getBamCount(
     target = target,
-    bam = bam.file
+    bam = bam
     )
-saveRDS(my.count,file=paste0(sampleID,".my.count.rds))
+saveRDS(my.count,file=paste0(sampleID,".my.count.rds"))
 ```
 
 3. create main matrix of read count data of all sample
