@@ -40,7 +40,6 @@ args=commandArgs(T)
 sampleID=args[1]
 bam=args[2]
 library(ExomeDepth)
-data(exons.hg19)
 source("getBamCount.R")
 target <- readRDS("exons.hg19.target.rds")
 my.count <- getBamCount(
@@ -59,7 +58,8 @@ saveRDS(my.count,file=paste0(sampleID,".my.count.rds"))
 ```R
 args=commandArgs(T)
 sample.list=args[1]
-samples=read.table(sample.list,stringAsFactors=F)[,1]
+#sample.list="sample.list"
+samples=read.table(sample.list,stringsAsFactors=F)[,1]
 library(ExomeDepth)
 my.bins <- readRDS('exons.hg19.rdata.rds')
 my.counts.matrix <- matrix(ncol=length(samples),nrow=nrow(my.bins))
@@ -89,14 +89,6 @@ exons.hg19.GRanges <- GenomicRanges::GRanges(
     names = exons.hg19$name
     )
 my.counts.matrix <- readRDS(file=paste0('all',".my.counts.rds"))
-my.bins <- readRDS('exons.hg19.rdata.rds')
-my.bins.dafr <- as(my.bins[,colnames(my.bins)],'data.frame')
-my.bins.dafr$chromosome <-
-    gsub(
-        as.character(my.bins.dafr$space),
-        pattern = 'chr',
-        replacement = ''
-        )
 samples <- colnames(my.counts.matrix)
 for(i in 1:length(samples)){
     if(sampleID!=samples[i]){
@@ -105,7 +97,7 @@ for(i in 1:length(samples)){
     my.choice <- select.reference.set(
         test.counts = my.counts.matrix[,i],
         reference.counts = my.counts.matrix[,-i],
-        bin.length = (my.bins.dafr$end - my.bins.dafr$start)/1000,
+        bin.length = (exons.hg19$end - exons.hg19$start)/1000,
         n.bins.reduced = 10000
         )
     my.reference.selected <- apply(
@@ -124,10 +116,10 @@ for(i in 1:length(samples)){
     all.exons <- CallCNVs(
         x = all.exons,
         transition.probability = 10^-4,
-        chromosome = my.counts.dafr$chromosome,
-        start = my.counts.dafr$start,
-        end = my.counts.dafr$end,
-        name = my.counts.dafr$names
+        chromosome = exons.hg19$chromosome,
+        start = exons.hg19$start+1,
+        end = exons.hg19$end,
+        name = exons.hg19$name
         )
 ######## Now annotate the ExomeDepth object
     all.exons <- AnnotateExtra(
@@ -138,7 +130,7 @@ for(i in 1:length(samples)){
         )
     all.exons <- AnnotateExtra(
         x = all.exons,
-        reference.annotation = exons.gh19,GRanges,
+        reference.annotation = exons.hg19.GRanges,
         min.overlap = 0.0001,
         column.name = 'Conrad.hg19'
         )
