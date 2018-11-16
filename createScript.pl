@@ -18,7 +18,7 @@ close IN;
 print "wait\n";
 print "Rscript run.getAllCounts.R $list\n";
 for(@samples){
-  print "Rscript run.getCNVs.R $_&\n";
+  print "Rscript run.getCNVs.R $_ &\n";
 }
 print "wait\n";
 __END__
