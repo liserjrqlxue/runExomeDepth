@@ -52,7 +52,7 @@ for(i in 1:length(samples)){
         x = all.exons,
         reference.annotation = exons.hg19.GRanges,
         min.overlap = 0.0001,
-        column.name = 'Conrad.hg19'
+        column.name = 'exons.hg19'
         )
     output.file <- paste0(sampleID,'.CNV.calls.tsv')
     write.table(file=output.file,x=all.exons@CNV.calls,row.names=F,sep="\t",quote=F)
