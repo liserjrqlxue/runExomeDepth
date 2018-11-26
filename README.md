@@ -138,20 +138,21 @@ for(i in 1:length(samples)){
     saveRDS(all.exons,file=paste0(sampleID,'.all.exons.rds'))
 }
 ```
+
 ## example
 1. `Rscript run.getBamCount.R SampleID bam.file` for each sample  
-input:`SampleID` as prefix and `bam.file` as bam path
-output:`SampleID.my.count.rds`
-time:15mins for each
-2. `Rscript run.getAllCounts.R`
-input:`sample.list` as batch list of samples
-output:`all.my.counts.rds`
-time:12s
+input:`SampleID` as prefix and `bam.file` as bam path  
+output:`SampleID.my.count.rds`  
+time:15mins for each  
+2. `Rscript run.getAllCounts.R sample.list`  
+input:`sample.list` as batch list of samples  
+output:`all.my.counts.rds`  
+time:12s  
 3. `Rscript run.CallCNVs.R`  
 input:`all.my.counts.rds`  
 output:`SampleID.CNV.calls.tsv` and `SampleID.all.exons.rds` for each sample  
-time:12mins for total 12 test samples
-4. `Rscript run.getCNVs.R SampleID`
+time:12mins for total 12 test samples  
+4. `Rscript run.getCNVs.R SampleID`  
 input:`all.my.counts.rds` and selected sample `SampleID`  
 output:`SampleID.CNV.calls.tsv` and `SampleID.all.exons.rds` for selected sample  
 time:1mins
