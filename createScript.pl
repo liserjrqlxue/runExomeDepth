@@ -4,19 +4,26 @@ use strict;
 use warnings;
 my$list=shift or die"$0 bam.list\n";
 
-print "#!/bin/bash\n";
+print "#!/bin/bash\nexport PATH=/share/backup/wangyaoshen/local/bin:\$PATH\n";
 my@samples;
 open IN,"< $list" or die$!;
+open OUT,"> sample.list.checked" or die$!;
 while(<IN>){
   chomp;
   /^#/ and next;
   my($sampleID,$bam)=split /\t/,$_;
-  push @samples,$sampleID;
-  print "Rscript run.getBamCount.R $sampleID $bam &\n";
+  if(-e $bam){
+    print OUT join("\t",$sampleID,$bam),"\n";
+    push @samples,$sampleID;
+    print "Rscript run.getBamCount.R $sampleID $bam &\n";
+  }else{
+    print STDERR "skip $sampleID : can not find $bam\n";
+  }
 }
 close IN;
+close OUT;
 print "wait\n";
-print "Rscript run.getAllCounts.R $list\n";
+print "Rscript run.getAllCounts.R sample.list.checked\n";
 for(@samples){
   print "Rscript run.getCNVs.R $_ &\n";
 }
