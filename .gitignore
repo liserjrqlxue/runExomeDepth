@@ -1,0 +1,5 @@
+# rdata
+*.rds
+
+# output
+*.tsv
