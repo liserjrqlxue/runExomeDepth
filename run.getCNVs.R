@@ -1,5 +1,6 @@
 args=commandArgs(T)
 sampleID=args[1]
+outdir=args[2]
 library(ExomeDepth)
 data(exons.hg19)
 data(Conrad.hg19)
@@ -8,7 +9,7 @@ exons.hg19.GRanges <- GenomicRanges::GRanges(
     IRanges::IRanges(start=exons.hg19$start,end=exons.hg19$end),
     names = exons.hg19$name
     )
-my.counts.matrix <- readRDS(file=paste0('all',".my.counts.rds"))
+my.counts.matrix <- readRDS(file=paste0(outdir,"/",'all',".my.counts.rds"))
 samples <- colnames(my.counts.matrix)
 for(i in 1:length(samples)){
     if(sampleID!=samples[i]){
@@ -54,7 +55,7 @@ for(i in 1:length(samples)){
         min.overlap = 0.0001,
         column.name = 'exons.hg19'
         )
-    output.file <- paste0(sampleID,'.CNV.calls.tsv')
+    output.file <- paste0(outdir,"/",sampleID,'.CNV.calls.tsv')
     write.table(file=output.file,x=all.exons@CNV.calls,row.names=F,sep="\t",quote=F)
-    saveRDS(all.exons,file=paste0(sampleID,'.all.exons.rds'))
+    saveRDS(all.exons,file=paste0(outdir,"/",sampleID,'.all.exons.rds'))
 }
