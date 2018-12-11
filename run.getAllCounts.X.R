@@ -7,8 +7,8 @@ outdir=args[3]
 tag=paste0(".",gender)
 suffix=".my.count.rds"
 
-samplesInfo=read.table(sample.list,stringsAsFactors=F)[,1]
-samples<-samplesInfo[sampleInfo$V3==gender,1]
+samplesInfo<-read.table(sample.list,stringsAsFactors=F)
+samples<-samplesInfo[samplesInfo$V3==gender,1]
 
 library(ExomeDepth)
 my.counts.matrix <- matrix(ncol=length(samples),nrow=binCount)
