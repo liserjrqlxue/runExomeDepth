@@ -35,7 +35,7 @@ for(@samples){
 }
 print "wait\n";
 for my$gender(keys%gender){
-  print "Rscript run.getAllCounts.X.R sample.list.checked $gender $outdir\n";
+  print "Rscript run.getAllCounts.X.R $outdir/sample.list.checked $gender $outdir\n";
   my@samples=@{$gender{$gender}};
   for(@samples){
     print "Rscript run.getCNVs.X.R $_ $gender $outdir &\n";
