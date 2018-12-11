@@ -16,6 +16,7 @@ while(<IN>){
     print OUT join("\t",$sampleID,$bam),"\n";
     push @samples,$sampleID;
     print "Rscript run.getBamCount.R $sampleID $bam &\n";
+    print "Rscript run.getBamCount.X.R $sampleID $bam &\n";
   }else{
     print STDERR "skip $sampleID : can not find $bam\n";
   }
