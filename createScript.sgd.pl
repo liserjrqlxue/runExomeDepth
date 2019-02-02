@@ -8,11 +8,13 @@ my$project="B2C_SGD";
 
 my$indir=shift or die"$0 indir outdir\n";
 my$outdir=shift or die"$0 indir outdir\n";
+my$tag=shift;
 system("mkdir -p $outdir")==0 or die$!;
 
+open IN,"< $indir/name.hash" or die"no $indir/name.hash:$!\n";
 open SH,"> $outdir/run.sh" or die$!;
-open IN,"< $indir/name.hash" or die$!;
 open OUT,"> $outdir/sample.list.checked" or die$!;
+open LST,"> $outdir/all.CNV.calls.list" or die$!;
 
 my@samples;
 my%gender;
@@ -33,10 +35,10 @@ while(<IN>){
     push @{$gender{$gender}},$sampleID;
     print SH "  Rscript run.getBamCount.R $sampleID $bam $outdir &\n";
   }else{
-    print STDERR "skip $sampleID : can not find $bam\n";
+    print STDERR "# skip $sampleID : can not find $bam\n";
   }
 }
-print STDERR "load $sampleN samples\n";
+print STDERR "# load $sampleN samples\n";
 close IN;
 close OUT;
 print SH "wait\n";
@@ -45,6 +47,7 @@ print SH "Rscript run.getAllCounts.R $outdir/sample.list.checked $outdir\n";
 print SH "# call CNVs for each sample\n";
 for(@samples){
   print SH "  Rscript run.getCNVs.R $_ $outdir &\n";
+  print LST "$_.CNV.calls.tsv\n";
 }
 print SH "wait\n";
 
@@ -63,10 +66,25 @@ for my$gender(keys%gender){
   print SH "# call CNVs for each sample\n";
   for(@samples){
     print SH "  Rscript run.getCNVs.X.R $_ $gender $outdir &\n";
+    print LST "$_.$gender.CNV.calls.tsv\n";
   }
   print SH "wait\n";
 }
-print STDERR "submit:\nqsub -cwd -l vf=".($sampleN*2)."G,p=$sampleN -P $project -N ExomeDepth $outdir/run.sh\n";
+close LST;
+
+my$CNV_anno="/share/backup/wangyaoshen/src/CNV_anno";
+print SH
+"# anno cnv\n",
+"perl $CNV_anno/script/add_cn_split_gene.batch.pl ",
+"$outdir/all.CNV.calls.list ",
+"$outdir/sample.list.checked ",
+"$CNV_anno/database/database.gene.list.NM ",
+"$CNV_anno/database/gene_exon.bed ",
+"$CNV_anno/database/OMIM/OMIM.xls ",
+"$outdir/all.CNV.calls.anno\n";
+
+print STDERR "# submit cmd:\nqsub -cwd -l vf=".($sampleN*2)."G,p=$sampleN -P $project -N ExomeDepth.$tag $outdir/run.sh\n";
+close SH;
 __END__
 #样品编号	样品比对结果bam文件路径
 15D6652318	/ifs7/B2C_SGD/PROJECT/PP12_Project/WES/20180713_all/15D6652318/bwa/15D6652318.final.bam
