@@ -2,18 +2,24 @@
 #
 use strict;
 use warnings;
+
+my$project="B2C_SGD";
+
+
 my$indir=shift or die"$0 indir outdir\n";
 my$outdir=shift or die"$0 indir outdir\n";
-system("mkdir -p $outdir")==0
-or die$!;
+system("mkdir -p $outdir")==0 or die$!;
 
-print "#!/bin/bash\nexport PATH=/share/backup/wangyaoshen/local/bin:\$PATH\n";
+open SH,"> $outdir/run.sh" or die$!;
+open IN,"< $indir/name.hash" or die$!;
+open OUT,"> $outdir/sample.list.checked" or die$!;
+
 my@samples;
 my%gender;
 my%bamPath;
-open IN,"< $indir/name.hash" or die$!;
-open OUT,"> $outdir/sample.list.checked" or die$!;
-print "\n# reads count for each sample\n";
+
+print SH "#!/bin/bash\nexport PATH=/share/backup/wangyaoshen/local/bin:\$PATH\n";
+print SH "\n# reads count for each sample\n";
 my$sampleN=0;
 while(<IN>){
   chomp;
@@ -25,7 +31,7 @@ while(<IN>){
     print OUT join("\t",$sampleID,$bam,$gender),"\n";
     push @samples,$sampleID;
     push @{$gender{$gender}},$sampleID;
-    print "  Rscript run.getBamCount.R $sampleID $bam $outdir &\n";
+    print SH "  Rscript run.getBamCount.R $sampleID $bam $outdir &\n";
   }else{
     print STDERR "skip $sampleID : can not find $bam\n";
   }
@@ -33,33 +39,34 @@ while(<IN>){
 print STDERR "load $sampleN samples\n";
 close IN;
 close OUT;
-print "wait\n";
+print SH "wait\n";
 
-print "Rscript run.getAllCounts.R $outdir/sample.list.checked $outdir\n";
-print "# call CNVs for each sample\n";
+print SH "Rscript run.getAllCounts.R $outdir/sample.list.checked $outdir\n";
+print SH "# call CNVs for each sample\n";
 for(@samples){
-  print "  Rscript run.getCNVs.R $_ $outdir &\n";
+  print SH "  Rscript run.getCNVs.R $_ $outdir &\n";
 }
-print "wait\n";
+print SH "wait\n";
 
 
 for my$gender(keys%gender){
-  print "\n# reads count for each sample with gender $gender\n";
+  print SH "\n# reads count for each sample with gender $gender\n";
   my@samples=@{$gender{$gender}};
 
   for my$sampleID(@samples){
     my$bam=$bamPath{$sampleID};
-    print "  Rscript run.getBamCount.X.R $sampleID $bam $gender $outdir &\n";
+    print SH "  Rscript run.getBamCount.X.R $sampleID $bam $gender $outdir &\n";
   }
-  print "wait\n";
+  print SH "wait\n";
 
-  print "Rscript run.getAllCounts.X.R $outdir/sample.list.checked $gender $outdir\n";
-  print "# call CNVs for each sample\n";
+  print SH "Rscript run.getAllCounts.X.R $outdir/sample.list.checked $gender $outdir\n";
+  print SH "# call CNVs for each sample\n";
   for(@samples){
-    print "  Rscript run.getCNVs.X.R $_ $gender $outdir &\n";
+    print SH "  Rscript run.getCNVs.X.R $_ $gender $outdir &\n";
   }
-  print "wait\n";
+  print SH "wait\n";
 }
+print STDERR "submit:\nqsub -cwd -l vf=".($sampleN*2)."G,p=$sampleN -P $project -N ExomeDepth $outdir/run.sh\n";
 __END__
 #样品编号	样品比对结果bam文件路径
 15D6652318	/ifs7/B2C_SGD/PROJECT/PP12_Project/WES/20180713_all/15D6652318/bwa/15D6652318.final.bam
