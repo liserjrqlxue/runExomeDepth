@@ -10,35 +10,53 @@ or die$!;
 print "#!/bin/bash\nexport PATH=/share/backup/wangyaoshen/local/bin:\$PATH\n";
 my@samples;
 my%gender;
+my%bamPath;
 open IN,"< $indir/name.hash" or die$!;
 open OUT,"> $outdir/sample.list.checked" or die$!;
+print "\n# reads count for each sample\n";
+my$sampleN=0;
 while(<IN>){
   chomp;
   my($sampleID,$gender)=split /\t/,$_;
   my$bam="$indir/$sampleID/bwa/$sampleID.final.bam";
+  $bamPath{$sampleID}=$bam;
   if(-e $bam){
+    $sampleN++;
     print OUT join("\t",$sampleID,$bam,$gender),"\n";
     push @samples,$sampleID;
     push @{$gender{$gender}},$sampleID;
-    print "Rscript run.getBamCount.R $sampleID $bam $outdir &\n";
-    print "Rscript run.getBamCount.X.R $sampleID $bam $gender $outdir &\n";
+    print "  Rscript run.getBamCount.R $sampleID $bam $outdir &\n";
   }else{
     print STDERR "skip $sampleID : can not find $bam\n";
   }
 }
+print STDERR "load $sampleN samples\n";
 close IN;
 close OUT;
 print "wait\n";
+
 print "Rscript run.getAllCounts.R $outdir/sample.list.checked $outdir\n";
+print "# call CNVs for each sample\n";
 for(@samples){
-  print "Rscript run.getCNVs.R $_ $outdir &\n";
+  print "  Rscript run.getCNVs.R $_ $outdir &\n";
 }
 print "wait\n";
+
+
 for my$gender(keys%gender){
-  print "Rscript run.getAllCounts.X.R $outdir/sample.list.checked $gender $outdir\n";
+  print "\n# reads count for each sample with gender $gender\n";
   my@samples=@{$gender{$gender}};
+
+  for my$sampleID(@samples){
+    my$bam=$bamPath{$sampleID};
+    print "  Rscript run.getBamCount.X.R $sampleID $bam $gender $outdir &\n";
+  }
+  print "wait\n";
+
+  print "Rscript run.getAllCounts.X.R $outdir/sample.list.checked $gender $outdir\n";
+  print "# call CNVs for each sample\n";
   for(@samples){
-    print "Rscript run.getCNVs.X.R $_ $gender $outdir &\n";
+    print "  Rscript run.getCNVs.X.R $_ $gender $outdir &\n";
   }
   print "wait\n";
 }
