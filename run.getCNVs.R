@@ -1,15 +1,26 @@
 args=commandArgs(T)
 sampleID=args[1]
-outdir=args[2]
+tag=args[2]
+outdir=args[3]
+
+suffix=".my.count.rds"
+suffix=paste0(".",tag,suffix)
+
 library(ExomeDepth)
-data(exons.hg19)
+if(tag=="A"){
+	data(exons.hg19)
+	exons=exons.hg19
+}else{
+	data(exons.hg19.X)
+	exons=exons.hg19.X
+}
 data(Conrad.hg19)
 exons.hg19.GRanges <- GenomicRanges::GRanges(
-    seqnames = exons.hg19$chromosome,
-    IRanges::IRanges(start=exons.hg19$start,end=exons.hg19$end),
-    names = exons.hg19$name
+    seqnames = exons$chromosome,
+    IRanges::IRanges(start=exons$start,end=exons$end),
+    names = exons$name
     )
-my.counts.matrix <- readRDS(file=paste0(outdir,"/",'all',".my.counts.rds"))
+my.counts.matrix <- readRDS(file=paste0(outdir,"/",'all',suffix))
 samples <- colnames(my.counts.matrix)
 for(i in 1:length(samples)){
     if(sampleID!=samples[i]){
@@ -18,8 +29,8 @@ for(i in 1:length(samples)){
     my.choice <- select.reference.set(
         test.counts = my.counts.matrix[,i],
         reference.counts = my.counts.matrix[,-i],
-        bin.length = (exons.hg19$end - exons.hg19$start)/1000,
-        n.bins.reduced = 10000
+        bin.length = (exons$end - exons$start)/1000,
+        #n.bins.reduced = 10000
         )
     my.reference.selected <- apply(
         X = my.counts.matrix[,my.choice$reference.choice,drop=FALSE],
@@ -37,10 +48,10 @@ for(i in 1:length(samples)){
     all.exons <- CallCNVs(
         x = all.exons,
         transition.probability = 10^-4,
-        chromosome = exons.hg19$chromosome,
-        start = exons.hg19$start+1,
-        end = exons.hg19$end,
-        name = exons.hg19$name
+        chromosome = exons$chromosome,
+        start = exons$start+1,
+        end = exons$end,
+        name = exons$name
         )
 ######## Now annotate the ExomeDepth object
     all.exons <- AnnotateExtra(
@@ -55,7 +66,7 @@ for(i in 1:length(samples)){
         min.overlap = 0.0001,
         column.name = 'exons.hg19'
         )
-    output.file <- paste0(outdir,"/",sampleID,'.CNV.calls.tsv')
+    output.file <- paste0(outdir,"/",sampleID,".",tag,'.CNV.calls.tsv')
     write.table(file=output.file,x=all.exons@CNV.calls,row.names=F,sep="\t",quote=F)
-    saveRDS(all.exons,file=paste0(outdir,"/",sampleID,'.all.exons.rds'))
+    saveRDS(all.exons,file=paste0(outdir,"/",sampleID,".",tag,'.all.exons.rds'))
 }
