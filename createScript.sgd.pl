@@ -3,6 +3,8 @@
 use strict;
 use warnings;
 
+use FindBin qw($Bin);
+
 my$project="B2C_SGD";
 
 
@@ -33,7 +35,7 @@ while(<IN>){
     print OUT join("\t",$sampleID,$bam,$gender),"\n";
     push @samples,$sampleID;
     push @{$gender{$gender}},$sampleID;
-    print SH "  Rscript run.getBamCount.R $sampleID $bam $outdir &\n";
+    print SH "  Rscript $Bin/run.getBamCount.R $sampleID $bam $outdir $Bin &\n";
   }else{
     print STDERR "# skip $sampleID : can not find $bam\n";
   }
@@ -43,10 +45,10 @@ close IN;
 close OUT;
 print SH "wait\n";
 
-print SH "Rscript run.getAllCounts.R $outdir/sample.list.checked $outdir\n";
+print SH "Rscript $Bin/run.getAllCounts.R $outdir/sample.list.checked $outdir $Bin\n";
 print SH "# call CNVs for each sample\n";
 for(@samples){
-  print SH "  Rscript run.getCNVs.R $_ $outdir &\n";
+  print SH "  Rscript $Bin/run.getCNVs.R $_ $outdir $Bin &\n";
   print LST "$_.CNV.calls.tsv\n";
 }
 print SH "wait\n";
@@ -58,14 +60,14 @@ for my$gender(keys%gender){
 
   for my$sampleID(@samples){
     my$bam=$bamPath{$sampleID};
-    print SH "  Rscript run.getBamCount.X.R $sampleID $bam $gender $outdir &\n";
+    print SH "  Rscript $Bin/run.getBamCount.X.R $sampleID $bam $gender $outdir $Bin &\n";
   }
   print SH "wait\n";
 
-  print SH "Rscript run.getAllCounts.X.R $outdir/sample.list.checked $gender $outdir\n";
+  print SH "Rscript $Bin/run.getAllCounts.X.R $outdir/sample.list.checked $gender $outdir $Bin\n";
   print SH "# call CNVs for each sample\n";
   for(@samples){
-    print SH "  Rscript run.getCNVs.X.R $_ $gender $outdir &\n";
+    print SH "  Rscript $Bin/run.getCNVs.X.R $_ $gender $outdir $Bin &\n";
     print LST "$_.$gender.CNV.calls.tsv\n";
   }
   print SH "wait\n";
