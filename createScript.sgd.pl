@@ -22,7 +22,11 @@ my@samples;
 my%gender;
 my%bamPath;
 
-print SH "#!/bin/bash\nexport PATH=/share/backup/wangyaoshen/local/bin:\$PATH\n";
+print SH 
+	"#!/bin/bash\nexport PATH=/share/backup/wangyaoshen/local/bin:\$PATH\n",
+	"Bin=$Bin\n",
+	"outdir=$outdir\n";
+
 print SH "\n# reads count for each sample\n";
 my$sampleN=0;
 while(<IN>){
@@ -35,7 +39,7 @@ while(<IN>){
     print OUT join("\t",$sampleID,$bam,$gender),"\n";
     push @samples,$sampleID;
     push @{$gender{$gender}},$sampleID;
-    print SH "  Rscript $Bin/run.getBamCount.R $sampleID $bam A $outdir $Bin &\n";
+    print SH "  Rscript \$Bin/run.getBamCount.R $sampleID $bam A \$outdir \$Bin &\n";
   }else{
     print STDERR "# skip $sampleID : can not find $bam\n";
   }
@@ -45,11 +49,11 @@ close IN;
 close OUT;
 print SH "wait\n";
 
-print SH "Rscript $Bin/run.getAllCounts.R $outdir/sample.list.checked A $outdir\n";
+print SH "Rscript \$Bin/run.getAllCounts.R \$outdir/sample.list.checked A \$outdir\n";
 print SH "# call CNVs for each sample\n";
 for(@samples){
-  print SH "  Rscript $Bin/run.getCNVs.R $_ A $outdir&\n";
-  print LST "$_.CNV.calls.tsv\n";
+  print SH "  Rscript \$Bin/run.getCNVs.R $_ A \$outdir&\n";
+  print LST "$_.A.CNV.calls.tsv\n";
 }
 print SH "wait\n";
 
@@ -60,14 +64,14 @@ for my$gender(keys%gender){
 
   for my$sampleID(@samples){
     my$bam=$bamPath{$sampleID};
-    print SH "  Rscript $Bin/run.getBamCount.R $sampleID $bam $gender $outdir $Bin &\n";
+    print SH "  Rscript \$Bin/run.getBamCount.R $sampleID $bam $gender \$outdir \$Bin &\n";
   }
   print SH "wait\n";
 
-  print SH "Rscript $Bin/run.getAllCounts.R $outdir/sample.list.checked $gender $outdir\n";
+  print SH "Rscript \$Bin/run.getAllCounts.R \$outdir/sample.list.checked $gender \$outdir\n";
   print SH "# call CNVs for each sample\n";
   for(@samples){
-    print SH "  Rscript $Bin/run.getCNVs.R $_ $gender $outdir &\n";
+    print SH "  Rscript \$Bin/run.getCNVs.R $_ $gender \$outdir &\n";
     print LST "$_.$gender.CNV.calls.tsv\n";
   }
   print SH "wait\n";
@@ -77,15 +81,16 @@ close LST;
 my$CNV_anno="/share/backup/wangyaoshen/src/CNV_anno";
 print SH
 "# anno cnv\n",
+"CNV_anno=$CNV_anno\n",
 "perl $CNV_anno/script/add_cn_split_gene.batch.pl ",
-"$outdir/all.CNV.calls.list ",
-"$outdir/sample.list.checked ",
-"$CNV_anno/database/database.gene.list.NM ",
-"$CNV_anno/database/gene_exon.bed ",
-"$CNV_anno/database/OMIM/OMIM.xls ",
-"$outdir/all.CNV.calls.anno\n";
+"\$outdir/all.CNV.calls.list ",
+"\$outdir/sample.list.checked ",
+"\$CNV_anno/database/database.gene.list.NM ",
+"\$CNV_anno/database/gene_exon.bed ",
+"\$CNV_anno/database/OMIM/OMIM.xls ",
+"\$outdir/all.CNV.calls.anno\n";
 
-print STDERR "# submit cmd:\nqsub -cwd -l vf=".($sampleN*2)."G,p=$sampleN -P $project -N ExomeDepth.$tag $outdir/run.sh\n";
+#print STDERR "# submit cmd:\nqsub -cwd -l vf=".($sampleN*2.2)."G,p=$sampleN -P $project -N ExomeDepth.$tag $outdir/run.sh\n";
 close SH;
 __END__
 #样品编号	样品比对结果bam文件路径
