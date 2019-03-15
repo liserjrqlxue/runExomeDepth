@@ -12,18 +12,28 @@ Rscript run.R bam.list bai.list
   * Input:  
 `ref` as hg19 reference file
   * Output:  
-`exons.hg19.target.rds`  
-`exons.hg19.rdata.rds`
+`exons.hg19.A.target.rds`  
+`exons.hg19.A.rdata.rds`
+`exons.hg19.X.target.rds`  
+`exons.hg19.X.rdata.rds`
   * Script:  
 ```R
 library(ExomeDepth)
 data(exons.hg19)
+data(exons.hg19.X)
 source("getBins.R")
 ref='hg19.fa'
 getBins(
     bed.frame = exons.hg19,
     include.chr = T,
-    referenceFasta = ref
+    referenceFasta = ref,
+    prefix="exons.hg19.A"
+    )
+getBins(
+    bed.frame = exons.hg19.X,
+    include.chr = T,
+    referenceFasta = ref,
+    prefix="exons.hg19.X"
     )
 ```
 
