@@ -19,7 +19,6 @@ if(length(args)>4){
 	}
 }else{
 	source("getBamCount.R")
-	target <- readRDS("exons.hg19.target.rds")
 	if(tag=="A"){
 		target <- readRDS("exons.hg19.A.target.rds")
 	}else{
