@@ -114,7 +114,13 @@ print SH
 "\$CNV_anno/database/database.gene.list.NM ",
 "\$CNV_anno/database/gene_exon.bed ",
 "\$CNV_anno/database/OMIM/OMIM.xls ",
+"\$outdir/all.CNV.calls.anno.withoutHGMD\n";
+print SH
+"perl $CNV_anno/script/add_HGMD_gross.pl ",
+"\$outdir/all.CNV.calls.anno.withoutHGMD ",
+"$CNV_anno/database/hgmd-gross_all-ex1-20190426.tsv ",
 "\$outdir/all.CNV.calls.anno\n";
+
 
 #print STDERR "# submit cmd:\nqsub -cwd -l vf=".($sampleN*2.2)."G,p=$sampleN -P $project -N ExomeDepth.$tag $outdir/run.sh\n";
 close SH;
