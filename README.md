@@ -36,6 +36,10 @@ getBins(
     prefix="exons.hg19.X"
     )
 ```
+or
+```shell
+Rscript init.R hg19.fa
+```
 
 2. run getBamCounts parallel for each sample
   * Input:  
