@@ -25,8 +25,16 @@ close SL;
 open SH,"> $outdir/$sampleID/run.sh" or die$!;
 open LST,"> $outdir/$sampleID/all.CNV.calls.list" or die$!;
 
+
+
 print SH
-  "#!/bin/bash\nexport PATH=/share/backup/wangyaoshen/local/bin:\$PATH\n",
+  "#!/bin/bash\n",
+  "export LOCAL=/home/wangyaoshen/local\n",
+  "export GCC=\$LOCAL/gcc-8.2.0\n",
+  "export PATH=\$GCC/bin:\$LOCAL/bin:\$PATH\n",
+  "export CPATH=\$GCC/include:\$LOCAL/include\n",
+  "export LIBRARY_PATH=\$GCC/lib64:\$GCC/lib:\$LOCAL/lib64:\$LOCAL/lib:\$LIBRARY_PATH\n",
+  "export LD_LIBRARY_PATH=\$GCC/lib64:\$GCC/lib:\$LOCAL/lib64:\$LOCAL/lib:\$LD_LIBRARY_PATH\n",
   "Bin=$Bin\n",
   "outdir=$outdir/$sampleID\n";
 
