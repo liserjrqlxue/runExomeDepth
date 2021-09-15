@@ -53,20 +53,24 @@ all.exons <- CallCNVs(
         )
 corValue=cor(all.exons@reference,all.exons@test)
 ######## Now annotate the ExomeDepth object
-all.exons <- AnnotateExtra(
-        x = all.exons,
-        reference.annotation = Conrad.hg19.common.CNVs,
-        min.overlap = 0.5,
-        column.name = 'Conrad.hg19'
-        )
-all.exons <- AnnotateExtra(
-        x = all.exons,
-        reference.annotation = exons.hg19.GRanges,
-        min.overlap = 0.0001,
-        column.name = 'exons.hg19'
-        )
+if(nrow(all.exons@CNV.calls)>0){
+	all.exons <- AnnotateExtra(
+		x = all.exons,
+		reference.annotation = Conrad.hg19.common.CNVs,
+		min.overlap = 0.5,
+		column.name = 'Conrad.hg19'
+		)
+	all.exons <- AnnotateExtra(
+		x = all.exons,
+		reference.annotation = exons.hg19.GRanges,
+		min.overlap = 0.0001,
+		column.name = 'exons.hg19'
+		)
+}
 output.file <- paste0(outdir,"/",sampleID,".",tag,'.CNV.calls.tsv')
 saveRDS(all.exons,file=paste0(outdir,"/",sampleID,".",tag,'.all.exons.rds'))
 if(corValue>=0.97){
 	write.table(file=output.file,x=all.exons@CNV.calls,row.names=F,sep="\t",quote=F)
+}else{
+	message("low correlation value and skip")
 }
