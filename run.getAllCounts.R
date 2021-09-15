@@ -12,7 +12,7 @@ if(tag=="A"){
 }else{
 	binCount=6656
 	samplesInfo<-read.table(sample.list,stringsAsFactors=F)
-	samples<-samplesInfo[samplesInfo$V3==tag,1]
+	samples<-samplesInfo[samplesInfo$V2==tag,1]
 }
 
 library(ExomeDepth)
