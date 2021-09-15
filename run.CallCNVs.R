@@ -7,7 +7,8 @@ exons.hg19.GRanges <- GenomicRanges::GRanges(
     IRanges::IRanges(start=exons.hg19$start,end=exons.hg19$end),
     names = exons.hg19$name
     )
-my.counts.matrix <- readRDS(file=paste0('all',".my.counts.rds"))
+#my.counts.matrix <- readRDS(file=paste0('all',".my.counts.rds"))
+my.counts.matrix <- readRDS(file=args[1])
 samples <- colnames(my.counts.matrix)
 for(i in 1:length(samples)){
     sampleID=samples[i]
