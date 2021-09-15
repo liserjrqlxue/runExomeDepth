@@ -28,7 +28,7 @@ for(i in 1:length(samples)){
     }
     my.choice <- select.reference.set(
         test.counts = my.counts.matrix[,i],
-        reference.counts = my.counts.matrix[,-i],
+        reference.counts = as.matrix(my.counts.matrix[,-i]),
         bin.length = (exons$end - exons$start)/1000,
         #n.bins.reduced = 10000
         )
