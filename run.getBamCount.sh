@@ -11,6 +11,4 @@ outDir=$4
 
 mkdir -p $outDir
 
-Rscript $Bin/run.getBamCount.R $sampleID $bam  A       $outDir $Bin 
-
-Rscript $Bin/run.getBamCount.R $sampleID $bam  $gender $outDir $Bin 
+Rscript $Bin/run.getBamCount.R $sampleID $bam $gender $outDir $Bin
