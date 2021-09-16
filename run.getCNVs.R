@@ -53,19 +53,21 @@ for(i in 1:length(samples)){
         end = exons$end,
         name = exons$name
         )
+    if(nrow(all.exons@CNV.calls)>0){
 ######## Now annotate the ExomeDepth object
-    all.exons <- AnnotateExtra(
-        x = all.exons,
-        reference.annotation = Conrad.hg19.common.CNVs,
-        min.overlap = 0.5,
-        column.name = 'Conrad.hg19'
-        )
-    all.exons <- AnnotateExtra(
-        x = all.exons,
-        reference.annotation = exons.hg19.GRanges,
-        min.overlap = 0.0001,
-        column.name = 'exons.hg19'
-        )
+        all.exons <- AnnotateExtra(
+            x = all.exons,
+            reference.annotation = Conrad.hg19.common.CNVs,
+            min.overlap = 0.5,
+            column.name = 'Conrad.hg19'
+            )
+        all.exons <- AnnotateExtra(
+            x = all.exons,
+            reference.annotation = exons.hg19.GRanges,
+            min.overlap = 0.0001,
+            column.name = 'exons.hg19'
+            )
+    }
     output.file <- paste0(outdir,"/",sampleID,".",tag,'.CNV.calls.tsv')
     write.table(file=output.file,x=all.exons@CNV.calls,row.names=F,sep="\t",quote=F)
     saveRDS(all.exons,file=paste0(outdir,"/",sampleID,".",tag,'.all.exons.rds'))
