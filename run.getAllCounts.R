@@ -11,15 +11,19 @@ if(tag=="A"){
 	samples<-read.table(sample.list,stringsAsFactors=F)[,1]
 }else{
 	binCount=6656
-	samplesInfo<-read.table(sample.list,stringsAsFactors=F)
+	samplesInfo<-read.table(sample.list,stringsAsFactors=F,colClasses = c("character"))
 	samples<-samplesInfo[samplesInfo$V2==tag,1]
 }
 
 library(ExomeDepth)
 my.counts.matrix <- matrix(ncol=length(samples),nrow=binCount)
 colnames(my.counts.matrix) <- samples
-for(i in 1:length(samples)){
-    message("load ",paste0(outdir,"/",samples[i],suffix))
-    my.counts.matrix[,i] <- readRDS(paste0(outdir,"/",samples[i],suffix))
+if(length(samples)>0){
+	for(i in 1:length(samples)){
+	    message("load ",paste0(outdir,"/",samples[i],suffix))
+	    my.counts.matrix[,i] <- readRDS(paste0(outdir,"/",samples[i],suffix))
+	}
+}else{
+    message("no ",paste0(suffix)," to load!")
 }
 saveRDS(my.counts.matrix,file=paste0(outdir,"/",'all',suffix))
