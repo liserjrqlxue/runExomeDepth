@@ -26,4 +26,11 @@ if(length(samples)>0){
 }else{
     message("no ",paste0(suffix)," to load!")
 }
+
+if(length(args)>3){
+	controlDir=args[4]
+	controlMatrix<-readRDS(paste0(controlDir,"/all",suffix))
+	my.counts.matrix<-cbind(my.counts.matrix,controlMatrix)
+}
+
 saveRDS(my.counts.matrix,file=paste0(outdir,"/",'all',suffix))
