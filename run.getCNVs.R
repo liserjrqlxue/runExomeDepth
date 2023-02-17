@@ -21,6 +21,10 @@ exons.hg19.GRanges <- GenomicRanges::GRanges(
     names = exons$name
     )
 my.counts.matrix <- readRDS(file=paste0(outdir,"/",'all',suffix))
+if(ncol(my.counts.matrix)<2){
+    message("no enough samples for cal ",tag," CNV")
+    quit("no")
+}
 samples <- colnames(my.counts.matrix)
 for(i in 1:length(samples)){
     if(sampleID!=samples[i]){
