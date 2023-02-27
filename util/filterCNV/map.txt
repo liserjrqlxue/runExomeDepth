@@ -1,0 +1,1133 @@
+chr	start	end	Gene	Genomic coordinates (hg19)	GC	meanMappability	Mim Number	MIM Phenotypes	MIM Inheritance
+chr1	1447649	1447853	ATAD3A	chr1:1447649-1447853	0.746341463	0.656863	612316	"Harel-Yoon syndrome, 617183 (3)"	"AR, AD"
+chr1	1451392	1451468	ATAD3A	chr1:1451392-1451468	0.545454545	0.539474	612316	"Harel-Yoon syndrome, 617183 (3)"	"AR, AD"
+chr1	1452547	1452792	ATAD3A	chr1:1452547-1452792	0.658536585	0.638776	612316	"Harel-Yoon syndrome, 617183 (3)"	"AR, AD"
+chr1	1453096	1453155	ATAD3A	chr1:1453096-1453155	0.616666667	0.5	612316	"Harel-Yoon syndrome, 617183 (3)"	"AR, AD"
+chr1	1454301	1454370	ATAD3A	chr1:1454301-1454370	0.542857143	0.5	612316	"Harel-Yoon syndrome, 617183 (3)"	"AR, AD"
+chr1	1455928	1455997	ATAD3A	chr1:1455928-1455997	0.571428571	0.722222	612316	"Harel-Yoon syndrome, 617183 (3)"	"AR, AD"
+chr1	1459653	1459777	ATAD3A	chr1:1459653-1459777	0.656	0.333333	612316	"Harel-Yoon syndrome, 617183 (3)"	"AR, AD"
+chr1	1461841	1461911	ATAD3A	chr1:1461841-1461911	0.591549296	0.5	612316	"Harel-Yoon syndrome, 617183 (3)"	"AR, AD"
+chr1	1464603	1464711	ATAD3A	chr1:1464603-1464711	0.678899083	0.49537	612316	"Harel-Yoon syndrome, 617183 (3)"	"AR, AD"
+chr1	8684369	8684439	RERE	chr1:8684369-8684439	0.436619718	0.738095	605226	"Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart, 616975 (3)"	AD
+chr1	16353031	16353108	CLCNKA	chr1:16353031-16353108	0.641025641	0.688312	602024	"Bartter syndrome, type 4b, digenic, 613090 (3)"	Digenic recessive
+chr1	16353192	16353270	CLCNKA	chr1:16353192-16353270	0.594936709	0.653846	602024	"Bartter syndrome, type 4b, digenic, 613090 (3)"	Digenic recessive
+chr1	16354316	16354400	CLCNKA	chr1:16354316-16354400	0.552941176	0.5	602024	"Bartter syndrome, type 4b, digenic, 613090 (3)"	Digenic recessive
+chr1	16355621	16355794	CLCNKA	chr1:16355621-16355794	0.597701149	0.66474	602024	"Bartter syndrome, type 4b, digenic, 613090 (3)"	Digenic recessive
+chr1	16356956	16357169	CLCNKA	chr1:16356956-16357169	0.61682243	0.673709	602024	"Bartter syndrome, type 4b, digenic, 613090 (3)"	Digenic recessive
+chr1	16374838	16374915	CLCNKB	chr1:16374838-16374915	0.653846154	0.688312	602023	"Bartter syndrome, type 3, 607364 (3)/ Bartter syndrome, type 4b, digenic, 613090 (3)"	AR/Digenic recessive
+chr1	16374999	16375077	CLCNKB	chr1:16374999-16375077	0.594936709	0.653846	602023	"Bartter syndrome, type 3, 607364 (3)/ Bartter syndrome, type 4b, digenic, 613090 (3)"	AR/Digenic recessive
+chr1	16376113	16376197	CLCNKB	chr1:16376113-16376197	0.552941176	0.5	602023	"Bartter syndrome, type 3, 607364 (3)/ Bartter syndrome, type 4b, digenic, 613090 (3)"	AR/Digenic recessive
+chr1	16377370	16377543	CLCNKB	chr1:16377370-16377543	0.603448276	0.66474	602023	"Bartter syndrome, type 3, 607364 (3)/ Bartter syndrome, type 4b, digenic, 613090 (3)"	AR/Digenic recessive
+chr1	16378693	16378906	CLCNKB	chr1:16378693-16378906	0.626168224	0.673709	602023	"Bartter syndrome, type 3, 607364 (3)/ Bartter syndrome, type 4b, digenic, 613090 (3)"	AR/Digenic recessive
+chr1	22404972	22405076	CDC42	chr1:22404972-22405076	0.40952381	0.673878	116952	"Takenouchi-Kosaki syndrome, 616737 (3)"	
+chr1	22408215	22408287	CDC42	chr1:22408215-22408287	0.383561644	0.699074	116952	"Takenouchi-Kosaki syndrome, 616737 (3)"	
+chr1	22412932	22413041	CDC42	chr1:22412932-22413041	0.390909091	0.622324	116952	"Takenouchi-Kosaki syndrome, 616737 (3)"	
+chr1	22413162	22413359	CDC42	chr1:22413162-22413359	0.474747475	0.616751	116952	"Takenouchi-Kosaki syndrome, 616737 (3)"	
+chr1	22417921	22418010	CDC42	chr1:22417921-22418010	0.5	0.567416	116952	"Takenouchi-Kosaki syndrome, 616737 (3)"	
+chr1	25689018	25689044	RHCE	chr1:25689018-25689044	0.333333333	0.5	111700	"[Blood group, Rhesus], 111690 (3)/ Rh-null disease, amorph type (3)"	
+chr1	25701840	25701919	RHCE	chr1:25701840-25701919	0.5625	0.607595	111700	"[Blood group, Rhesus], 111690 (3)/ Rh-null disease, amorph type (3)"	
+chr1	25715467	25715604	RHCE	chr1:25715467-25715604	0.623188406	0.583942	111700	"[Blood group, Rhesus], 111690 (3)/ Rh-null disease, amorph type (3)"	
+chr1	25747130	25747277	RHCE	chr1:25747130-25747277	0.533783784	0.619048	111700	"[Blood group, Rhesus], 111690 (3)/ Rh-null disease, amorph type (3)"	
+chr1	26128507	26128608	SEPN1	chr1:26128507-26128608	0.568627451	0.660066	606210	"Muscular dystrophy, rigid spine, 1, 602771 (3)/ Myopathy, congenital, with fiber-type disproportion, 255310 (3)"	"AR/AR, AD"
+chr1	33486968	33487062	AK2	chr1:33486968-33487062	0.463157895	0.648936	103020	"Reticular dysgenesis, 267500 (3)"	AR
+chr1	33487194	33487304	AK2	chr1:33487194-33487304	0.477477477	0.606061	103020	"Reticular dysgenesis, 267500 (3)"	AR
+chr1	33490043	33490168	AK2	chr1:33490043-33490168	0.515873016	0.626667	103020	"Reticular dysgenesis, 267500 (3)"	AR
+chr1	33502337	33502429	AK2	chr1:33502337-33502429	0.688172043	0.722826	103020	"Reticular dysgenesis, 267500 (3)"	AR
+chr1	93298946	93299015	RPL5	chr1:93298946-93299015	0.357142857	0.519324	603634	"Diamond-Blackfan anemia 6, 612561 (3)"	AD
+chr1	93300336	93300470	RPL5	chr1:93300336-93300470	0.511111111	0.685945	603634	"Diamond-Blackfan anemia 6, 612561 (3)"	AD
+chr1	93301747	93301949	RPL5	chr1:93301747-93301949	0.492610837	0.528878	603634	"Diamond-Blackfan anemia 6, 612561 (3)"	AD
+chr1	93303013	93303190	RPL5	chr1:93303013-93303190	0.398876404	0.570151	603634	"Diamond-Blackfan anemia 6, 612561 (3)"	AD
+chr1	93306108	93306196	RPL5	chr1:93306108-93306196	0.382022472	0.483902	603634	"Diamond-Blackfan anemia 6, 612561 (3)"	AD
+chr1	93307323	93307422	RPL5	chr1:93307323-93307422	0.54	0.70202	603634	"Diamond-Blackfan anemia 6, 612561 (3)"	AD
+chr1	117149114	117149173	IGSF3	chr1:117149114-117149173	0.566666667	0.677966	603491	"?Lacrimal duct defect, 149700 (3)"	AR
+chr1	117158702	117159079	IGSF3	chr1:117158702-117159079	0.55026455	0.552829	603491	"?Lacrimal duct defect, 149700 (3)"	AR
+chr1	120539620	120539955	NOTCH2	chr1:120539620-120539955	0.553571429	0.708955	600275	"Alagille syndrome 2, 610205 (3)/ Hajdu-Cheney syndrome, 102500 (3)"	AD
+chr1	120547952	120548211	NOTCH2	chr1:120547952-120548211	0.55	0.625483	600275	"Alagille syndrome 2, 610205 (3)/ Hajdu-Cheney syndrome, 102500 (3)"	AD
+chr1	120572529	120572610	NOTCH2	chr1:120572529-120572610	0.451219512	0.5	600275	"Alagille syndrome 2, 610205 (3)/ Hajdu-Cheney syndrome, 102500 (3)"	AD
+chr1	145508207	145508284	RBM8A	chr1:145508207-145508284	0.615384615	0.720779	605313	"Thrombocytopenia-absent radius syndrome, 274000 (3)"	AR
+chr1	145509166	145509211	RBM8A	chr1:145509166-145509211	0.630434783	0.5	605313	"Thrombocytopenia-absent radius syndrome, 274000 (3)"	AR
+chr1	152275176	152287223	FLG	chr1:152275176-152287223	0.553452855	0.712792	135940	"{Dermatitis, atopic, susceptibility to, 2}, 605803 (3)/ Ichthyosis vulgaris, 146700 (3)"	/AD
+chr1	153963591	153963699	RPS27	chr1:153963591-153963699	0.504587156	0.330247	603702	"?Diamond-Blackfan anemia 17, 617409 (3)"	AD
+chr1	153964042	153964152	RPS27	chr1:153964042-153964152	0.486486486	0.322727	603702	"?Diamond-Blackfan anemia 17, 617409 (3)"	AD
+chr1	153964541	153964569	RPS27	chr1:153964541-153964569	0.482758621	0.0982143	603702	"?Diamond-Blackfan anemia 17, 617409 (3)"	AD
+chr1	154145384	154145454	TPM3	chr1:154145384-154145454	0.535211268	0.716667	191030	"CAP myopathy 1, 609284 (3)/ Myopathy, congenital, with fiber-type disproportion, 255310 (3)/ Nemaline myopathy 1, AD or recessive, 609284 (3)"	"AR, AD"
+chr1	154145560	154145677	TPM3	chr1:154145560-154145677	0.406779661	0.58547	191030	"CAP myopathy 1, 609284 (3)/ Myopathy, congenital, with fiber-type disproportion, 255310 (3)/ Nemaline myopathy 1, AD or recessive, 609284 (3)"	"AR, AD"
+chr1	155204786	155204891	GBA	chr1:155204786-155204891	0.547169811	0.5	606463	"Gaucher disease, perinatal lethal, 608013 (3)/ Gaucher disease, type I, 230800 (3)/ Gaucher disease, type II, 230900 (3)/ Gaucher disease, type III, 231000 (3)/ Gaucher disease, type IIIC, 231005 (3)/ {Lewy body dementia, susceptibility to}, 127750 (3)/ {Parkinson disease, late-onset, susceptibility to}, 168600 (3)"	"AR/AR/AR/AR/AR/AD/Isolated cases, Multifactorial"
+chr1	155204986	155205102	GBA	chr1:155204986-155205102	0.581196581	0.74569	606463	"Gaucher disease, perinatal lethal, 608013 (3)/ Gaucher disease, type I, 230800 (3)/ Gaucher disease, type II, 230900 (3)/ Gaucher disease, type III, 231000 (3)/ Gaucher disease, type IIIC, 231005 (3)/ {Lewy body dementia, susceptibility to}, 127750 (3)/ {Parkinson disease, late-onset, susceptibility to}, 168600 (3)"	"AR/AR/AR/AR/AR/AD/Isolated cases, Multifactorial"
+chr1	155207132	155207369	GBA	chr1:155207132-155207369	0.558823529	0.601266	606463	"Gaucher disease, perinatal lethal, 608013 (3)/ Gaucher disease, type I, 230800 (3)/ Gaucher disease, type II, 230900 (3)/ Gaucher disease, type III, 231000 (3)/ Gaucher disease, type IIIC, 231005 (3)/ {Lewy body dementia, susceptibility to}, 127750 (3)/ {Parkinson disease, late-onset, susceptibility to}, 168600 (3)"	"AR/AR/AR/AR/AR/AD/Isolated cases, Multifactorial"
+chr1	155208308	155208441	GBA	chr1:155208308-155208441	0.514925373	0.631579	606463	"Gaucher disease, perinatal lethal, 608013 (3)/ Gaucher disease, type I, 230800 (3)/ Gaucher disease, type II, 230900 (3)/ Gaucher disease, type III, 231000 (3)/ Gaucher disease, type IIIC, 231005 (3)/ {Lewy body dementia, susceptibility to}, 127750 (3)/ {Parkinson disease, late-onset, susceptibility to}, 168600 (3)"	"AR/AR/AR/AR/AR/AD/Isolated cases, Multifactorial"
+chr1	155210421	155210508	GBA	chr1:155210421-155210508	0.534090909	0.712644	606463	"Gaucher disease, perinatal lethal, 608013 (3)/ Gaucher disease, type I, 230800 (3)/ Gaucher disease, type II, 230900 (3)/ Gaucher disease, type III, 231000 (3)/ Gaucher disease, type IIIC, 231005 (3)/ {Lewy body dementia, susceptibility to}, 127750 (3)/ {Parkinson disease, late-onset, susceptibility to}, 168600 (3)"	"AR/AR/AR/AR/AR/AD/Isolated cases, Multifactorial"
+chr1	155289585	155289719	FDPS	chr1:155289585-155289719	0.533333333	0.715796	134629	"Porokeratosis 9, multiple types, 616631 (3)"	AD
+chr1	155580040	155580123	MSTO1	chr1:155580040-155580123	0.666666667	0.5	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155580216	155580351	MSTO1	chr1:155580216-155580351	0.669117647	0.5	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155580830	155580899	MSTO1	chr1:155580830-155580899	0.471428571	0.5	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155581007	155581082	MSTO1	chr1:155581007-155581082	0.5	0.5	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155581340	155581394	MSTO1	chr1:155581340-155581394	0.509090909	0.5	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155581480	155581618	MSTO1	chr1:155581480-155581618	0.532374101	0.5	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155581774	155581891	MSTO1	chr1:155581774-155581891	0.542372881	0.5	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155581973	155582107	MSTO1	chr1:155581973-155582107	0.585185185	0.708955	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155582635	155582766	MSTO1	chr1:155582635-155582766	0.545454545	0.591603	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155582840	155583024	MSTO1	chr1:155582840-155583024	0.578378378	0.586957	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155583253	155583357	MSTO1	chr1:155583253-155583357	0.552380952	0.5	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155583448	155583557	MSTO1	chr1:155583448-155583557	0.6	0.5	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155583850	155584064	MSTO1	chr1:155583850-155584064	0.6	0.5	617619	"Myopathy, mitochondrial, and ataxia, 617675 (3)"	"AR, AD"
+chr1	155631098	155631214	YY1AP1	chr1:155631098-155631214	0.461538462	0.5	607860	"Grange syndrome, 602531 (3)"	AR
+chr1	155642351	155642522	YY1AP1	chr1:155642351-155642522	0.48255814	0.567251	607860	"Grange syndrome, 602531 (3)"	AR
+chr1	155649200	155649303	YY1AP1	chr1:155649200-155649303	0.509615385	0.723301	607860	"Grange syndrome, 602531 (3)"	AR
+chr1	160105224	160105392	ATP1A2	chr1:160105224-160105392	0.591715976	0.713294	182340	"Alternating hemiplegia of childhood, 104290 (3)/ Migraine, familial basilar, 602481 (3)/ Migraine, familial hemiplegic, 2, 602481 (3)"	AD
+chr1	161310384	161310445	SDHC	chr1:161310384-161310445	0.548387097	0.693989	602413	"Gastrointestinal stromal tumor, 606764 (3)/ Paraganglioma and gastric stromal sarcoma, 606864 (3)/ Paragangliomas 3, 605373 (3)"	"AD, Isolated cases//AD"
+chr1	161326467	161326630	SDHC	chr1:161326467-161326630	0.5	0.741309	602413	"Gastrointestinal stromal tumor, 606764 (3)/ Paraganglioma and gastric stromal sarcoma, 606864 (3)/ Paragangliomas 3, 605373 (3)"	"AD, Isolated cases//AD"
+chr1	161332119	161332223	SDHC	chr1:161332119-161332223	0.523809524	0.413462	602413	"Gastrointestinal stromal tumor, 606764 (3)/ Paraganglioma and gastric stromal sarcoma, 606864 (3)/ Paragangliomas 3, 605373 (3)"	"AD, Isolated cases//AD"
+chr1	161476124	161476381	FCGR2A	chr1:161476124-161476381	0.593023256	0.653697	146790	"{Lupus nephritis, susceptibility to}, 152700 (3)/ {Malaria, severe, susceptibility to}, 611162 (3)/ {Pseudomonas aeruginosa, susceptibility to chronic infection by, in cystic fibrosis}, 219700 (3)"	AD//AR
+chr1	161487765	161487938	FCGR2A	chr1:161487765-161487938	0.454022989	0.627168	146790	"{Lupus nephritis, susceptibility to}, 152700 (3)/ {Malaria, severe, susceptibility to}, 611162 (3)/ {Pseudomonas aeruginosa, susceptibility to chronic infection by, in cystic fibrosis}, 219700 (3)"	AD//AR
+chr1	161518211	161518468	FCGR3A	chr1:161518211-161518468	0.550387597	0.715953	146740	"Immunodeficiency 20, 615707 (3)"	AR
+chr1	161633032	161633143	FCGR2B	chr1:161633032-161633143	0.544642857	0.5	604590	"{Malaria, resistance to}, 611162 (3)/ {Systemic lupus erythematosus, susceptibility to}, 152700 (3)"	/AD
+chr1	161640042	161640062	FCGR2B	chr1:161640042-161640062	0.619047619	0.5	604590	"{Malaria, resistance to}, 611162 (3)/ {Systemic lupus erythematosus, susceptibility to}, 152700 (3)"	/AD
+chr1	161641182	161641439	FCGR2B	chr1:161641182-161641439	0.585271318	0.538911	604590	"{Malaria, resistance to}, 611162 (3)/ {Systemic lupus erythematosus, susceptibility to}, 152700 (3)"	/AD
+chr1	161642765	161643019	FCGR2B	chr1:161642765-161643019	0.521568627	0.495407	604590	"{Malaria, resistance to}, 611162 (3)/ {Systemic lupus erythematosus, susceptibility to}, 152700 (3)"	/AD
+chr1	161643750	161643863	FCGR2B	chr1:161643750-161643863	0.535087719	0.445428	604590	"{Malaria, resistance to}, 611162 (3)/ {Systemic lupus erythematosus, susceptibility to}, 152700 (3)"	/AD
+chr1	161645047	161645103	FCGR2B	chr1:161645047-161645103	0.578947368	0.5	604590	"{Malaria, resistance to}, 611162 (3)/ {Systemic lupus erythematosus, susceptibility to}, 152700 (3)"	/AD
+chr1	196714947	196715129	CFH	chr1:196714947-196715129	0.431693989	0.519231	134370	"Basal laminar drusen, 126700 (3)/ Complement factor H deficiency, 609814 (3)/ {Hemolytic uremic syndrome, atypical, susceptibility to, 1}, 235400 (3)/ {Macular degeneration, age-related, 4}, 610698 (3)"	"AD/AR, AD/AR, AD/"
+chr1	196716241	196716443	CFH	chr1:196716241-196716443	0.39408867	0.683168	134370	"Basal laminar drusen, 126700 (3)/ Complement factor H deficiency, 609814 (3)/ {Hemolytic uremic syndrome, atypical, susceptibility to, 1}, 235400 (3)/ {Macular degeneration, age-related, 4}, 610698 (3)"	"AD/AR, AD/AR, AD/"
+chr1	196744017	196744074	CFHR3	chr1:196744017-196744074	0.396551724	0.736842	605336	"{Hemolytic uremic syndrome, atypical, susceptibility to}, 235400 (3)/ {Macular degeneration, age-related, reduced risk of}, 603075 (3)"	"AR, AD/AD"
+chr1	196757346	196757528	CFHR3	chr1:196757346-196757528	0.300546448	0.662088	605336	"{Hemolytic uremic syndrome, atypical, susceptibility to}, 235400 (3)/ {Macular degeneration, age-related, reduced risk of}, 603075 (3)"	"AR, AD/AD"
+chr1	196759175	196759357	CFHR3	chr1:196759175-196759357	0.442622951	0.596154	605336	"{Hemolytic uremic syndrome, atypical, susceptibility to}, 235400 (3)/ {Macular degeneration, age-related, reduced risk of}, 603075 (3)"	"AR, AD/AD"
+chr1	196788975	196789032	CFHR1	chr1:196788975-196789032	0.482758621	0.5	134371	"{Hemolytic uremic syndrome, atypical, susceptibility to}, 235400 (3)/ {Macular degeneration, age-related, reduced risk of}, 603075 (3)"	"AR, AD/AD"
+chr1	196799630	196799812	CFHR1	chr1:196799630-196799812	0.43715847	0.519231	134371	"{Hemolytic uremic syndrome, atypical, susceptibility to}, 235400 (3)/ {Macular degeneration, age-related, reduced risk of}, 603075 (3)"	"AR, AD/AD"
+chr1	196800927	196801129	CFHR1	chr1:196800927-196801129	0.39408867	0.683168	134371	"{Hemolytic uremic syndrome, atypical, susceptibility to}, 235400 (3)/ {Macular degeneration, age-related, reduced risk of}, 603075 (3)"	"AR, AD/AD"
+chr1	203832791	203832853	SNRPE	chr1:203832791-203832853	0.46031746	0.680108	128260	"Hypotrichosis 11, 615059 (3)"	AD
+chr1	203834169	203834247	SNRPE	chr1:203834169-203834247	0.329113924	0.569444	128260	"Hypotrichosis 11, 615059 (3)"	AD
+chr1	203839005	203839060	SNRPE	chr1:203839005-203839060	0.392857143	0.25	128260	"Hypotrichosis 11, 615059 (3)"	AD
+chr1	207696956	207697354	CR1	chr1:207696956-207697354	0.50877193	0.271566	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207700098	207700274	CR1	chr1:207700098-207700274	0.593220339	0.421875	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207700366	207700468	CR1	chr1:207700366-207700468	0.427184466	0.297386	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207702061	207702146	CR1	chr1:207702061-207702146	0.430232558	0.403922	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207705525	207705743	CR1	chr1:207705525-207705743	0.520547945	0.355505	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207706754	207706933	CR1	chr1:207706754-207706933	0.45	0.333333	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207707542	207707641	CR1	chr1:207707542-207707641	0.43	0.305556	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207713326	207713411	CR1	chr1:207713326-207713411	0.534883721	0.382353	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207715527	207715925	CR1	chr1:207715527-207715925	0.511278195	0.230528	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207718653	207718829	CR1	chr1:207718653-207718829	0.598870056	0.337595	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207718921	207719023	CR1	chr1:207718921-207719023	0.427184466	0.297386	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207720616	207720701	CR1	chr1:207720616-207720701	0.430232558	0.403922	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207724080	207724298	CR1	chr1:207724080-207724298	0.520547945	0.355505	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207725309	207725488	CR1	chr1:207725309-207725488	0.45	0.333333	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207726097	207726196	CR1	chr1:207726097-207726196	0.43	0.305556	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207731883	207731968	CR1	chr1:207731883-207731968	0.534883721	0.382353	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207734084	207734482	CR1	chr1:207734084-207734482	0.511278195	0.230528	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207737209	207737385	CR1	chr1:207737209-207737385	0.593220339	0.44839	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207737477	207737579	CR1	chr1:207737477-207737579	0.427184466	0.297386	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207739183	207739268	CR1	chr1:207739183-207739268	0.418604651	0.744118	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207741169	207741387	CR1	chr1:207741169-207741387	0.520547945	0.465596	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207742404	207742583	CR1	chr1:207742404-207742583	0.45	0.333333	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207743192	207743291	CR1	chr1:207743192-207743291	0.43	0.305556	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207748940	207749025	CR1	chr1:207748940-207749025	0.511627907	0.643137	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207751150	207751548	CR1	chr1:207751150-207751548	0.498746867	0.375209	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207785022	207785198	CR1	chr1:207785022-207785198	0.576271186	0.732955	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207787749	207787834	CR1	chr1:207787749-207787834	0.465116279	0.591176	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	207812742	207812754	CR1	chr1:207812742-207812754	0.538461538	0.583333	120620	"[Blood group, Knops system], 607486 (3)/ CR1 deficiency (1)/ {Malaria, severe, resistance to}, 611162 (3)/ {?SLE susceptibility} (1)"	
+chr1	210139238	210139358	SYT14	chr1:210139238-210139358	0.52892562	0.68125	610949	"Spinocerebellar ataxia, AR 11, 614229 (3)"	AR
+chr1	211836768	211836994	NEK2	chr1:211836768-211836994	0.444933921	0.741519	604043	"?Retinitis pigmentosa 67, 615565 (3)"	AR
+chr1	231990485	231990771	DISC1	chr1:231990485-231990771	0.526132404	0.467949	605210	"{Schizophrenia 9, susceptibility to}, 604906 (3)"	
+chr1	245005246	245005360	COX20	chr1:245005246-245005360	0.408695652	0.619883	614698	"Mitochondrial complex IV deficiency, 220110 (3)"	"AR, Mitochondrial"
+chr1	245006343	245006478	COX20	chr1:245006343-245006478	0.367647059	0.67037	614698	"Mitochondrial complex IV deficiency, 220110 (3)"	"AR, Mitochondrial"
+chr1	245018275	245018346	HNRNPU	chr1:245018275-245018346	0.486111111	0.725352	602869	"Epileptic encephalopathy, early infantile, 54, 617391 (3)"	AD
+chr2	3623200	3623274	RPS7	chr2:3623200-3623274	0.586666667	0.691441	603658	"Diamond-Blackfan anemia 8, 612563 (3)"	AD
+chr2	3623407	3623478	RPS7	chr2:3623407-3623478	0.541666667	0.63615	603658	"Diamond-Blackfan anemia 8, 612563 (3)"	AD
+chr2	3624077	3624220	RPS7	chr2:3624077-3624220	0.4375	0.392774	603658	"Diamond-Blackfan anemia 8, 612563 (3)"	AD
+chr2	3625300	3625364	RPS7	chr2:3625300-3625364	0.446153846	0.665365	603658	"Diamond-Blackfan anemia 8, 612563 (3)"	AD
+chr2	3627700	3627850	RPS7	chr2:3627700-3627850	0.503311258	0.535556	603658	"Diamond-Blackfan anemia 8, 612563 (3)"	AD
+chr2	3628395	3628472	RPS7	chr2:3628395-3628472	0.358974359	0.147186	603658	"Diamond-Blackfan anemia 8, 612563 (3)"	AD
+chr2	47389425	47389531	CALM2	chr2:47389425-47389531	0.373831776	0.707547	114182	"Long QT syndrome 15, 616249 (3)"	AD
+chr2	73830368	73830431	ALMS1	chr2:73830368-73830431	0.453125	0.68254	606844	"Alstrom syndrome, 203800 (3)"	AR
+chr2	109345588	109345655	RANBP2	chr2:109345588-109345655	0.279411765	0.171642	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109347230	109347341	RANBP2	chr2:109347230-109347341	0.383928571	0.596847	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109347778	109347930	RANBP2	chr2:109347778-109347930	0.366013072	0.322368	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109351988	109352218	RANBP2	chr2:109351988-109352218	0.432900433	0.342391	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109352560	109352705	RANBP2	chr2:109352560-109352705	0.417808219	0.268966	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109356945	109357137	RANBP2	chr2:109356945-109357137	0.409326425	0.447917	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109363167	109363254	RANBP2	chr2:109363167-109363254	0.420454545	0	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109365376	109365585	RANBP2	chr2:109365376-109365585	0.385714286	0.511962	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109367720	109367901	RANBP2	chr2:109367720-109367901	0.406593407	0.201657	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109367984	109368159	RANBP2	chr2:109367984-109368159	0.420454545	0.0657143	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109368327	109368450	RANBP2	chr2:109368327-109368450	0.435483871	0.468157	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109369454	109369615	RANBP2	chr2:109369454-109369615	0.333333333	0.139752	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109369882	109370019	RANBP2	chr2:109369882-109370019	0.333333333	0.153285	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109370281	109370427	RANBP2	chr2:109370281-109370427	0.353741497	0.184932	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109371361	109371540	RANBP2	chr2:109371361-109371540	0.4	0.360335	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109371632	109371715	RANBP2	chr2:109371632-109371715	0.404761905	0.438755	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109374869	109375004	RANBP2	chr2:109374869-109375004	0.470588235	0.6	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109378557	109378651	RANBP2	chr2:109378557-109378651	0.421052632	0	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	109379693	109384844	RANBP2	chr2:109379693-109384844	0.407026398	0.654938	601181	"{Encephalopathy, acute, infection-induced, 3, susceptibility to}, 608033 (3)"	AD
+chr2	129025736	129026444	HS6ST1	chr2:129025736-129026444	0.640338505	0.69774	604846	"{Hypogonadotropic hypogonadism 15 with or without anosmia}, 614880 (3)"	AD
+chr2	129075611	129076137	HS6ST1	chr2:129075611-129076137	0.700189753	0.649873	604846	"{Hypogonadotropic hypogonadism 15 with or without anosmia}, 614880 (3)"	AD
+chr2	131350450	131350649	CFC1	chr2:131350450-131350649	0.73	0.5	605194	"Heterotaxy, visceral, 2, autosomal, 605376 (3)"	AD
+chr2	131355067	131355176	CFC1	chr2:131355067-131355176	0.709090909	0.5	605194	"Heterotaxy, visceral, 2, autosomal, 605376 (3)"	AD
+chr2	131355441	131355555	CFC1	chr2:131355441-131355555	0.72173913	0.5	605194	"Heterotaxy, visceral, 2, autosomal, 605376 (3)"	AD
+chr2	131356215	131356388	CFC1	chr2:131356215-131356388	0.609195402	0.563584	605194	"Heterotaxy, visceral, 2, autosomal, 605376 (3)"	AD
+chr2	131356483	131356532	CFC1	chr2:131356483-131356532	0.4	0.5	605194	"Heterotaxy, visceral, 2, autosomal, 605376 (3)"	AD
+chr2	131356838	131356860	CFC1	chr2:131356838-131356860	0.565217391	0.5	605194	"Heterotaxy, visceral, 2, autosomal, 605376 (3)"	AD
+chr2	152435852	152436163	NEB	chr2:152435852-152436163	0.503205128	0.40836	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152437311	152437418	NEB	chr2:152437311-152437418	0.509259259	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152437997	152438101	NEB	chr2:152437997-152438101	0.504761905	0.413462	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152438978	152439181	NEB	chr2:152438978-152439181	0.465686275	0.362069	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152439969	152440280	NEB	chr2:152439969-152440280	0.46474359	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152442021	152442128	NEB	chr2:152442021-152442128	0.462962963	0.38785	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152442919	152443023	NEB	chr2:152442919-152443023	0.438095238	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152443888	152444091	NEB	chr2:152443888-152444091	0.485294118	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152446403	152446714	NEB	chr2:152446403-152446714	0.5	0.35209	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152447862	152447969	NEB	chr2:152447862-152447969	0.5	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152448548	152448652	NEB	chr2:152448548-152448652	0.485714286	0.653846	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152449530	152449733	NEB	chr2:152449530-152449733	0.465686275	0.362069	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152450521	152450832	NEB	chr2:152450521-152450832	0.46474359	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152452574	152452681	NEB	chr2:152452574-152452681	0.462962963	0.38785	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152453472	152453576	NEB	chr2:152453472-152453576	0.438095238	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152454441	152454644	NEB	chr2:152454441-152454644	0.485294118	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152456956	152457267	NEB	chr2:152456956-152457267	0.5	0.35209	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152458415	152458522	NEB	chr2:152458415-152458522	0.509259259	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152459101	152459205	NEB	chr2:152459101-152459205	0.504761905	0.413462	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152460083	152460286	NEB	chr2:152460083-152460286	0.470588235	0.448276	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152461074	152461385	NEB	chr2:152461074-152461385	0.46474359	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152463120	152463227	NEB	chr2:152463120-152463227	0.472222222	0.551402	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152464018	152464122	NEB	chr2:152464018-152464122	0.438095238	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152464987	152465190	NEB	chr2:152464987-152465190	0.485294118	0.333333	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152496869	152497180	NEB	chr2:152496869-152497180	0.551282051	0.744373	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	152500332	152500643	NEB	chr2:152500332-152500643	0.548076923	0.735263	161650	"Nemaline myopathy 2, AR, 256030 (3)"	AR
+chr2	167133493	167133849	SCN9A	chr2:167133493-167133849	0.478991597	0.718867	603415	"{Dravet syndrome, modifier of}, 607208 (3)/ Epilepsy, generalized, with febrile seizures plus, type 7, 613863 (3)/ Erythermalgia, primary, 133020 (3)/ Febrile seizures, familial, 3B, 613863 (3)/ HSAN2D, AR, 243000 (3)/ Insensitivity to pain, congenital, 243000 (3)/ Paroxysmal extreme pain disorder,, 167400 (3)/ Small fiber neuropathy, 133020 (3)"	AD/AD/AD/AD/AR/AR/AD/AD
+chr2	179516823	179516906	TTN	chr2:179516823-179516906	0.547619048	0.748996	188840	"Cardiomyopathy, dilated, 1G, 604145 (3)/ Cardiomyopathy, familial hypertrophic, 9, 613765 (3)/ Muscular dystrophy, limb-girdle, type 2J, 608807 (3)/ Myopathy, proximal, with early respiratory muscle involvement, 603689 (3)/ Salih myopathy, 611705 (3)/ Tibial muscular dystrophy, tardive, 600334 (3)"	/AD/AR//AR/AD
+chr2	179516991	179517074	TTN	chr2:179516991-179517074	0.5	0.433735	188840	"Cardiomyopathy, dilated, 1G, 604145 (3)/ Cardiomyopathy, familial hypertrophic, 9, 613765 (3)/ Muscular dystrophy, limb-girdle, type 2J, 608807 (3)/ Myopathy, proximal, with early respiratory muscle involvement, 603689 (3)/ Salih myopathy, 611705 (3)/ Tibial muscular dystrophy, tardive, 600334 (3)"	/AD/AR//AR/AD
+chr2	179523732	179523815	TTN	chr2:179523732-179523815	0.55952381	0.353414	188840	"Cardiomyopathy, dilated, 1G, 604145 (3)/ Cardiomyopathy, familial hypertrophic, 9, 613765 (3)/ Muscular dystrophy, limb-girdle, type 2J, 608807 (3)/ Myopathy, proximal, with early respiratory muscle involvement, 603689 (3)/ Salih myopathy, 611705 (3)/ Tibial muscular dystrophy, tardive, 600334 (3)"	/AD/AR//AR/AD
+chr2	179523899	179523982	TTN	chr2:179523899-179523982	0.5	0.247992	188840	"Cardiomyopathy, dilated, 1G, 604145 (3)/ Cardiomyopathy, familial hypertrophic, 9, 613765 (3)/ Muscular dystrophy, limb-girdle, type 2J, 608807 (3)/ Myopathy, proximal, with early respiratory muscle involvement, 603689 (3)/ Salih myopathy, 611705 (3)/ Tibial muscular dystrophy, tardive, 600334 (3)"	/AD/AR//AR/AD
+chr2	179527693	179527782	TTN	chr2:179527693-179527782	0.544444444	0.333333	188840	"Cardiomyopathy, dilated, 1G, 604145 (3)/ Cardiomyopathy, familial hypertrophic, 9, 613765 (3)/ Muscular dystrophy, limb-girdle, type 2J, 608807 (3)/ Myopathy, proximal, with early respiratory muscle involvement, 603689 (3)/ Salih myopathy, 611705 (3)/ Tibial muscular dystrophy, tardive, 600334 (3)"	/AD/AR//AR/AD
+chr2	198351770	198351922	HSPD1	chr2:198351770-198351922	0.477124183	0.438596	118190	"Leukodystrophy, hypomyelinating, 4, 612233 (3)/ Spastic paraplegia 13, AD, 605280 (3)"	AR/AD
+chr2	198352582	198352760	HSPD1	chr2:198352582-198352760	0.351955307	0.707865	118190	"Leukodystrophy, hypomyelinating, 4, 612233 (3)/ Spastic paraplegia 13, AD, 605280 (3)"	AR/AD
+chr2	198353041	198353215	HSPD1	chr2:198353041-198353215	0.445714286	0.569923	118190	"Leukodystrophy, hypomyelinating, 4, 612233 (3)/ Spastic paraplegia 13, AD, 605280 (3)"	AR/AD
+chr2	198353726	198353971	HSPD1	chr2:198353726-198353971	0.410569106	0.628912	118190	"Leukodystrophy, hypomyelinating, 4, 612233 (3)/ Spastic paraplegia 13, AD, 605280 (3)"	AR/AD
+chr2	198354921	198355020	HSPD1	chr2:198354921-198355020	0.47	0.696128	118190	"Leukodystrophy, hypomyelinating, 4, 612233 (3)/ Spastic paraplegia 13, AD, 605280 (3)"	AR/AD
+chr2	198358881	198358974	HSPD1	chr2:198358881-198358974	0.29787234	0.71595	118190	"Leukodystrophy, hypomyelinating, 4, 612233 (3)/ Spastic paraplegia 13, AD, 605280 (3)"	AR/AD
+chr2	198360018	198360100	HSPD1	chr2:198360018-198360100	0.421686747	0.430894	118190	"Leukodystrophy, hypomyelinating, 4, 612233 (3)/ Spastic paraplegia 13, AD, 605280 (3)"	AR/AD
+chr2	201950182	201950338	NDUFB3	chr2:201950182-201950338	0.401273885	0.717949	603839	"Mitochondrial complex I deficiency, 252010 (3)"	"AR, XLD, Mitochondrial"
+chr2	203079080	203079157	SUMO1	chr2:203079080-203079157	0.358974359	0.57684	601912	"Orofacial cleft 10, 613705 (3)"	
+chr2	203084755	203084829	SUMO1	chr2:203084755-203084829	0.413333333	0.628378	601912	"Orofacial cleft 10, 613705 (3)"	
+chr2	208988836	208989078	CRYGD	chr2:208988836-208989078	0.66255144	0.629132	123690	"Cataract 4, multiple types, 115700 (3)"	AD
+chr3	10085168	10085276	FANCD2	chr3:10085168-10085276	0.376146789	0.66821	613984	"Fanconi anemia, complementation group D2, 227646 (3)"	AR
+chr3	10085513	10085548	FANCD2	chr3:10085513-10085548	0.416666667	0.490476	613984	"Fanconi anemia, complementation group D2, 227646 (3)"	AR
+chr3	10088264	10088407	FANCD2	chr3:10088264-10088407	0.402777778	0.632867	613984	"Fanconi anemia, complementation group D2, 227646 (3)"	AR
+chr3	10091058	10091189	FANCD2	chr3:10091058-10091189	0.431818182	0.732824	613984	"Fanconi anemia, complementation group D2, 227646 (3)"	AR
+chr3	10105476	10105595	FANCD2	chr3:10105476-10105595	0.483333333	0.617647	613984	"Fanconi anemia, complementation group D2, 227646 (3)"	AR
+chr3	10106040	10106113	FANCD2	chr3:10106040-10106113	0.5	0.671233	613984	"Fanconi anemia, complementation group D2, 227646 (3)"	AR
+chr3	10106413	10106559	FANCD2	chr3:10106413-10106559	0.496598639	0.739726	613984	"Fanconi anemia, complementation group D2, 227646 (3)"	AR
+chr3	10114937	10115046	FANCD2	chr3:10114937-10115046	0.427272727	0.729358	613984	"Fanconi anemia, complementation group D2, 227646 (3)"	AR
+chr3	23959351	23959522	RPL15	chr3:23959351-23959522	0.593023256	0.409357	604174	"?Diamond-Blackfan anemia 12, 615550 (3)"	AD
+chr3	23959931	23960067	RPL15	chr3:23959931-23960067	0.503649635	0.456495	604174	"?Diamond-Blackfan anemia 12, 615550 (3)"	AD
+chr3	23960687	23960992	RPL15	chr3:23960687-23960992	0.526143791	0.351093	604174	"?Diamond-Blackfan anemia 12, 615550 (3)"	AD
+chr3	39449145	39449277	RPSA	chr3:39449145-39449277	0.466165414	0.246212	150370	"Asplenia, isolated congenital, 271400 (3)"	AD
+chr3	39450097	39450215	RPSA	chr3:39450097-39450215	0.470588235	0.665254	150370	"Asplenia, isolated congenital, 271400 (3)"	AD
+chr3	39452245	39452490	RPSA	chr3:39452245-39452490	0.552845528	0.146259	150370	"Asplenia, isolated congenital, 271400 (3)"	AD
+chr3	39453140	39453268	RPSA	chr3:39453140-39453268	0.550387597	0.310547	150370	"Asplenia, isolated congenital, 271400 (3)"	AD
+chr3	39453387	39453552	RPSA	chr3:39453387-39453552	0.524096386	0.490404	150370	"Asplenia, isolated congenital, 271400 (3)"	AD
+chr3	39453765	39453859	RPSA	chr3:39453765-39453859	0.578947368	0	150370	"Asplenia, isolated congenital, 271400 (3)"	AD
+chr3	49395460	49395711	GPX1	chr3:49395460-49395711	0.694444444	0.703851	138320	"Hemolytic anemia due to glutathione peroxidase deficiency, 614164 (1)"	AR
+chr3	53271813	53271836	TKT	chr3:53271813-53271836	0.625	0.181159	191311;606781	"Spondylometaepiphyseal dysplasia, short limb-hand type, 271665 (3);Short stature, developmental delay, and congenital heart defects, 617044 (3)"	AR;AR
+chr3	93593089	93593249	PROS1	chr3:93593089-93593249	0.366459627	0.659375	176880	"Thrombophilia due to protein S deficiency, AD, 612336 (3)/ Thrombophilia due to protein S deficiency, AR, 614514 (3)"	AD/AR
+chr3	93598007	93598158	PROS1	chr3:93598007-93598158	0.473684211	0.728477	176880	"Thrombophilia due to protein S deficiency, AD, 612336 (3)/ Thrombophilia due to protein S deficiency, AR, 614514 (3)"	AD/AR
+chr3	93619648	93619773	PROS1	chr3:93619648-93619773	0.428571429	0.668	176880	"Thrombophilia due to protein S deficiency, AD, 612336 (3)/ Thrombophilia due to protein S deficiency, AR, 614514 (3)"	AD/AR
+chr3	93643084	93643108	PROS1	chr3:93643084-93643108	0.2	0.6875	176880	"Thrombophilia due to protein S deficiency, AD, 612336 (3)/ Thrombophilia due to protein S deficiency, AR, 614514 (3)"	AD/AR
+chr3	121514304	121514413	IQCB1	chr3:121514304-121514413	0.409090909	0.642202	609237	"Senior-Loken syndrome 5, 609254 (3)"	AR
+chr3	129200373	129200537	IFT122	chr3:129200373-129200537	0.515151515	0.573171	606045	"Cranioectodermal dysplasia 1, 218330 (3)"	AR
+chr3	129202328	129202525	IFT122	chr3:129202328-129202525	0.565656566	0.713198	606045	"Cranioectodermal dysplasia 1, 218330 (3)"	AR
+chr3	129207100	129207240	IFT122	chr3:129207100-129207240	0.482269504	0.707143	606045	"Cranioectodermal dysplasia 1, 218330 (3)"	AR
+chr3	129234331	129234442	IFT122	chr3:129234331-129234442	0.598214286	0.5	606045	"Cranioectodermal dysplasia 1, 218330 (3)"	AR
+chr3	131186935	131187012	MRPL3	chr3:131186935-131187012	0.346153846	0.727273	607118	"Combined oxidative phosphorylation deficiency 9, 614582 (3)"	AR
+chr3	135978018	135978077	PCCB	chr3:135978018-135978077	0.566666667	0.652542	232050	"Propionicacidemia, 606054 (3)"	AR
+chr3	155545999	155546166	SLC33A1	chr3:155545999-155546166	0.375	0.667665	603690	"Congenital cataracts, hearing loss, and neurodegeneration, 614482 (3)/ Spastic paraplegia 42, AD, 612539 (3)"	AR/AD
+chr3	178935998	178936122	PIK3CA	chr3:178935998-178936122	0.392	0.741935	171834	"Breast cancer, somatic, 114480 (3)/ CLOVE syndrome, somatic, 612918 (3)/ Colorectal cancer, somatic, 114500 (3)/ Cowden syndrome 5, 615108 (3)/ Gastric cancer, somatic, 613659 (3)/ Hepatocellular carcinoma, somatic, 114550 (3)/ Keratosis, seborrheic, somatic, 182000 (3)/ Megalencephaly-capillary malformation-polymicrogyria syndrome, somatic, 602501 (3)/ Nevus, epidermal, somatic, 162900 (3)/ Nonsmall cell lung cancer, somatic, 211980 (3)/ Ovarian cancer, somatic, 167000 (3)"	
+chr3	178936984	178937065	PIK3CA	chr3:178936984-178937065	0.390243902	0.746914	171834	"Breast cancer, somatic, 114480 (3)/ CLOVE syndrome, somatic, 612918 (3)/ Colorectal cancer, somatic, 114500 (3)/ Cowden syndrome 5, 615108 (3)/ Gastric cancer, somatic, 613659 (3)/ Hepatocellular carcinoma, somatic, 114550 (3)/ Keratosis, seborrheic, somatic, 182000 (3)/ Megalencephaly-capillary malformation-polymicrogyria syndrome, somatic, 602501 (3)/ Nevus, epidermal, somatic, 162900 (3)/ Nonsmall cell lung cancer, somatic, 211980 (3)/ Ovarian cancer, somatic, 167000 (3)"	
+chr3	178937737	178937840	PIK3CA	chr3:178937737-178937840	0.307692308	0.5	171834	"Breast cancer, somatic, 114480 (3)/ CLOVE syndrome, somatic, 612918 (3)/ Colorectal cancer, somatic, 114500 (3)/ Cowden syndrome 5, 615108 (3)/ Gastric cancer, somatic, 613659 (3)/ Hepatocellular carcinoma, somatic, 114550 (3)/ Keratosis, seborrheic, somatic, 182000 (3)/ Megalencephaly-capillary malformation-polymicrogyria syndrome, somatic, 602501 (3)/ Nevus, epidermal, somatic, 162900 (3)/ Nonsmall cell lung cancer, somatic, 211980 (3)/ Ovarian cancer, somatic, 167000 (3)"	
+chr3	180702428	180702498	DNAJC19	chr3:180702428-180702498	0.338028169	0.728571	608977	"3-methylglutaconic aciduria, type V, 610198 (3)"	AR
+chr3	180704731	180704810	DNAJC19	chr3:180704731-180704810	0.4375	0.700422	608977	"3-methylglutaconic aciduria, type V, 610198 (3)"	AR
+chr3	185363319	185363411	IGF2BP2	chr3:185363319-185363411	0.537634409	0.657609	608289	"{Diabetes mellitus, noninsulin-dependent, susceptibility to}, 125853 (3)"	AD
+chr3	185393084	185393219	IGF2BP2	chr3:185393084-185393219	0.463235294	0.738272	608289	"{Diabetes mellitus, noninsulin-dependent, susceptibility to}, 125853 (3)"	AD
+chr3	185540941	185541001	IGF2BP2	chr3:185540941-185541001	0.360655738	0.726389	608289	"{Diabetes mellitus, noninsulin-dependent, susceptibility to}, 125853 (3)"	AD
+chr4	337571	337697	ZNF141	chr4:337571-337697	0.472440945	0.464286	194648	"?Polydactyly, postaxial, type A6, 615226 (3)"	AR
+chr4	47972913	47973117	CNGA1	chr4:47972913-47973117	0.507317073	0.514706	123825	"Retinitis pigmentosa 49, 613756 (3)"	
+chr4	69416395	69416614	UGT2B17	chr4:69416395-69416614	0.45	0.530822	601903	"{Bone mineral density QTL 12, osteoporosis}, 612560 (3)"	
+chr4	69417542	69417629	UGT2B17	chr4:69417542-69417629	0.409090909	0.66092	601903	"{Bone mineral density QTL 12, osteoporosis}, 612560 (3)"	
+chr4	69426255	69426386	UGT2B17	chr4:69426255-69426386	0.454545455	0.494911	601903	"{Bone mineral density QTL 12, osteoporosis}, 612560 (3)"	
+chr4	69431290	69431438	UGT2B17	chr4:69431290-69431438	0.422818792	0.525901	601903	"{Bone mineral density QTL 12, osteoporosis}, 612560 (3)"	
+chr4	83347212	83347282	HNRPDL	chr4:83347212-83347282	0.492957746	0.735714	607137	"Muscular dystrophy, limb-girdle, type 1G, 609115 (3)"	AD
+chr4	99802179	99802293	EIF4E	chr4:99802179-99802293	0.434782609	0.589181	133440	"{Autism, susceptibility to, 19}, 615091 (3)"	
+chr4	99806073	99806212	EIF4E	chr4:99806073-99806212	0.378571429	0.554556	133440	"{Autism, susceptibility to, 19}, 615091 (3)"	
+chr4	99807605	99807697	EIF4E	chr4:99807605-99807697	0.505376344	0.455616	133440	"{Autism, susceptibility to, 19}, 615091 (3)"	
+chr4	99808230	99808343	EIF4E	chr4:99808230-99808343	0.456140351	0.625369	133440	"{Autism, susceptibility to, 19}, 615091 (3)"	
+chr4	99809040	99809103	EIF4E	chr4:99809040-99809103	0.375	0.689153	133440	"{Autism, susceptibility to, 19}, 615091 (3)"	
+chr4	100228997	100229021	ADH1B	chr4:100228997-100229021	0.48	0.486111	103720	"{Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)/ {Alcohol dependence, protection against}, 103780 (3)"	/Multifactorial
+chr4	100234978	100235238	ADH1B	chr4:100234978-100235238	0.505747126	0.592949	103720	"{Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)/ {Alcohol dependence, protection against}, 103780 (3)"	/Multifactorial
+chr4	100239203	100239341	ADH1B	chr4:100239203-100239341	0.54676259	0.745169	103720	"{Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)/ {Alcohol dependence, protection against}, 103780 (3)"	/Multifactorial
+chr4	100257909	100257933	ADH1C	chr4:100257909-100257933	0.48	0.486111	103730	"{Alcohol dependence, protection against}, 103780 (3)/ {Parkinson disease, susceptibility to}, 168600 (3)"	"Multifactorial/Isolated cases, Multifactorial"
+chr4	103808498	103808587	CISD2	chr4:103808498-103808587	0.366666667	0.409176	611507	"Wolfram syndrome 2, 604928 (3)"	AR
+chr4	113568846	113568990	LARP7	chr4:113568846-113568990	0.310344828	0.680556	612026	"Alazami syndrome, 615071 (3)"	AR
+chr4	144922338	144922436	GYPB	chr4:144922338-144922436	0.404040404	0.557823	111740	"[Blood group, Ss] (3)/ {Malaria, resistance to}, 611162 (3)"	
+chr4	144940404	144940440	GYPB	chr4:144940404-144940440	0.243243243	0.444444	111740	"[Blood group, Ss] (3)/ {Malaria, resistance to}, 611162 (3)"	
+chr4	145041643	145041741	GYPA	chr4:145041643-145041741	0.393939394	0.664966	111300	"[Blood group, MN] (3)/ {Malaria, resistance to}, 611162 (3)"	
+chr4	145061752	145061788	GYPA	chr4:145061752-145061788	0.243243243	0.444444	111300	"[Blood group, MN] (3)/ {Malaria, resistance to}, 611162 (3)"	
+chr5	223597	223683	SDHA	chr5:223597-223683	0.471264368	0.748062	600857	"Cardiomyopathy, dilated, 1GG, 613642 (3)/ Leigh syndrome, 256000 (3)/ Mitochondrial respiratory chain complex II deficiency, 252011 (3)/ Paragangliomas 5, 614165 (3)"	"/AR, Mitochondrial/AR/AD"
+chr5	224475	224636	SDHA	chr5:224475-224636	0.50617284	0.737578	600857	"Cardiomyopathy, dilated, 1GG, 613642 (3)/ Leigh syndrome, 256000 (3)/ Mitochondrial respiratory chain complex II deficiency, 252011 (3)/ Paragangliomas 5, 614165 (3)"	"/AR, Mitochondrial/AR/AD"
+chr5	233592	233760	SDHA	chr5:233592-233760	0.526627219	0.734127	600857	"Cardiomyopathy, dilated, 1GG, 613642 (3)/ Leigh syndrome, 256000 (3)/ Mitochondrial respiratory chain complex II deficiency, 252011 (3)/ Paragangliomas 5, 614165 (3)"	"/AR, Mitochondrial/AR/AD"
+chr5	236543	236714	SDHA	chr5:236543-236714	0.627906977	0.705653	600857	"Cardiomyopathy, dilated, 1GG, 613642 (3)/ Leigh syndrome, 256000 (3)/ Mitochondrial respiratory chain complex II deficiency, 252011 (3)/ Paragangliomas 5, 614165 (3)"	"/AR, Mitochondrial/AR/AD"
+chr5	240473	240591	SDHA	chr5:240473-240591	0.428571429	0.512006	600857	"Cardiomyopathy, dilated, 1GG, 613642 (3)/ Leigh syndrome, 256000 (3)/ Mitochondrial respiratory chain complex II deficiency, 252011 (3)/ Paragangliomas 5, 614165 (3)"	"/AR, Mitochondrial/AR/AD"
+chr5	251107	251218	SDHA	chr5:251107-251218	0.508928571	0.703453	600857	"Cardiomyopathy, dilated, 1GG, 613642 (3)/ Leigh syndrome, 256000 (3)/ Mitochondrial respiratory chain complex II deficiency, 252011 (3)/ Paragangliomas 5, 614165 (3)"	"/AR, Mitochondrial/AR/AD"
+chr5	254508	254621	SDHA	chr5:254508-254621	0.552631579	0.418142	600857	"Cardiomyopathy, dilated, 1GG, 613642 (3)/ Leigh syndrome, 256000 (3)/ Mitochondrial respiratory chain complex II deficiency, 252011 (3)/ Paragangliomas 5, 614165 (3)"	"/AR, Mitochondrial/AR/AD"
+chr5	60241083	60241209	NDUFAF2	chr5:60241083-60241209	0.527559055	0.718254	609653	"Leigh syndrome, 256000 (3)/ Mitochondrial complex I deficiency, 252010 (3)"	"AR, Mitochondrial/AR, XLD, Mitochondrial"
+chr5	60448531	60448782	NDUFAF2	chr5:60448531-60448782	0.420634921	0.707171	609653	"Leigh syndrome, 256000 (3)/ Mitochondrial complex I deficiency, 252010 (3)"	"AR, Mitochondrial/AR, XLD, Mitochondrial"
+chr5	68830521	68830666	OCLN	chr5:68830521-68830666	0.47260274	0.5	602876	"Pseudo-TORCH syndrome 1, 251290 (3)"	AR
+chr5	68840731	68840946	OCLN	chr5:68840731-68840946	0.513888889	0.581395	602876	"Pseudo-TORCH syndrome 1, 251290 (3)"	AR
+chr5	68843757	68843928	OCLN	chr5:68843757-68843928	0.377906977	0.5	602876	"Pseudo-TORCH syndrome 1, 251290 (3)"	AR
+chr5	68847371	68847412	OCLN	chr5:68847371-68847412	0.452380952	0.5	602876	"Pseudo-TORCH syndrome 1, 251290 (3)"	AR
+chr5	68849397	68849498	OCLN	chr5:68849397-68849498	0.352941176	0.673267	602876	"Pseudo-TORCH syndrome 1, 251290 (3)"	AR
+chr5	69345513	69345593	SMN2	chr5:69345513-69345593	0.716049383	0.5	601627	"{Spinal muscular atrophy, type III, modifier of}, 253400 (3)"	AR
+chr5	69359242	69359313	SMN2	chr5:69359242-69359313	0.375	0.5	601627	"{Spinal muscular atrophy, type III, modifier of}, 253400 (3)"	AR
+chr5	69361792	69361911	SMN2	chr5:69361792-69361911	0.375	0.5	601627	"{Spinal muscular atrophy, type III, modifier of}, 253400 (3)"	AR
+chr5	69362761	69362961	SMN2	chr5:69362761-69362961	0.39800995	0.5	601627	"{Spinal muscular atrophy, type III, modifier of}, 253400 (3)"	AR
+chr5	69363121	69363273	SMN2	chr5:69363121-69363273	0.470588235	0.5	601627	"{Spinal muscular atrophy, type III, modifier of}, 253400 (3)"	AR
+chr5	69365062	69365157	SMN2	chr5:69365062-69365157	0.572916667	0.5	601627	"{Spinal muscular atrophy, type III, modifier of}, 253400 (3)"	AR
+chr5	69366468	69366578	SMN2	chr5:69366468-69366578	0.405405405	0.5	601627	"{Spinal muscular atrophy, type III, modifier of}, 253400 (3)"	AR
+chr5	69372348	69372398	SMN2	chr5:69372348-69372398	0.31372549	0.55	601627	"{Spinal muscular atrophy, type III, modifier of}, 253400 (3)"	AR
+chr5	70220931	70221011	SMN1	chr5:70220931-70221011	0.716049383	0.5	600354	"Spinal muscular atrophy-1, 253300 (3)/ Spinal muscular atrophy-2, 253550 (3)/ Spinal muscular atrophy-3, 253400 (3)/ Spinal muscular atrophy-4, 271150 (3)"	AR
+chr5	70234666	70234737	SMN1	chr5:70234666-70234737	0.375	0.5	600354	"Spinal muscular atrophy-1, 253300 (3)/ Spinal muscular atrophy-2, 253550 (3)/ Spinal muscular atrophy-3, 253400 (3)/ Spinal muscular atrophy-4, 271150 (3)"	AR
+chr5	70237216	70237335	SMN1	chr5:70237216-70237335	0.375	0.5	600354	"Spinal muscular atrophy-1, 253300 (3)/ Spinal muscular atrophy-2, 253550 (3)/ Spinal muscular atrophy-3, 253400 (3)/ Spinal muscular atrophy-4, 271150 (3)"	AR
+chr5	70238185	70238385	SMN1	chr5:70238185-70238385	0.39800995	0.5	600354	"Spinal muscular atrophy-1, 253300 (3)/ Spinal muscular atrophy-2, 253550 (3)/ Spinal muscular atrophy-3, 253400 (3)/ Spinal muscular atrophy-4, 271150 (3)"	AR
+chr5	70238545	70238697	SMN1	chr5:70238545-70238697	0.470588235	0.5	600354	"Spinal muscular atrophy-1, 253300 (3)/ Spinal muscular atrophy-2, 253550 (3)/ Spinal muscular atrophy-3, 253400 (3)/ Spinal muscular atrophy-4, 271150 (3)"	AR
+chr5	70240485	70240580	SMN1	chr5:70240485-70240580	0.572916667	0.5	600354	"Spinal muscular atrophy-1, 253300 (3)/ Spinal muscular atrophy-2, 253550 (3)/ Spinal muscular atrophy-3, 253400 (3)/ Spinal muscular atrophy-4, 271150 (3)"	AR
+chr5	70241893	70242003	SMN1	chr5:70241893-70242003	0.405405405	0.5	600354	"Spinal muscular atrophy-1, 253300 (3)/ Spinal muscular atrophy-2, 253550 (3)/ Spinal muscular atrophy-3, 253400 (3)/ Spinal muscular atrophy-4, 271150 (3)"	AR
+chr5	70247768	70247818	SMN1	chr5:70247768-70247818	0.333333333	0.55	600354	"Spinal muscular atrophy-1, 253300 (3)/ Spinal muscular atrophy-2, 253550 (3)/ Spinal muscular atrophy-3, 253400 (3)/ Spinal muscular atrophy-4, 271150 (3)"	AR
+chr5	79924906	79924984	DHFR	chr5:79924906-79924984	0.367088608	0.654915	126060	"Megaloblastic anemia due to dihydrofolate reductase deficiency, 613839 (3)"	AR
+chr5	79929696	79929811	DHFR	chr5:79929696-79929811	0.379310345	0.578986	126060	"Megaloblastic anemia due to dihydrofolate reductase deficiency, 613839 (3)"	AR
+chr5	79933702	79933828	DHFR	chr5:79933702-79933828	0.393700787	0.634921	126060	"Megaloblastic anemia due to dihydrofolate reductase deficiency, 613839 (3)"	AR
+chr5	79945208	79945313	DHFR	chr5:79945208-79945313	0.386792453	0.634127	126060	"Megaloblastic anemia due to dihydrofolate reductase deficiency, 613839 (3)"	AR
+chr5	79950223	79950308	DHFR	chr5:79950223-79950308	0.604651163	0.492157	126060	"Megaloblastic anemia due to dihydrofolate reductase deficiency, 613839 (3)"	AR
+chr5	81571928	81572074	RPS23	chr5:81571928-81572074	0.421768707	0.58847	603683	"Brachycephaly, trichomegaly, and developmental delay, 617412 (3)"	AD
+chr5	81572217	81572337	RPS23	chr5:81572217-81572337	0.438016529	0.741667	603683	"Brachycephaly, trichomegaly, and developmental delay, 617412 (3)"	AD
+chr5	125918543	125918666	ALDH7A1	chr5:125918543-125918666	0.435483871	0.634146	107323	"Epilepsy, pyridoxine-dependent, 266100 (3)"	AR
+chr5	149827148	149827296	RPS14	chr5:149827148-149827296	0.469798658	0.708333	130620	"Macrocytic anemia, refractory, due to 5q deletion, somatic, 153550 (3)"	
+chr5	170814953	170815010	NPM1	chr5:170814953-170815010	0.517241379	0.561404	164040	"Leukemia, acute myeloid, somatic, 601626 (3)"	
+chr5	170817055	170817134	NPM1	chr5:170817055-170817134	0.3625	0.595992	164040	"Leukemia, acute myeloid, somatic, 601626 (3)"	
+chr5	170818309	170818428	NPM1	chr5:170818309-170818428	0.441666667	0.518908	164040	"Leukemia, acute myeloid, somatic, 601626 (3)"	
+chr5	170818710	170818803	NPM1	chr5:170818710-170818803	0.478723404	0.549283	164040	"Leukemia, acute myeloid, somatic, 601626 (3)"	
+chr5	170819714	170819820	NPM1	chr5:170819714-170819820	0.504672897	0.419811	164040	"Leukemia, acute myeloid, somatic, 601626 (3)"	
+chr5	170827157	170827214	NPM1	chr5:170827157-170827214	0.379310345	0.748538	164040	"Leukemia, acute myeloid, somatic, 601626 (3)"	
+chr5	170827843	170827929	NPM1	chr5:170827843-170827929	0.356321839	0.406977	164040	"Leukemia, acute myeloid, somatic, 601626 (3)"	
+chr5	170832306	170832407	NPM1	chr5:170832306-170832407	0.343137255	0.502475	164040	"Leukemia, acute myeloid, somatic, 601626 (3)"	
+chr5	170834704	170834778	NPM1	chr5:170834704-170834778	0.44	0.75	164040	"Leukemia, acute myeloid, somatic, 601626 (3)"	
+chr5	170837531	170837569	NPM1	chr5:170837531-170837569	0.435897436	0.157895	164040	"Leukemia, acute myeloid, somatic, 601626 (3)"	
+chr5	177580492	177580561	NHP2	chr5:177580492-177580561	0.485714286	0.690821	606470;606470	"Dyskeratosis congenita, AR 2, 613987 (3);Dyskeratosis congenita, AR 2, 613987 (3)"	AR;AR
+chr6	3154097	3155157	TUBB2A	chr6:3154097-3155157	0.628652215	0.412343	615101	"Cortical dysplasia, complex, with other brain malformations 5, 615763 (3)"	AD
+chr6	3156278	3156386	TUBB2A	chr6:3156278-3156386	0.52293578	0.5	615101	"Cortical dysplasia, complex, with other brain malformations 5, 615763 (3)"	AD
+chr6	3224985	3226045	TUBB2B	chr6:3224985-3226045	0.632422243	0.376022	612850	"Cortical dysplasia, complex, with other brain malformations 7, 610031 (3)"	AD
+chr6	5187029	5187214	LYRM4	chr6:5187029-5187214	0.510752688	0.504054	613311	"?Combined oxidative phosphorylation deficiency 19, 615595 (3)"	AR
+chr6	34210489	34210572	HMGA1	chr6:34210489-34210572	0.595238095	0.720884	600701	"{Diabetes mellitus, noninsulin-dependent, susceptibility to}, 125853 (3)"	AD
+chr6	34386146	34386201	RPS10	chr6:34386146-34386201	0.589285714	0.618182	603632	"Diamond-Blackfan anemia 9, 613308 (3)"	AD
+chr6	34389507	34389584	RPS10	chr6:34389507-34389584	0.58974359	0.705628	603632	"Diamond-Blackfan anemia 9, 613308 (3)"	AD
+chr6	34392446	34392617	RPS10	chr6:34392446-34392617	0.552325581	0.331871	603632	"Diamond-Blackfan anemia 9, 613308 (3)"	AD
+chr6	34392849	34392998	RPS10	chr6:34392849-34392998	0.493333333	0.211409	603632	"Diamond-Blackfan anemia 9, 613308 (3)"	AD
+chr6	108192908	108193051	SEC63	chr6:108192908-108193051	0.472222222	0.734266	608648	"Polycystic liver disease 2, 617004 (3)"	AD
+chr6	108194012	108194116	SEC63	chr6:108194012-108194116	0.419047619	0.663462	608648	"Polycystic liver disease 2, 617004 (3)"	AD
+chr6	108204192	108204350	SEC63	chr6:108204192-108204350	0.383647799	0.721519	608648	"Polycystic liver disease 2, 617004 (3)"	AD
+chr6	117996834	117997248	NUS1	chr6:117996834-117997248	0.686746988	0.522142	610463	"?Congenital disorder of glycosylation, type 1aa, 617082 (3)"	AR
+chr6	118014205	118014330	NUS1	chr6:118014205-118014330	0.30952381	0.448	610463	"?Congenital disorder of glycosylation, type 1aa, 617082 (3)"	AR
+chr6	118015194	118015343	NUS1	chr6:118015194-118015343	0.426666667	0.734899	610463	"?Congenital disorder of glycosylation, type 1aa, 617082 (3)"	AR
+chr6	118024768	118024867	NUS1	chr6:118024768-118024867	0.44	0.671717	610463	"?Congenital disorder of glycosylation, type 1aa, 617082 (3)"	AR
+chr6	118028088	118028178	NUS1	chr6:118028088-118028178	0.472527473	0.580556	610463	"?Congenital disorder of glycosylation, type 1aa, 617082 (3)"	AR
+chr6	161123337	161123385	PLG	chr6:161123337-161123385	0.326530612	0.0729167	173350	"Dysplasminogenemia, 217090 (3)/ Plasminogen deficiency, type I, 217090 (3)"	AR
+chr6	161128732	161128838	PLG	chr6:161128732-161128838	0.355140187	0.59434	173350	"Dysplasminogenemia, 217090 (3)/ Plasminogen deficiency, type I, 217090 (3)"	AR
+chr6	161132109	161132223	PLG	chr6:161132109-161132223	0.452173913	0.585526	173350	"Dysplasminogenemia, 217090 (3)/ Plasminogen deficiency, type I, 217090 (3)"	AR
+chr6	161173932	161174093	PLG	chr6:161173932-161174093	0.450617284	0.493789	173350	"Dysplasminogenemia, 217090 (3)/ Plasminogen deficiency, type I, 217090 (3)"	AR
+chr7	5567379	5567522	ACTB	chr7:5567379-5567522	0.590277778	0.695804	102630	"Baraitser-Winter syndrome 1, 243310 (3)/ ?Dystonia, juvenile-onset, 607371 (3)"	AD
+chr7	5567635	5567816	ACTB	chr7:5567635-5567816	0.549450549	0.674033	102630	"Baraitser-Winter syndrome 1, 243310 (3)/ ?Dystonia, juvenile-onset, 607371 (3)"	AD
+chr7	5568792	5569031	ACTB	chr7:5568792-5569031	0.6125	0.691074	102630	"Baraitser-Winter syndrome 1, 243310 (3)/ ?Dystonia, juvenile-onset, 607371 (3)"	AD
+chr7	5770346	5770448	RNF216	chr7:5770346-5770448	0.398058252	0.5	609948	"Cerebellar ataxia and hypogonadotropic hypogonadism, 212840 (3)"	AR
+chr7	5800634	5800700	RNF216	chr7:5800634-5800700	0.432835821	0.613636	609948	"Cerebellar ataxia and hypogonadotropic hypogonadism, 212840 (3)"	AR
+chr7	6013030	6013173	PMS2	chr7:6013030-6013173	0.520833333	0.5	600259	"Colorectal cancer, hereditary nonpolyposis, type 4, 614337 (3)/ Mismatch repair cancer syndrome, 276300 (3)"	/AR
+chr7	6017219	6017388	PMS2	chr7:6017219-6017388	0.552941176	0.60355	600259	"Colorectal cancer, hereditary nonpolyposis, type 4, 614337 (3)/ Mismatch repair cancer syndrome, 276300 (3)"	/AR
+chr7	6018227	6018327	PMS2	chr7:6018227-6018327	0.326732673	0.61	600259	"Colorectal cancer, hereditary nonpolyposis, type 4, 614337 (3)/ Mismatch repair cancer syndrome, 276300 (3)"	/AR
+chr7	6022455	6022622	PMS2	chr7:6022455-6022622	0.452380952	0.5	600259	"Colorectal cancer, hereditary nonpolyposis, type 4, 614337 (3)/ Mismatch repair cancer syndrome, 276300 (3)"	/AR
+chr7	6043321	6043423	PMS2	chr7:6043321-6043423	0.466019417	0.611111	600259	"Colorectal cancer, hereditary nonpolyposis, type 4, 614337 (3)/ Mismatch repair cancer syndrome, 276300 (3)"	/AR
+chr7	6043603	6043689	PMS2	chr7:6043603-6043689	0.379310345	0.633721	600259	"Colorectal cancer, hereditary nonpolyposis, type 4, 614337 (3)/ Mismatch repair cancer syndrome, 276300 (3)"	/AR
+chr7	6045523	6045662	PMS2	chr7:6045523-6045662	0.464285714	0.589928	600259	"Colorectal cancer, hereditary nonpolyposis, type 4, 614337 (3)/ Mismatch repair cancer syndrome, 276300 (3)"	/AR
+chr7	6426843	6426914	RAC1	chr7:6426843-6426914	0.402777778	0.676056	602048	"Mental retardation, AD 48, 617751 (3)"	AD
+chr7	6431555	6431672	RAC1	chr7:6431555-6431672	0.43220339	0.605413	602048	"Mental retardation, AD 48, 617751 (3)"	AD
+chr7	6439757	6439819	RAC1	chr7:6439757-6439819	0.396825397	0.733871	602048	"Mental retardation, AD 48, 617751 (3)"	AD
+chr7	6441499	6441658	RAC1	chr7:6441499-6441658	0.5	0.66457	602048	"Mental retardation, AD 48, 617751 (3)"	AD
+chr7	6441947	6442077	RAC1	chr7:6441947-6442077	0.549618321	0.626923	602048	"Mental retardation, AD 48, 617751 (3)"	AD
+chr7	25163320	25163468	CYCS	chr7:25163320-25163468	0.395973154	0.595721	123970	"Thrombocytopenia 4, 612004 (3)"	AD
+chr7	25163570	25163738	CYCS	chr7:25163570-25163738	0.485207101	0.653274	123970	"Thrombocytopenia 4, 612004 (3)"	AD
+chr7	33055282	33055482	NT5C3	chr7:33055282-33055482	0.36318408	0.7275	606224	"Anemia, hemolytic, due to UMPH1 deficiency, 266120 (3)"	AR
+chr7	33102180	33102332	NT5C3	chr7:33102180-33102332	0.666666667	0.724781	606224	"Anemia, hemolytic, due to UMPH1 deficiency, 266120 (3)"	AR
+chr7	33134846	33135044	RP9	chr7:33134846-33135044	0.376884422	0.596801	607331	"?Retinitis pigmentosa 9, 180104 (3)"	AD
+chr7	35242042	35242382	TBX20	chr7:35242042-35242382	0.527859238	0.614706	606061	"Atrial septal defect 4, 611363 (3)"	
+chr7	35271116	35271192	TBX20	chr7:35271116-35271192	0.441558442	0.703947	606061	"Atrial septal defect 4, 611363 (3)"	
+chr7	35280491	35280649	TBX20	chr7:35280491-35280649	0.402515723	0.743671	606061	"Atrial septal defect 4, 611363 (3)"	
+chr7	44558185	44558265	NPC1L1	chr7:44558185-44558265	0.530864198	0.553125	608010	"[Ezetimibe, nonresponse to] (3)"	
+chr7	56079455	56079562	PSPH	chr7:56079455-56079562	0.407407407	0.668224	172480	"Phosphoserine phosphatase deficiency, 614023 (3)"	AR
+chr7	56084927	56085072	PSPH	chr7:56084927-56085072	0.424657534	0.618391	172480	"Phosphoserine phosphatase deficiency, 614023 (3)"	AR
+chr7	56171919	56172168	CHCHD2	chr7:56171919-56172168	0.644	0.5666	616244	"Parkinson disease 22, AD, 616710 (3)"	
+chr7	56174057	56174106	CHCHD2	chr7:56174057-56174106	0.74	0.704082	616244	"Parkinson disease 22, AD, 616710 (3)"	
+chr7	65429310	65429445	GUSB	chr7:65429310-65429445	0.441176471	0.62963	611499	"Mucopolysaccharidosis VII, 253220 (3)"	AR
+chr7	66456124	66456288	SBDS	chr7:66456124-66456288	0.406060606	0.734756	607444	"{Aplastic anemia, susceptibility to}, 609135 (3)/ Shwachman-Diamond syndrome, 260400 (3)"	/AR
+chr7	74188379	74188450	NCF1	chr7:74188379-74188450	0.583333333	0.333333	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	74191613	74191693	NCF1	chr7:74191613-74191693	0.543209877	0.341667	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	74193428	74193503	NCF1	chr7:74193428-74193503	0.486842105	0.333333	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	74193603	74193768	NCF1	chr7:74193603-74193768	0.638554217	0.677778	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	74195126	74195181	NCF1	chr7:74195126-74195181	0.482142857	0.357576	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	74197282	74197404	NCF1	chr7:74197282-74197404	0.62601626	0.572404	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	74197868	74197975	NCF1	chr7:74197868-74197975	0.583333333	0.551402	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	74199528	74199645	NCF1	chr7:74199528-74199645	0.601694915	0.383191	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	74202328	74202432	NCF1	chr7:74202328-74202432	0.638095238	0.410256	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	74202903	74203048	NCF1	chr7:74202903-74203048	0.726027397	0.426437	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	74203383	74203504	NCF1	chr7:74203383-74203504	0.704918033	0.333333	608512	"Chronic granulomatous disease due to deficiency of NCF-1, 233700 (3)"	AR
+chr7	75933301	75933490	HSPB1	chr7:75933301-75933490	0.642105263	0.630511	602195	"Charcot-Marie-Tooth disease, axonal, type 2F, 606595 (3)/ Neuropathy, distal hereditary motor, type IIB, 608634 (3)"	AD
+chr7	76063355	76063472	ZP3	chr7:76063355-76063472	0.5	0.5	182889	"Oocyte maturation defect 3, 617712 (3)"	AD
+chr7	76069567	76069658	ZP3	chr7:76069567-76069658	0.52173913	0.648352	182889	"Oocyte maturation defect 3, 617712 (3)"	AD
+chr7	76071159	76071373	ZP3	chr7:76071159-76071373	0.576744186	0.5	182889	"Oocyte maturation defect 3, 617712 (3)"	AD
+chr7	87031412	87031618	ABCB4	chr7:87031412-87031618	0.512077295	0.691748	171060	"Cholestasis, intrahepatic, of pregnancy, 3, 614972 (3)/ Cholestasis, progressive familial intrahepatic 3, 602347 (3)/ Gallbladder disease 1, 600803 (3)"	"AR, AD/AR/AR, AD"
+chr7	87133559	87133765	ABCB1	chr7:87133559-87133765	0.52173913	0.691748	171050	"{Colchicine resistance}, 120080 (3)/ {Inflammatory bowel disease 13}, 612244 (3)"	
+chr7	94227242	94227316	SGCE	chr7:94227242-94227316	0.613333333	0.468468	604149	"Dystonia-11, myoclonic, 159900 (3)"	AD
+chr7	99277449	99277519	CYP3A5	chr7:99277449-99277519	0.549295775	0.688095	605325	"{Hypertension, salt-sensitive essential, susceptibility to}, 145500 (3)"	Multifactorial
+chr7	99780346	99780462	STAG3	chr7:99780346-99780462	0.495726496	0.576149	608489	"Premature ovarian failure 8, 615723 (3)"	AR
+chr7	99783823	99783919	STAG3	chr7:99783823-99783919	0.432989691	0.723958	608489	"Premature ovarian failure 8, 615723 (3)"	AR
+chr7	99794779	99794902	STAG3	chr7:99794779-99794902	0.443548387	0.25	608489	"Premature ovarian failure 8, 615723 (3)"	AR
+chr7	99811630	99811638	STAG3	chr7:99811630-99811638	0.333333333	0.5	608489	"Premature ovarian failure 8, 615723 (3)"	AR
+chr7	117188695	117188877	CFTR	chr7:117188695-117188877	0.387978142	0.527473	602421	"{Bronchiectasis with or without elevated sweat chloride 1, modifier of}, 211400 (3)/ Congenital bilateral absence of vas deferens, 277180 (3)/ Cystic fibrosis, 219700 (3)/ {Hypertrypsinemia, neonatal} (3)/ {Pancreatitis, idiopathic}, 167800 (3)/ Sweat chloride elevation without CF (3)"	AD/AR/AR//AD/
+chr7	128036986	128037076	IMPDH1	chr7:128036986-128037076	0.538461538	0.713889	146690	"Leber congenital amaurosis 11, 613837 (3)/ Retinitis pigmentosa 10, 180105 (3)"	/AD
+chr7	128040387	128040593	IMPDH1	chr7:128040387-128040593	0.599033816	0.595469	146690	"Leber congenital amaurosis 11, 613837 (3)/ Retinitis pigmentosa 10, 180105 (3)"	/AD
+chr7	128040871	128040945	IMPDH1	chr7:128040871-128040945	0.546666667	0.646396	146690	"Leber congenital amaurosis 11, 613837 (3)/ Retinitis pigmentosa 10, 180105 (3)"	/AD
+chr7	128498062	128498271	FLNC	chr7:128498062-128498271	0.619047619	0.583732	102565	"Cardiomyopathy, familial hypertrophic, 26 (3)/ Cardiomyopathy, familial restrictive 5, 617047 (3)/ Myopathy, distal, 4, 614065 (3)/ Myopathy, myofibrillar, 5, 609524 (3)"	/AD/AD/AD
+chr7	128498390	128498577	FLNC	chr7:128498390-128498577	0.553191489	0.721925	102565	"Cardiomyopathy, familial hypertrophic, 26 (3)/ Cardiomyopathy, familial restrictive 5, 617047 (3)/ Myopathy, distal, 4, 614065 (3)/ Myopathy, myofibrillar, 5, 609524 (3)"	/AD/AD/AD
+chr7	140439612	140439746	BRAF	chr7:140439612-140439746	0.42962963	0.738806	164757	"Adenocarcinoma of lung, somatic, 211980 (3)/ Cardiofaciocutaneous syndrome, 115150 (3)/ Colorectal cancer, somatic (3)/ LEOPARD syndrome 3, 613707 (3)/ Melanoma, malignant, somatic (3)/ Nonsmall cell lung cancer, somatic (3)/ Noonan syndrome 7, 613706 (3)"	/AD//AD///AD
+chr7	151882643	151882716	MLL3	chr7:151882643-151882716	0.405405405	0.712329	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151902191	151902310	MLL3	chr7:151902191-151902310	0.45	0.693277	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151904385	151904513	MLL3	chr7:151904385-151904513	0.426356589	0.636719	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151917608	151917820	MLL3	chr7:151917608-151917820	0.441314554	0.669025	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151919658	151919767	MLL3	chr7:151919658-151919767	0.409090909	0.740826	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151921100	151921264	MLL3	chr7:151921100-151921264	0.436363636	0.472053	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151921520	151921701	MLL3	chr7:151921520-151921701	0.5	0.430479	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151927008	151927112	MLL3	chr7:151927008-151927112	0.438095238	0.362981	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151927305	151927406	MLL3	chr7:151927305-151927406	0.352941176	0.659241	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151932902	151933018	MLL3	chr7:151932902-151933018	0.598290598	0.553161	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151935792	151935911	MLL3	chr7:151935792-151935911	0.516666667	0.708683	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151962123	151962294	MLL3	chr7:151962123-151962294	0.48255814	0.660819	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	151970790	151970952	MLL3	chr7:151970790-151970952	0.45398773	0.716049	606833	"Kleefstra syndrome 2, 617768 (3)"	AD
+chr7	157155855	157155964	DNAJB6	chr7:157155855-157155964	0.427272727	0.655963	611332	"Muscular dystrophy, limb-girdle, type 1E, 603511 (3)"	AD
+chr7	157159196	157159255	DNAJB6	chr7:157159196-157159255	0.416666667	0.748588	611332	"Muscular dystrophy, limb-girdle, type 1E, 603511 (3)"	AD
+chr7	157160067	157160177	DNAJB6	chr7:157160067-157160177	0.405405405	0.577273	611332	"Muscular dystrophy, limb-girdle, type 1E, 603511 (3)"	AD
+chr7	157177561	157177702	DNAJB6	chr7:157177561-157177702	0.422535211	0.744681	611332	"Muscular dystrophy, limb-girdle, type 1E, 603511 (3)"	AD
+chr7	157178235	157178305	DNAJB6	chr7:157178235-157178305	0.366197183	0.62381	611332	"Muscular dystrophy, limb-girdle, type 1E, 603511 (3)"	AD
+chr8	30941215	30941295	WRN	chr8:30941215-30941295	0.333333333	0.58125	604611;604611	"Werner syndrome, 277700 (3);Werner syndrome, 277700 (3)"	AR;AR
+chr8	30942682	30942762	WRN	chr8:30942682-30942762	0.333333333	0.58125	604611;604611	"Werner syndrome, 277700 (3);Werner syndrome, 277700 (3)"	AR;AR
+chr8	72967671	72967835	TRPA1	chr8:72967671-72967835	0.43030303	0.606707	604775	"?Episodic pain syndrome, familial, 1, 615040 (3)"	AD
+chr8	72967921	72968090	TRPA1	chr8:72967921-72968090	0.429411765	0.591716	604775	"?Episodic pain syndrome, familial, 1, 615040 (3)"	AD
+chr8	143958098	143958301	CYP11B1	chr8:143958098-143958301	0.593137255	0.672414	610613	"Adrenal hyperplasia, congenital, due to 11-beta-hydroxylase deficiency, 202010 (3)/ Aldosteronism, glucocorticoid-remediable, 103900 (3)"	AR/AD
+chr8	143958439	143958638	CYP11B1	chr8:143958439-143958638	0.605	0.648241	610613	"Adrenal hyperplasia, congenital, due to 11-beta-hydroxylase deficiency, 202010 (3)/ Aldosteronism, glucocorticoid-remediable, 103900 (3)"	AR/AD
+chr8	143996121	143996324	CYP11B2	chr8:143996121-143996324	0.583333333	0.672414	124080	"Aldosterone to renin ratio raised (3)/ Hypoaldosteronism, congenital, due to CMO I deficiency, 203400 (3)/ Hypoaldosteronism, congenital, due to CMO II deficiency, 610600 (3)/ {Low renin hypertension, susceptibility to} (3)"	/AR/AR/
+chr8	143996462	143996661	CYP11B2	chr8:143996462-143996661	0.615	0.648241	124080	"Aldosterone to renin ratio raised (3)/ Hypoaldosteronism, congenital, due to CMO I deficiency, 203400 (3)/ Hypoaldosteronism, congenital, due to CMO II deficiency, 610600 (3)/ {Low renin hypertension, susceptibility to} (3)"	/AR/AR/
+chr9	6565354	6565429	GLDC	chr9:6565354-6565429	0.565789474	0.733333	238300	"Glycine encephalopathy, 605899 (3)"	AR
+chr9	6589195	6589292	GLDC	chr9:6589195-6589292	0.530612245	0.675258	238300	"Glycine encephalopathy, 605899 (3)"	AR
+chr9	6592851	6592990	GLDC	chr9:6592851-6592990	0.528571429	0.741007	238300	"Glycine encephalopathy, 605899 (3)"	AR
+chr9	21815432	21815518	MTAP	chr9:21815432-21815518	0.379310345	0.697674	156540	"Diaphyseal medullary stenosis with malignant fibrous histiocytoma, 112250 (3)"	AD
+chr9	33385003	33385288	AQP7	chr9:33385003-33385288	0.559440559	0.685088	602974	"[Glycerol quantitative trait locus], 614411 (3)"	AR
+chr9	33386402	33386539	AQP7	chr9:33386402-33386539	0.601449275	0.706204	602974	"[Glycerol quantitative trait locus], 614411 (3)"	AR
+chr9	33386967	33387090	AQP7	chr9:33386967-33387090	0.516129032	0.567073	602974	"[Glycerol quantitative trait locus], 614411 (3)"	AR
+chr9	33395076	33395193	AQP7	chr9:33395076-33395193	0.516949153	0.726496	602974	"[Glycerol quantitative trait locus], 614411 (3)"	AR
+chr9	80409379	80409508	GNAQ	chr9:80409379-80409508	0.423076923	0.748062	600998	"Capillary malformations, congenital, 1, somatic, mosaic, 163000 (3)/ Sturge-Weber syndrome, somatic, mosaic, 185300 (3)"	
+chr9	80430532	80430686	GNAQ	chr9:80430532-80430686	0.380645161	0.724026	600998	"Capillary malformations, congenital, 1, somatic, mosaic, 163000 (3)/ Sturge-Weber syndrome, somatic, mosaic, 185300 (3)"	
+chr9	80646016	80646151	GNAQ	chr9:80646016-80646151	0.669117647	0.714815	600998	"Capillary malformations, congenital, 1, somatic, mosaic, 163000 (3)/ Sturge-Weber syndrome, somatic, mosaic, 185300 (3)"	
+chr9	86585077	86585246	HNRNPK	chr9:86585077-86585246	0.441176471	0.683432	600712	"Au-Kline syndrome, 616580 (3)"	AD
+chr9	86586188	86586271	HNRNPK	chr9:86586188-86586271	0.464285714	0.678715	600712	"Au-Kline syndrome, 616580 (3)"	AD
+chr9	86588201	86588314	HNRNPK	chr9:86588201-86588314	0.421052632	0.634218	600712	"Au-Kline syndrome, 616580 (3)"	AD
+chr9	86592604	86592701	HNRNPK	chr9:86592604-86592701	0.408163265	0.665808	600712	"Au-Kline syndrome, 616580 (3)"	AD
+chr9	88880958	88881106	ISCA1	chr9:88880958-88881106	0.369127517	0.498311	611006	"Multiple mitochondrial dysfunctions syndrome 5, 617613 (3)"	AR
+chr9	88886922	88887027	ISCA1	chr9:88886922-88887027	0.386792453	0.50873	611006	"Multiple mitochondrial dysfunctions syndrome 5, 617613 (3)"	AR
+chr9	88889104	88889157	ISCA1	chr9:88889104-88889157	0.351851852	0.641509	611006	"Multiple mitochondrial dysfunctions syndrome 5, 617613 (3)"	AR
+chr9	94871022	94871116	SPTLC1	chr9:94871022-94871116	0.452631579	0.170213	605712	"Neuropathy, hereditary sensory and autonomic, type IA, 162400 (3)"	AD
+chr9	94874737	94874844	SPTLC1	chr9:94874737-94874844	0.37962963	0.635514	605712	"Neuropathy, hereditary sensory and autonomic, type IA, 162400 (3)"	AD
+chr9	94877596	94877652	SPTLC1	chr9:94877596-94877652	0.614035088	0.56994	605712	"Neuropathy, hereditary sensory and autonomic, type IA, 162400 (3)"	AD
+chr9	131016933	131016993	DNM1	chr9:131016933-131016993	0.655737705	0.744444	602377	"Epileptic encephalopathy, early infantile, 31, 616346 (3)"	AD
+chr9	133329692	133329760	ASS1	chr9:133329692-133329760	0.536231884	0.655637	603470	"Citrullinemia, 215700 (3)"	AR
+chr9	133355103	133355187	ASS1	chr9:133355103-133355187	0.576470588	0.560516	603470	"Citrullinemia, 215700 (3)"	AR
+chr9	135937381	135937455	CEL	chr9:135937381-135937455	0.653333333	0.5	114840	"Maturity-onset diabetes of the young, type VIII, 609812 (3)"	AD
+chr9	135944059	135944245	CEL	chr9:135944059-135944245	0.556149733	0.5	114840	"Maturity-onset diabetes of the young, type VIII, 609812 (3)"	AD
+chr9	135944443	135944646	CEL	chr9:135944443-135944646	0.558823529	0.5	114840	"Maturity-onset diabetes of the young, type VIII, 609812 (3)"	AD
+chr9	135946374	135947151	CEL	chr9:135946374-135947151	0.750642674	0.541184	114840	"Maturity-onset diabetes of the young, type VIII, 609812 (3)"	AD
+chr10	92997	94054	TUBB8	chr10:92997-94054	0.565217391	0.377483	616768	"Oocyte maturation defect 2, 616780 (3)"	"AR, AD"
+chr10	94555	94665	TUBB8	chr10:94555-94665	0.657657658	0.291667	616768	"Oocyte maturation defect 2, 616780 (3)"	"AR, AD"
+chr10	94744	94852	TUBB8	chr10:94744-94852	0.596330275	0.4375	616768	"Oocyte maturation defect 2, 616780 (3)"	"AR, AD"
+chr10	5032188	5032230	AKR1C2	chr10:5032188-5032230	0.348837209	0.5	600450	"Obesity, hyperphagia, and developmental delay (3)/ 46XY sex reversal 8, 614279 (3)"	/AR
+chr10	5034023	5034105	AKR1C2	chr10:5034023-5034105	0.397590361	0.5	600450	"Obesity, hyperphagia, and developmental delay (3)/ 46XY sex reversal 8, 614279 (3)"	/AR
+chr10	5037511	5037676	AKR1C2	chr10:5037511-5037676	0.602409639	0.329293	600450	"Obesity, hyperphagia, and developmental delay (3)/ 46XY sex reversal 8, 614279 (3)"	/AR
+chr10	5037948	5038057	AKR1C2	chr10:5037948-5038057	0.445454545	0.538991	600450	"Obesity, hyperphagia, and developmental delay (3)/ 46XY sex reversal 8, 614279 (3)"	/AR
+chr10	5041392	5041469	AKR1C2	chr10:5041392-5041469	0.435897436	0.5	600450	"Obesity, hyperphagia, and developmental delay (3)/ 46XY sex reversal 8, 614279 (3)"	/AR
+chr10	5043706	5043873	AKR1C2	chr10:5043706-5043873	0.44047619	0.75	600450	"Obesity, hyperphagia, and developmental delay (3)/ 46XY sex reversal 8, 614279 (3)"	/AR
+chr10	5242144	5242311	AKR1C4	chr10:5242144-5242311	0.44047619	0.622255	600451	"{46XY sex reversal 8, modifier of}, 614279 (3)"	AR
+chr10	5248238	5248360	AKR1C4	chr10:5248238-5248360	0.520325203	0.741803	600451	"{46XY sex reversal 8, modifier of}, 614279 (3)"	AR
+chr10	5254579	5254688	AKR1C4	chr10:5254579-5254688	0.454545455	0.644495	600451	"{46XY sex reversal 8, modifier of}, 614279 (3)"	AR
+chr10	21875223	21875277	MLLT10	chr10:21875223-21875277	0.4	0.62037	602409	"Leukemia, acute myeloid, 601626 (3)"	AD
+chr10	26991091	26991123	PDSS1	chr10:26991091-26991123	0.515151515	0.695312	607429	"Coenzyme Q10 deficiency, primary, 2, 614651 (3)"	AR
+chr10	28250497	28250644	ARMC4	chr10:28250497-28250644	0.418918919	0.5	615408	"Ciliary dyskinesia, primary, 23, 615451 (3)"	AR
+chr10	28257852	28257947	ARMC4	chr10:28257852-28257947	0.416666667	0.5	615408	"Ciliary dyskinesia, primary, 23, 615451 (3)"	AR
+chr10	43282616	43282695	BMS1	chr10:43282616-43282695	0.4	0	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	43285771	43285959	BMS1	chr10:43285771-43285959	0.412698413	0.672872	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	43287075	43287217	BMS1	chr10:43287075-43287217	0.440559441	0.74061	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	43287941	43288062	BMS1	chr10:43287941-43288062	0.393442623	0.541322	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	43312047	43312120	BMS1	chr10:43312047-43312120	0.513513514	0.66895	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	43312766	43312942	BMS1	chr10:43312766-43312942	0.350282486	0.314394	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	43315684	43315872	BMS1	chr10:43315684-43315872	0.476190476	0.474734	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	43315956	43316136	BMS1	chr10:43315956-43316136	0.453038674	0.374074	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	43316382	43316440	BMS1	chr10:43316382-43316440	0.491525424	0	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	43317510	43317632	BMS1	chr10:43317510-43317632	0.317073171	0.163934	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	43319057	43319232	BMS1	chr10:43319057-43319232	0.494318182	0.666667	611448	"?Aplasia cutis congenita, nonsyndromic, 107600 (3)"	"AR, AD"
+chr10	70587381	70587690	STOX1	chr10:70587381-70587690	0.796774194	0.504854	609397	"Preeclampsia/eclampsia 4, 609404 (3)"	
+chr10	73862608	73862725	ASCC1	chr10:73862608-73862725	0.550847458	0.65812	614215	"Barrett esophagus/esophageal adenocarcinoma, 614266 (3)/ ?Spinal muscular atrophy with congenital bone fractures 2, 616867 (3)"	/AR
+chr10	79795269	79795478	RPS24	chr10:79795269-79795478	0.428571429	0.644737	602412	"Diamond-blackfan anemia 3, 610629 (3)"	AD
+chr10	79796952	79797062	RPS24	chr10:79796952-79797062	0.459459459	0.659091	602412	"Diamond-blackfan anemia 3, 610629 (3)"	AD
+chr10	81316965	81317341	SFTPA2	chr10:81316965-81317341	0.541114058	0.614362	178642	"Pulmonary fibrosis, idiopathic, 178500 (3)"	AD
+chr10	81317808	81317885	SFTPA2	chr10:81317808-81317885	0.538461538	0.681818	178642	"Pulmonary fibrosis, idiopathic, 178500 (3)"	AD
+chr10	88651884	88651986	BMPR1A	chr10:88651884-88651986	0.388349515	0.715686	601299	"Juvenile polyposis syndrome, infantile form, 174900 (3)/ Polyposis syndrome, hereditary mixed, 2, 610069 (3)/ Polyposis, juvenile intestinal, 174900 (3)"	AD//AD
+chr10	88659784	88659883	BMPR1A	chr10:88659784-88659883	0.42	0.671717	601299	"Juvenile polyposis syndrome, infantile form, 174900 (3)/ Polyposis syndrome, hereditary mixed, 2, 610069 (3)/ Polyposis, juvenile intestinal, 174900 (3)"	AD//AD
+chr10	88671997	88672141	BMPR1A	chr10:88671997-88672141	0.406896552	0.583333	601299	"Juvenile polyposis syndrome, infantile form, 174900 (3)/ Polyposis syndrome, hereditary mixed, 2, 610069 (3)/ Polyposis, juvenile intestinal, 174900 (3)"	AD//AD
+chr10	88676891	88677083	BMPR1A	chr10:88676891-88677083	0.455958549	0.496528	601299	"Juvenile polyposis syndrome, infantile form, 174900 (3)/ Polyposis syndrome, hereditary mixed, 2, 610069 (3)/ Polyposis, juvenile intestinal, 174900 (3)"	AD//AD
+chr10	88678929	88679226	BMPR1A	chr10:88678929-88679226	0.453020134	0.505051	601299	"Juvenile polyposis syndrome, infantile form, 174900 (3)/ Polyposis syndrome, hereditary mixed, 2, 610069 (3)/ Polyposis, juvenile intestinal, 174900 (3)"	AD//AD
+chr10	88681277	88681452	BMPR1A	chr10:88681277-88681452	0.505681818	0.657143	601299	"Juvenile polyposis syndrome, infantile form, 174900 (3)/ Polyposis syndrome, hereditary mixed, 2, 610069 (3)/ Polyposis, juvenile intestinal, 174900 (3)"	AD//AD
+chr10	88683133	88683263	BMPR1A	chr10:88683133-88683263	0.450381679	0.597436	601299	"Juvenile polyposis syndrome, infantile form, 174900 (3)/ Polyposis syndrome, hereditary mixed, 2, 610069 (3)/ Polyposis, juvenile intestinal, 174900 (3)"	AD//AD
+chr10	88683351	88683476	BMPR1A	chr10:88683351-88683476	0.444444444	0.606667	601299	"Juvenile polyposis syndrome, infantile form, 174900 (3)/ Polyposis syndrome, hereditary mixed, 2, 610069 (3)/ Polyposis, juvenile intestinal, 174900 (3)"	AD//AD
+chr10	88817448	88817539	GLUD1	chr10:88817448-88817539	0.423913043	0.71978	138130	"Hyperinsulinism-hyperammonemia syndrome, 606762 (3)"	AD
+chr10	88818907	88819030	GLUD1	chr10:88818907-88819030	0.411290323	0.628726	138130	"Hyperinsulinism-hyperammonemia syndrome, 606762 (3)"	AD
+chr10	88820672	88820809	GLUD1	chr10:88820672-88820809	0.405797101	0.613139	138130	"Hyperinsulinism-hyperammonemia syndrome, 606762 (3)"	AD
+chr10	88834308	88834371	GLUD1	chr10:88834308-88834371	0.390625	0.650794	138130	"Hyperinsulinism-hyperammonemia syndrome, 606762 (3)"	AD
+chr10	88835725	88835780	GLUD1	chr10:88835725-88835780	0.446428571	0.49697	138130	"Hyperinsulinism-hyperammonemia syndrome, 606762 (3)"	AD
+chr10	88836333	88836413	GLUD1	chr10:88836333-88836413	0.432098765	0.48125	138130	"Hyperinsulinism-hyperammonemia syndrome, 606762 (3)"	AD
+chr10	89624227	89624305	PTEN	chr10:89624227-89624305	0.405063291	0.724359	601728	"Bannayan-Riley-Ruvalcaba syndrome, 153480 (3)/ Cowden syndrome 1, 158350 (3)/ Endometrial carcinoma, somatic, 608089 (3)/ {Glioma susceptibility 2}, 613028 (3)/ Lhermitte-Duclos syndrome, 158350 (3)/ Macrocephaly/autism syndrome, 605309 (3)/ Malignant melanoma, somatic, 155600 (3)/ {Meningioma}, 607174 (3)/ PTEN hamartoma tumor syndrome (3)/ {Prostate cancer, somatic}, 176807 (3)/ Squamous cell carcinoma, head and neck, somatic, 275355 (3)/ VATER association with macrocephaly and ventriculomegaly, 276950 (3)"	AD/AD///AD/AD//AD////AR
+chr10	89653782	89653866	PTEN	chr10:89653782-89653866	0.341176471	0.744048	601728	"Bannayan-Riley-Ruvalcaba syndrome, 153480 (3)/ Cowden syndrome 1, 158350 (3)/ Endometrial carcinoma, somatic, 608089 (3)/ {Glioma susceptibility 2}, 613028 (3)/ Lhermitte-Duclos syndrome, 158350 (3)/ Macrocephaly/autism syndrome, 605309 (3)/ Malignant melanoma, somatic, 155600 (3)/ {Meningioma}, 607174 (3)/ PTEN hamartoma tumor syndrome (3)/ {Prostate cancer, somatic}, 176807 (3)/ Squamous cell carcinoma, head and neck, somatic, 275355 (3)/ VATER association with macrocephaly and ventriculomegaly, 276950 (3)"	AD/AD///AD/AD//AD////AR
+chr10	89692770	89693008	PTEN	chr10:89692770-89693008	0.40167364	0.672269	601728	"Bannayan-Riley-Ruvalcaba syndrome, 153480 (3)/ Cowden syndrome 1, 158350 (3)/ Endometrial carcinoma, somatic, 608089 (3)/ {Glioma susceptibility 2}, 613028 (3)/ Lhermitte-Duclos syndrome, 158350 (3)/ Macrocephaly/autism syndrome, 605309 (3)/ Malignant melanoma, somatic, 155600 (3)/ {Meningioma}, 607174 (3)/ PTEN hamartoma tumor syndrome (3)/ {Prostate cancer, somatic}, 176807 (3)/ Squamous cell carcinoma, head and neck, somatic, 275355 (3)/ VATER association with macrocephaly and ventriculomegaly, 276950 (3)"	AD/AD///AD/AD//AD////AR
+chr10	89720651	89720875	PTEN	chr10:89720651-89720875	0.337777778	0.662946	601728	"Bannayan-Riley-Ruvalcaba syndrome, 153480 (3)/ Cowden syndrome 1, 158350 (3)/ Endometrial carcinoma, somatic, 608089 (3)/ {Glioma susceptibility 2}, 613028 (3)/ Lhermitte-Duclos syndrome, 158350 (3)/ Macrocephaly/autism syndrome, 605309 (3)/ Malignant melanoma, somatic, 155600 (3)/ {Meningioma}, 607174 (3)/ PTEN hamartoma tumor syndrome (3)/ {Prostate cancer, somatic}, 176807 (3)/ Squamous cell carcinoma, head and neck, somatic, 275355 (3)/ VATER association with macrocephaly and ventriculomegaly, 276950 (3)"	AD/AD///AD/AD//AD////AR
+chr10	89725044	89725229	PTEN	chr10:89725044-89725229	0.397849462	0.476577	601728	"Bannayan-Riley-Ruvalcaba syndrome, 153480 (3)/ Cowden syndrome 1, 158350 (3)/ Endometrial carcinoma, somatic, 608089 (3)/ {Glioma susceptibility 2}, 613028 (3)/ Lhermitte-Duclos syndrome, 158350 (3)/ Macrocephaly/autism syndrome, 605309 (3)/ Malignant melanoma, somatic, 155600 (3)/ {Meningioma}, 607174 (3)/ PTEN hamartoma tumor syndrome (3)/ {Prostate cancer, somatic}, 176807 (3)/ Squamous cell carcinoma, head and neck, somatic, 275355 (3)/ VATER association with macrocephaly and ventriculomegaly, 276950 (3)"	AD/AD///AD/AD//AD////AR
+chr10	96535147	96535296	CYP2C19	chr10:96535147-96535296	0.52	0.561521	124020;124020	"Clopidogrel, impaired responsiveness to, 609535 (3)/ Mephenytoin poor metabolizer, 609535 (3)/ Omeprazole poor metabolizer, 609535 (3)/ Proguanil poor metabolizer, 609535 (3);Clopidogrel, impaired responsiveness to, 609535 (3)/ Mephenytoin poor metabolizer, 609535 (3)/ Omeprazole poor metabolizer, 609535 (3)/ Proguanil poor metabolizer, 609535 (3)"	AR;AR
+chr10	96701949	96702098	CYP2C9	chr10:96701949-96702098	0.506666667	0.60962	601130	"Tolbutamide poor metabolizer (3)/ Warfarin sensitivity, 122700 (3)"	/AD
+chr10	112362232	112362423	SMC3	chr10:112362232-112362423	0.46875	0.743455	606062	"Cornelia de Lange syndrome 3, 610759 (3)"	AD
+chr10	112362583	112362760	SMC3	chr10:112362583-112362760	0.443820225	0.694915	606062	"Cornelia de Lange syndrome 3, 610759 (3)"	AD
+chr10	112362942	112363048	SMC3	chr10:112362942-112363048	0.355140187	0.650943	606062	"Cornelia de Lange syndrome 3, 610759 (3)"	AD
+chr11	319838	319990	IFITM3	chr11:319838-319990	0.581699346	0.479715	605579	"{Influenza, severe, susceptibility to}, 614680 (3)"	
+chr11	1262081	1272973	MUC5B	chr11:1262081-1272973	0.645552189	0.61412	600770	"{Pulmonary fibrosis, idiopathic, susceptibility to}, 178500 (3)"	AD
+chr11	5269589	5269717	HBG1	chr11:5269589-5269717	0.550387597	0.632812	142200	"Fetal hemoglobin quantitative trait locus 1, 141749 (3)"	AD
+chr11	5270598	5270820	HBG1	chr11:5270598-5270820	0.538116592	0.566817	142200	"Fetal hemoglobin quantitative trait locus 1, 141749 (3)"	AD
+chr11	5270943	5271034	HBG1	chr11:5270943-5271034	0.52173913	0.5	142200	"Fetal hemoglobin quantitative trait locus 1, 141749 (3)"	AD
+chr11	5274507	5274635	HBG2	chr11:5274507-5274635	0.550387597	0.632812	142250	"Cyanosis, transient neonatal, 613977 (3)/ Fetal hemoglobin quantitative trait locus 1, 141749 (3)"	AD
+chr11	5275522	5275744	HBG2	chr11:5275522-5275744	0.533632287	0.566817	142250	"Cyanosis, transient neonatal, 613977 (3)/ Fetal hemoglobin quantitative trait locus 1, 141749 (3)"	AD
+chr11	5275867	5275958	HBG2	chr11:5275867-5275958	0.52173913	0.5	142250	"Cyanosis, transient neonatal, 613977 (3)/ Fetal hemoglobin quantitative trait locus 1, 141749 (3)"	AD
+chr11	18420978	18421095	LDHA	chr11:18420978-18421095	0.440677966	0.696581	150000	"Glycogen storage disease XI, 612933 (3)"	AR
+chr11	45921689	45922003	MAPK8IP1	chr11:45921689-45922003	0.774603175	0.494161	604641	"{Diabetes mellitus, noninsulin-dependent}, 125853 (3)"	AD
+chr11	45925540	45925712	MAPK8IP1	chr11:45925540-45925712	0.578034682	0.742248	604641	"{Diabetes mellitus, noninsulin-dependent}, 125853 (3)"	AD
+chr11	45926702	45926800	MAPK8IP1	chr11:45926702-45926800	0.595959596	0.734694	604641	"{Diabetes mellitus, noninsulin-dependent}, 125853 (3)"	AD
+chr11	61732199	61732363	FTH1	chr11:61732199-61732363	0.478787879	0.552337	134770	"?Hemochromatosis, type 5, 615517 (3)"	AD
+chr11	61732459	61732584	FTH1	chr11:61732459-61732584	0.452380952	0.542	134770	"?Hemochromatosis, type 5, 615517 (3)"	AD
+chr11	61732841	61732987	FTH1	chr11:61732841-61732987	0.448979592	0.291667	134770	"?Hemochromatosis, type 5, 615517 (3)"	AD
+chr11	61734784	61734897	FTH1	chr11:61734784-61734897	0.605263158	0.336283	134770	"?Hemochromatosis, type 5, 615517 (3)"	AD
+chr11	62387969	62388143	B3GAT3	chr11:62387969-62388143	0.645714286	0.695402	606374	"Multiple joint dislocations, short stature, craniofacial dysmorphism, with or without congenital heart defects, 245600 (3)"	AR
+chr11	65770722	65770844	BANF1	chr11:65770722-65770844	0.577235772	0.672131	603811	"Nestor-Guillermo progeria syndrome, 614008 (3)"	AR
+chr11	67759017	67759328	UNC93B1	chr11:67759017-67759328	0.75	0.406752	608204	"{Herpes simplex encephalitis, susceptibility to, 1}, 610551 (3)"	
+chr11	67761147	67761265	UNC93B1	chr11:67761147-67761265	0.546218487	0.0529661	608204	"{Herpes simplex encephalitis, susceptibility to, 1}, 610551 (3)"	
+chr11	67763082	67763355	UNC93B1	chr11:67763082-67763355	0.664233577	0.551587	608204	"{Herpes simplex encephalitis, susceptibility to, 1}, 610551 (3)"	
+chr11	89028311	89028534	TYR	chr11:89028311-89028534	0.513392857	0.652466	606933	"Albinism, oculocutaneous, type IA, 203100 (3)/ Albinism, oculocutaneous, type IB, 606952 (3)/ {Melanoma, cutaneous malignant, susceptibility to, 8}, 601800 (3)/ [Skin/hair/eye pigmentation 3, blue/green eyes], 601800 (3)/ [Skin/hair/eye pigmentation 3, light/dark/freckling skin], 601800 (3)/ Waardenburg syndrome/albinism, digenic, 103470 (3)"	AR/////AD
+chr11	101342868	101343063	TRPC6	chr11:101342868-101343063	0.341836735	0.703419	603652	"Glomerulosclerosis, focal segmental, 2, 603965 (3)"	
+chr11	108159704	108159830	ATM	chr11:108159704-108159830	0.362204724	0.68254	607585	"Ataxia-telangiectasia, 208900 (3)/ {Breast cancer, susceptibility to}, 114480 (3)/ Lymphoma, B-cell non-Hodgkin, somatic (3)/ Lymphoma, mantle cell, somatic (3)/ T-cell prolymphocytic leukemia, somatic (3)"	AR/AD///
+chr11	110128831	110128914	RDX	chr11:110128831-110128914	0.357142857	0.732932	179410	"Deafness, AR 24, 611022 (3)"	AR
+chr11	111958581	111958697	SDHD	chr11:111958581-111958697	0.512820513	0.548851	602690	"Carcinoid tumors, intestinal, 114900 (3)/ Cowden syndrome 3, 615106 (3)/ Merkel cell carcinoma, somatic (3)/ Mitochondrial complex II deficiency, 252011 (3)/ Paraganglioma and gastric stromal sarcoma, 606864 (3)/ Paragangliomas 1, with or without deafness, 168000 (3)/ Pheochromocytoma, 171300 (3)"	AD///AR//AD/AD
+chr11	111959591	111959735	SDHD	chr11:111959591-111959735	0.551724138	0.607639	602690	"Carcinoid tumors, intestinal, 114900 (3)/ Cowden syndrome 3, 615106 (3)/ Merkel cell carcinoma, somatic (3)/ Mitochondrial complex II deficiency, 252011 (3)/ Paraganglioma and gastric stromal sarcoma, 606864 (3)/ Paragangliomas 1, with or without deafness, 168000 (3)/ Pheochromocytoma, 171300 (3)"	AD///AR//AD/AD
+chr11	111965529	111965694	SDHD	chr11:111965529-111965694	0.493975904	0.394444	602690	"Carcinoid tumors, intestinal, 114900 (3)/ Cowden syndrome 3, 615106 (3)/ Merkel cell carcinoma, somatic (3)/ Mitochondrial complex II deficiency, 252011 (3)/ Paraganglioma and gastric stromal sarcoma, 606864 (3)/ Paragangliomas 1, with or without deafness, 168000 (3)/ Pheochromocytoma, 171300 (3)"	AD///AR//AD/AD
+chr11	132812821	132812987	OPCML	chr11:132812821-132812987	0.634730539	0.539157	600632	"{Ovarian cancer, somatic}, 167000 (3)"	
+chr12	2795332	2795435	CACNA1C	chr12:2795332-2795435	0.557692308	0.669903	114205	"Brugada syndrome 3, 611875 (3)/ Timothy syndrome, 601005 (3)"	/AD
+chr12	6120783	6120960	VWF	chr12:6120783-6120960	0.629213483	0.706215	613160	"von Willebrand disease, type 1, 193400 (3)/ von Willebrand disease, types 2A, 2B, 2M, and 2N, 613554 (3)/ von Willibrand disease, type 3, 277480 (3)"	"AD/AR, AD/AR"
+chr12	6131906	6132064	VWF	chr12:6131906-6132064	0.622641509	0.5	613160	"von Willebrand disease, type 1, 193400 (3)/ von Willebrand disease, types 2A, 2B, 2M, and 2N, 613554 (3)/ von Willibrand disease, type 3, 277480 (3)"	"AD/AR, AD/AR"
+chr12	6132797	6132953	VWF	chr12:6132797-6132953	0.598726115	0.612179	613160	"von Willebrand disease, type 1, 193400 (3)/ von Willebrand disease, types 2A, 2B, 2M, and 2N, 613554 (3)/ von Willibrand disease, type 3, 277480 (3)"	"AD/AR, AD/AR"
+chr12	6134746	6134859	VWF	chr12:6134746-6134859	0.526315789	0.5	613160	"von Willebrand disease, type 1, 193400 (3)/ von Willebrand disease, types 2A, 2B, 2M, and 2N, 613554 (3)/ von Willibrand disease, type 3, 277480 (3)"	"AD/AR, AD/AR"
+chr12	6135072	6135212	VWF	chr12:6135072-6135212	0.517730496	0.682143	613160	"von Willebrand disease, type 1, 193400 (3)/ von Willebrand disease, types 2A, 2B, 2M, and 2N, 613554 (3)/ von Willibrand disease, type 3, 277480 (3)"	"AD/AR, AD/AR"
+chr12	6978028	6978151	TPI1	chr12:6978028-6978151	0.532258065	0.697832	190450	"Hemolytic anemia due to triosephosphate isomerase deficiency, 615512 (3)"	AR
+chr12	6978422	6978554	TPI1	chr12:6978422-6978554	0.533834586	0.64899	190450	"Hemolytic anemia due to triosephosphate isomerase deficiency, 615512 (3)"	AR
+chr12	6978852	6978937	TPI1	chr12:6978852-6978937	0.558139535	0.692157	190450	"Hemolytic anemia due to triosephosphate isomerase deficiency, 615512 (3)"	AR
+chr12	6979429	6979547	TPI1	chr12:6979429-6979547	0.56302521	0.603107	190450	"Hemolytic anemia due to triosephosphate isomerase deficiency, 615512 (3)"	AR
+chr12	9072352	9072462	PHC1	chr12:9072352-9072462	0.594594595	0.5	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9073581	9073661	PHC1	chr12:9073581-9073661	0.62962963	0.7125	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9074197	9074346	PHC1	chr12:9074197-9074346	0.593333333	0.614094	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9075229	9075384	PHC1	chr12:9075229-9075384	0.570512821	0.712903	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9083031	9083523	PHC1	chr12:9083031-9083523	0.592292089	0.570122	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9085159	9085946	PHC1	chr12:9085159-9085946	0.595177665	0.542143	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9086461	9086608	PHC1	chr12:9086461-9086608	0.513513514	0.615646	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9086863	9087074	PHC1	chr12:9086863-9087074	0.504716981	0.656398	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9087720	9087834	PHC1	chr12:9087720-9087834	0.556521739	0.649123	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9089452	9089560	PHC1	chr12:9089452-9089560	0.52293578	0.638889	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9089772	9089922	PHC1	chr12:9089772-9089922	0.549668874	0.61	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9090425	9090656	PHC1	chr12:9090425-9090656	0.5	0.571429	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9091901	9092055	PHC1	chr12:9091901-9092055	0.464516129	0.5	602978	"?Microcephaly 11, primary, AR, 615414 (3)"	AR
+chr12	9243797	9244025	A2M	chr12:9243797-9244025	0.554585153	0.739035	103950;103950	"Alpha-2-macroglobulin deficiency, 614036 (1)/ {Alzheimer disease, susceptibility to}, 104300 (3);Alpha-2-macroglobulin deficiency, 614036 (1)/ {Alzheimer disease, susceptibility to}, 104300 (3)"	AD;AD
+chr12	21608066	21608226	PYROXD1	chr12:21608066-21608226	0.372670807	0.69375	617220	"Myopathy, myofibrillar, 8, 617258 (3)"	AR
+chr12	21615674	21615796	PYROXD1	chr12:21615674-21615796	0.504065041	0.639344	617220	"Myopathy, myofibrillar, 8, 617258 (3)"	AR
+chr12	21620415	21620552	PYROXD1	chr12:21620415-21620552	0.442028986	0.616788	617220	"Myopathy, myofibrillar, 8, 617258 (3)"	AR
+chr12	21621440	21621688	PYROXD1	chr12:21621440-21621688	0.353413655	0.711694	617220	"Myopathy, myofibrillar, 8, 617258 (3)"	AR
+chr12	31231328	31231471	DDX11	chr12:31231328-31231471	0.479166667	0.333333	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31236747	31236995	DDX11	chr12:31236747-31236995	0.534136546	0.629032	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31237517	31237603	DDX11	chr12:31237517-31237603	0.643678161	0.335271	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31237903	31238060	DDX11	chr12:31237903-31238060	0.594936709	0.633758	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31240872	31240917	DDX11	chr12:31240872-31240917	0.456521739	0.733333	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31241978	31242085	DDX11	chr12:31241978-31242085	0.555555556	0.588785	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31242820	31243028	DDX11	chr12:31242820-31243028	0.626794258	0.383013	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31244653	31244805	DDX11	chr12:31244653-31244805	0.660130719	0.660088	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31246179	31246258	DDX11	chr12:31246179-31246258	0.5	0.481013	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31247524	31247568	DDX11	chr12:31247524-31247568	0.422222222	0.333333	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31247689	31247756	DDX11	chr12:31247689-31247756	0.5	0.415423	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31249275	31249313	DDX11	chr12:31249275-31249313	0.487179487	0.333333	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31249571	31249679	DDX11	chr12:31249571-31249679	0.568807339	0.493827	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31249793	31249924	DDX11	chr12:31249793-31249924	0.628787879	0.679389	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31250819	31250931	DDX11	chr12:31250819-31250931	0.584070796	0.595238	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31253569	31253641	DDX11	chr12:31253569-31253641	0.643835616	0.456019	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31254767	31254916	DDX11	chr12:31254767-31254916	0.62	0.573826	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31255361	31255461	DDX11	chr12:31255361-31255461	0.594059406	0.6	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31255870	31255954	DDX11	chr12:31255870-31255954	0.564705882	0.361111	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31256256	31256329	DDX11	chr12:31256256-31256329	0.648648649	0.372146	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	31256511	31256665	DDX11	chr12:31256511-31256665	0.638709677	0.731602	601150	"Warsaw breakage syndrome, 613398 (3)"	AR
+chr12	32996116	32996247	PKP2	chr12:32996116-32996247	0.583333333	0.459924	602861	"Arrhythmogenic right ventricular dysplasia 9, 609040 (3)"	AD
+chr12	33031854	33031966	PKP2	chr12:33031854-33031966	0.433628319	0.696429	602861	"Arrhythmogenic right ventricular dysplasia 9, 609040 (3)"	AD
+chr12	34178798	34179850	ALG10	chr12:34178798-34179850	0.351377018	0.71673	603313	"{Long QT syndrome, acquired, reduced susceptibility to}, 613688 (3)"	AD
+chr12	49578793	49579773	TUBA1A	chr12:49578793-49579773	0.525993884	0.550765	602529	"Lissencephaly 3, 611603 (3)"	AD
+chr12	49580093	49580241	TUBA1A	chr12:49580093-49580241	0.523489933	0.680743	602529	"Lissencephaly 3, 611603 (3)"	AD
+chr12	49580394	49580616	TUBA1A	chr12:49580394-49580616	0.573991031	0.561186	602529	"Lissencephaly 3, 611603 (3)"	AD
+chr12	52680886	52681106	KRT81	chr12:52680886-52681106	0.660633484	0.423485	602153	"Monilethrix, 158000 (3)"	AD
+chr12	52681380	52681505	KRT81	chr12:52681380-52681505	0.603174603	0.662667	602153	"Monilethrix, 158000 (3)"	AD
+chr12	52682145	52682240	KRT81	chr12:52682145-52682240	0.614583333	0.578947	602153	"Monilethrix, 158000 (3)"	AD
+chr12	52682999	52683059	KRT81	chr12:52682999-52683059	0.491803279	0.5	602153	"Monilethrix, 158000 (3)"	AD
+chr12	52683862	52684070	KRT81	chr12:52683862-52684070	0.607655502	0.453125	602153	"Monilethrix, 158000 (3)"	AD
+chr12	52684881	52685249	KRT81	chr12:52684881-52685249	0.682926829	0.530571	602153	"Monilethrix, 158000 (3)"	AD
+chr12	52695701	52696069	KRT86	chr12:52695701-52696069	0.677506775	0.430933	601928	"Monilethrix, 158000 (3)"	AD
+chr12	52696884	52697092	KRT86	chr12:52696884-52697092	0.607655502	0.452324	601928	"Monilethrix, 158000 (3)"	AD
+chr12	52697895	52697955	KRT86	chr12:52697895-52697955	0.491803279	0.5	601928	"Monilethrix, 158000 (3)"	AD
+chr12	52699024	52699188	KRT86	chr12:52699024-52699188	0.581818182	0.686992	601928	"Monilethrix, 158000 (3)"	AD
+chr12	52699447	52699572	KRT86	chr12:52699447-52699572	0.611111111	0.561333	601928	"Monilethrix, 158000 (3)"	AD
+chr12	52699844	52700064	KRT86	chr12:52699844-52700064	0.642533937	0.581818	601928	"Monilethrix, 158000 (3)"	AD
+chr12	52709677	52709897	KRT83	chr12:52709677-52709897	0.63800905	0.724242	602765	"Erythrokeratodermia variabilis et progressiva 5, 617756 (3)/ Monilethrix, 158000 (3)"	AR/AD
+chr12	52710252	52710377	KRT83	chr12:52710252-52710377	0.603174603	0.68	602765	"Erythrokeratodermia variabilis et progressiva 5, 617756 (3)/ Monilethrix, 158000 (3)"	AR/AD
+chr12	52756035	52756255	KRT85	chr12:52756035-52756255	0.656108597	0.74697	602767	"Ectodermal dysplasia 4, hair/nail type, 602032 (3)"	AR
+chr12	52840974	52841209	KRT6B	chr12:52840974-52841209	0.61440678	0.671631	148042	"Pachyonychia congenita 4, 615728 (3)"	
+chr12	52841323	52841357	KRT6B	chr12:52841323-52841357	0.514285714	0.387255	148042	"Pachyonychia congenita 4, 615728 (3)"	
+chr12	52841562	52841782	KRT6B	chr12:52841562-52841782	0.615384615	0.635985	148042	"Pachyonychia congenita 4, 615728 (3)"	
+chr12	52842626	52842751	KRT6B	chr12:52842626-52842751	0.555555556	0.536	148042	"Pachyonychia congenita 4, 615728 (3)"	
+chr12	52843253	52843417	KRT6B	chr12:52843253-52843417	0.557575758	0.53252	148042	"Pachyonychia congenita 4, 615728 (3)"	
+chr12	52843542	52843637	KRT6B	chr12:52843542-52843637	0.46875	0.62807	148042	"Pachyonychia congenita 4, 615728 (3)"	
+chr12	52843796	52843856	KRT6B	chr12:52843796-52843856	0.409836066	0.377778	148042	"Pachyonychia congenita 4, 615728 (3)"	
+chr12	52844190	52844404	KRT6B	chr12:52844190-52844404	0.576744186	0.602804	148042	"Pachyonychia congenita 4, 615728 (3)"	
+chr12	52845323	52845862	KRT6B	chr12:52845323-52845862	0.637037037	0.433828	148042	"Pachyonychia congenita 4, 615728 (3)"	
+chr12	52862846	52863081	KRT6C	chr12:52862846-52863081	0.588983051	0.61844	612315	"Palmoplantar keratoderma, nonepidermolytic, focal or diffuse, 615735 (3)"	AD
+chr12	52863195	52863229	KRT6C	chr12:52863195-52863229	0.542857143	0.401961	612315	"Palmoplantar keratoderma, nonepidermolytic, focal or diffuse, 615735 (3)"	AD
+chr12	52863454	52863674	KRT6C	chr12:52863454-52863674	0.610859729	0.673106	612315	"Palmoplantar keratoderma, nonepidermolytic, focal or diffuse, 615735 (3)"	AD
+chr12	52864289	52864414	KRT6C	chr12:52864289-52864414	0.555555556	0.444	612315	"Palmoplantar keratoderma, nonepidermolytic, focal or diffuse, 615735 (3)"	AD
+chr12	52864916	52865080	KRT6C	chr12:52864916-52865080	0.575757576	0.587398	612315	"Palmoplantar keratoderma, nonepidermolytic, focal or diffuse, 615735 (3)"	AD
+chr12	52865205	52865300	KRT6C	chr12:52865205-52865300	0.479166667	0.564912	612315	"Palmoplantar keratoderma, nonepidermolytic, focal or diffuse, 615735 (3)"	AD
+chr12	52865456	52865516	KRT6C	chr12:52865456-52865516	0.409836066	0.511111	612315	"Palmoplantar keratoderma, nonepidermolytic, focal or diffuse, 615735 (3)"	AD
+chr12	52865850	52866064	KRT6C	chr12:52865850-52866064	0.590697674	0.583333	612315	"Palmoplantar keratoderma, nonepidermolytic, focal or diffuse, 615735 (3)"	AD
+chr12	52866982	52867521	KRT6C	chr12:52866982-52867521	0.637037037	0.395176	612315	"Palmoplantar keratoderma, nonepidermolytic, focal or diffuse, 615735 (3)"	AD
+chr12	52881504	52881739	KRT6A	chr12:52881504-52881739	0.597457627	0.680142	148041	"Pachyonychia congenita 3, 615726 (3)"	
+chr12	52881853	52881887	KRT6A	chr12:52881853-52881887	0.514285714	0.357843	148041	"Pachyonychia congenita 3, 615726 (3)"	
+chr12	52882112	52882332	KRT6A	chr12:52882112-52882332	0.624434389	0.642045	148041	"Pachyonychia congenita 3, 615726 (3)"	
+chr12	52883727	52883852	KRT6A	chr12:52883727-52883852	0.563492063	0.396	148041	"Pachyonychia congenita 3, 615726 (3)"	
+chr12	52884353	52884517	KRT6A	chr12:52884353-52884517	0.563636364	0.613821	148041	"Pachyonychia congenita 3, 615726 (3)"	
+chr12	52884642	52884737	KRT6A	chr12:52884642-52884737	0.489583333	0.585965	148041	"Pachyonychia congenita 3, 615726 (3)"	
+chr12	52884896	52884956	KRT6A	chr12:52884896-52884956	0.409836066	0.377778	148041	"Pachyonychia congenita 3, 615726 (3)"	
+chr12	52885306	52885520	KRT6A	chr12:52885306-52885520	0.581395349	0.743769	148041	"Pachyonychia congenita 3, 615726 (3)"	
+chr12	52886433	52886972	KRT6A	chr12:52886433-52886972	0.633333333	0.496289	148041	"Pachyonychia congenita 3, 615726 (3)"	
+chr12	52912730	52912944	KRT5	chr12:52912730-52912944	0.581395349	0.652648	148040	"Dowling-Degos disease 1, 179850 (3)/ Epidermolysis bullosa simplex, Dowling-Meara type, 131760 (3)/ Epidermolysis bullosa simplex, Koebner type, 131900 (3)/ Epidermolysis bullosa simplex, Weber-Cockayne type, 131800 (3)/ Epidermolysis bullosa simplex, recessive 1, 601001 (3)/ Epidermolysis bullosa simplex-MCR, 609352 (3)/ Epidermolysis bullosa simplex-MP, 131960 (3)"	AD/AD/AD/AD/AR//AD
+chr12	53291212	53291402	KRT8	chr12:53291212-53291402	0.638743455	0.718421	148060	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53292245	53292303	KRT8	chr12:53292245-53292303	0.525423729	0.727011	148060	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53292463	53292683	KRT8	chr12:53292463-53292683	0.647058824	0.476136	148060	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53293559	53293849	KRT8	chr12:53293559-53293849	0.58419244	0.622989	148060	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53294372	53294467	KRT8	chr12:53294372-53294467	0.510416667	0.713158	148060	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53295648	53295856	KRT8	chr12:53295648-53295856	0.564593301	0.327724	148060	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53298442	53298811	KRT8	chr12:53298442-53298811	0.637837838	0.639566	148060	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53342958	53343374	KRT18	chr12:53342958-53343374	0.645083933	0.597957	148070	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53344112	53344194	KRT18	chr12:53344112-53344194	0.469879518	0.730691	148070	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53344534	53344690	KRT18	chr12:53344534-53344690	0.535031847	0.592949	148070	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53345265	53345429	KRT18	chr12:53345265-53345429	0.557575758	0.566057	148070	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53345903	53346126	KRT18	chr12:53345903-53346126	0.620535714	0.602765	148070	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	53346506	53346626	KRT18	chr12:53346506-53346626	0.504132231	0.294444	148070	"Cirrhosis, cryptogenic, 215600 (3)/ {Cirrhosis, noncryptogenic, susceptibility to}, 215600 (3)"	AR
+chr12	54675170	54675286	HNRNPA1	chr12:54675170-54675286	0.512820513	0.258621	164017	"Amyotrophic lateral sclerosis 20, 615426 (3)/ ?Inclusion body myopathy with early-onset Paget disease without frontotemporal dementia 3, 615424 (3)"	AD
+chr12	54675579	54675725	HNRNPA1	chr12:54675579-54675725	0.510204082	0.247717	164017	"Amyotrophic lateral sclerosis 20, 615426 (3)/ ?Inclusion body myopathy with early-onset Paget disease without frontotemporal dementia 3, 615424 (3)"	AD
+chr12	54675874	54676084	HNRNPA1	chr12:54675874-54676084	0.402843602	0.161905	164017	"Amyotrophic lateral sclerosis 20, 615426 (3)/ ?Inclusion body myopathy with early-onset Paget disease without frontotemporal dementia 3, 615424 (3)"	AD
+chr12	54676178	54676270	HNRNPA1	chr12:54676178-54676270	0.440860215	0.380435	164017	"Amyotrophic lateral sclerosis 20, 615426 (3)/ ?Inclusion body myopathy with early-onset Paget disease without frontotemporal dementia 3, 615424 (3)"	AD
+chr12	54676357	54676449	HNRNPA1	chr12:54676357-54676449	0.537634409	0.452899	164017	"Amyotrophic lateral sclerosis 20, 615426 (3)/ ?Inclusion body myopathy with early-onset Paget disease without frontotemporal dementia 3, 615424 (3)"	AD
+chr12	54676584	54676658	HNRNPA1	chr12:54676584-54676658	0.533333333	0.513514	164017	"Amyotrophic lateral sclerosis 20, 615426 (3)/ ?Inclusion body myopathy with early-onset Paget disease without frontotemporal dementia 3, 615424 (3)"	AD
+chr12	54676863	54677018	HNRNPA1	chr12:54676863-54677018	0.58974359	0.703226	164017	"Amyotrophic lateral sclerosis 20, 615426 (3)/ ?Inclusion body myopathy with early-onset Paget disease without frontotemporal dementia 3, 615424 (3)"	AD
+chr12	54677596	54677751	HNRNPA1	chr12:54677596-54677751	0.455128205	0.468817	164017	"Amyotrophic lateral sclerosis 20, 615426 (3)/ ?Inclusion body myopathy with early-onset Paget disease without frontotemporal dementia 3, 615424 (3)"	AD
+chr12	54678042	54678097	HNRNPA1	chr12:54678042-54678097	0.517857143	0.554545	164017	"Amyotrophic lateral sclerosis 20, 615426 (3)/ ?Inclusion body myopathy with early-onset Paget disease without frontotemporal dementia 3, 615424 (3)"	AD
+chr12	56436209	56436386	RPS26	chr12:56436209-56436386	0.528089888	0.19209	603701	"Diamond-Blackfan anemia 10, 613309 (3)"	AD
+chr12	56437147	56437277	RPS26	chr12:56437147-56437277	0.511450382	0.253846	603701	"Diamond-Blackfan anemia 10, 613309 (3)"	AD
+chr12	56437903	56437938	RPS26	chr12:56437903-56437938	0.638888889	0	603701	"Diamond-Blackfan anemia 10, 613309 (3)"	AD
+chr12	58185748	58185810	TSFM	chr12:58185748-58185810	0.555555556	0.233871	604723	"Combined oxidative phosphorylation deficiency 3, 610505 (3)"	AR
+chr12	63954292	63954442	DPY19L2	chr12:63954292-63954442	0.470198675	0.620556	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	63963004	63963129	DPY19L2	chr12:63963004-63963129	0.333333333	0.449333	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	63964538	63964637	DPY19L2	chr12:63964538-63964637	0.46	0.731481	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	63974442	63974616	DPY19L2	chr12:63974442-63974616	0.377142857	0.727969	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	63977592	63977616	DPY19L2	chr12:63977592-63977616	0.44	0.666667	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	63987867	63987913	DPY19L2	chr12:63987867-63987913	0.276595745	0.748188	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	63989746	63989817	DPY19L2	chr12:63989746-63989817	0.333333333	0.577465	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	63991589	63991690	DPY19L2	chr12:63991589-63991690	0.37254902	0.653465	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	63994086	63994166	DPY19L2	chr12:63994086-63994166	0.395061728	0.289583	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	64002396	64002455	DPY19L2	chr12:64002396-64002455	0.3	0.323446	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	64011084	64011170	DPY19L2	chr12:64011084-64011170	0.287356322	0.463178	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	64011931	64012008	DPY19L2	chr12:64011931-64012008	0.320512821	0.299784	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	64015018	64015117	DPY19L2	chr12:64015018-64015117	0.41	0.284512	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	64020249	64020306	DPY19L2	chr12:64020249-64020306	0.448275862	0.719298	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	64038183	64038276	DPY19L2	chr12:64038183-64038276	0.372340426	0.350358	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	64041025	64041145	DPY19L2	chr12:64041025-64041145	0.380165289	0.545833	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	64057538	64057625	DPY19L2	chr12:64057538-64057625	0.375	0.551724	613893	"Spermatogenic failure 9, 613958 (3)"	AR
+chr12	80856197	80856439	PTPRQ	chr12:80856197-80856439	0.58436214	0.0833333	603317	"Deafness, AD 73, 617663 (3)/ Deafness, AR 84A, 613391 (3)"	AD/AR
+chr12	80856197	80856439	PTPRQ	chr12:80856197-80856439	0.58436214	0.0833333	603317	"Deafness, AD 73, 617663 (3)/ Deafness, AR 84A, 613391 (3)"	AD/AR
+chr12	80856197	80856439	PTPRQ	chr12:80856197-80856439	0.58436214	0.0833333	603317	"Deafness, AD 73, 617663 (3)/ Deafness, AR 84A, 613391 (3)"	AD/AR
+chr12	80856508	80856558	PTPRQ	chr12:80856508-80856558	0.588235294	0.31	603317	"Deafness, AD 73, 617663 (3)/ Deafness, AR 84A, 613391 (3)"	AD/AR
+chr12	80858971	80859015	PTPRQ	chr12:80858971-80859015	0.333333333	0	603317	"Deafness, AD 73, 617663 (3)/ Deafness, AR 84A, 613391 (3)"	AD/AR
+chr12	80859253	80859315	PTPRQ	chr12:80859253-80859315	0.46031746	0.0255376	603317	"Deafness, AD 73, 617663 (3)/ Deafness, AR 84A, 613391 (3)"	AD/AR
+chr12	112884080	112884202	PTPN11	chr12:112884080-112884202	0.447154472	0.669399	176876	"LEOPARD syndrome 1, 151100 (3)/ Leukemia, juvenile myelomonocytic, somatic, 607785 (3)/ Metachondromatosis, 156250 (3)/ Noonan syndrome 1, 163950 (3)"	AD//AD/AD
+chr12	112893754	112893867	PTPN11	chr12:112893754-112893867	0.403508772	0.699853	176876	"LEOPARD syndrome 1, 151100 (3)/ Leukemia, juvenile myelomonocytic, somatic, 607785 (3)/ Metachondromatosis, 156250 (3)/ Noonan syndrome 1, 163950 (3)"	AD//AD/AD
+chr12	112910748	112910844	PTPN11	chr12:112910748-112910844	0.381443299	0.592882	176876	"LEOPARD syndrome 1, 151100 (3)/ Leukemia, juvenile myelomonocytic, somatic, 607785 (3)/ Metachondromatosis, 156250 (3)/ Noonan syndrome 1, 163950 (3)"	AD//AD/AD
+chr12	112919878	112920009	PTPN11	chr12:112919878-112920009	0.409090909	0.624046	176876	"LEOPARD syndrome 1, 151100 (3)/ Leukemia, juvenile myelomonocytic, somatic, 607785 (3)/ Metachondromatosis, 156250 (3)/ Noonan syndrome 1, 163950 (3)"	AD//AD/AD
+chr12	112926247	112926314	PTPN11	chr12:112926247-112926314	0.426470588	0.689055	176876	"LEOPARD syndrome 1, 151100 (3)/ Leukemia, juvenile myelomonocytic, somatic, 607785 (3)/ Metachondromatosis, 156250 (3)/ Noonan syndrome 1, 163950 (3)"	AD//AD/AD
+chr12	120876182	120876324	COX6A1	chr12:120876182-120876324	0.601398601	0.676056	602072	"Charcot-Marie-Tooth disease, recessive intermediate D, 616039 (3)"	AR
+chr12	120878257	120878340	COX6A1	chr12:120878257-120878340	0.452380952	0.5	602072	"Charcot-Marie-Tooth disease, recessive intermediate D, 616039 (3)"	AR
+chr13	27827914	27827980	RPL21	chr13:27827914-27827980	0.432835821	0.5	603636	"Hypotrichosis 12, 615885 (3)"	AD
+chr13	27828357	27828418	RPL21	chr13:27828357-27828418	0.370967742	0.540984	603636	"Hypotrichosis 12, 615885 (3)"	AD
+chr13	27829379	27829491	RPL21	chr13:27829379-27829491	0.415929204	0.294643	603636	"Hypotrichosis 12, 615885 (3)"	AD
+chr13	27830321	27830471	RPL21	chr13:27830321-27830471	0.430463576	0.226667	603636	"Hypotrichosis 12, 615885 (3)"	AD
+chr13	27830573	27830662	RPL21	chr13:27830573-27830662	0.5	0.0524345	603636	"Hypotrichosis 12, 615885 (3)"	AD
+chr13	41382574	41382732	SLC25A15	chr13:41382574-41382732	0.41509434	0.705169	603861	"Hyperornithinemia-hyperammonemia-homocitrullinemia syndrome, 238970 (3)"	AR
+chr13	48570978	48571158	SUCLA2	chr13:48570978-48571158	0.408839779	0.731481	603921	"Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria), 612073 (3)"	AR
+chr13	111109121	111109782	COL4A2	chr13:111109121-111109782	0.705438066	0.497731	120090	"{Hemorrhage, intracerebral, susceptibility to}, 614519 (3)/ Porencephaly 2, 614483 (3)"	/AD
+chr14	23853651	23853926	MYH6	chr14:23853651-23853926	0.630434783	0.749091	160710	"Atrial septal defect 3, 614089 (3)/ Cardiomyopathy, dilated, 1EE, 613252 (3)/ Cardiomyopathy, hypertrophic, 14, 613251 (3)/ {Sick sinus syndrome 3}, 614090 (3)"	//AD/
+chr14	23859266	23859655	MYH6	chr14:23859266-23859655	0.648717949	0.529135	160710	"Atrial septal defect 3, 614089 (3)/ Cardiomyopathy, dilated, 1EE, 613252 (3)/ Cardiomyopathy, hypertrophic, 14, 613251 (3)/ {Sick sinus syndrome 3}, 614090 (3)"	//AD/
+chr14	23869465	23869635	MYH6	chr14:23869465-23869635	0.50877193	0.566667	160710	"Atrial septal defect 3, 614089 (3)/ Cardiomyopathy, dilated, 1EE, 613252 (3)/ Cardiomyopathy, hypertrophic, 14, 613251 (3)/ {Sick sinus syndrome 3}, 614090 (3)"	//AD/
+chr14	23884204	23884479	MYH7	chr14:23884204-23884479	0.619565217	0.749091	160760	"Cardiomyopathy, dilated, 1S, 613426 (3)/ Cardiomyopathy, hypertrophic, 1, 192600 (3)/ Laing distal myopathy, 160500 (3)/ Left ventricular noncompaction 5, 613426 (3)/ Myopathy, myosin storage, AD, 608358 (3)/ Myopathy, myosin storage, AR, 255160 (3)/ Scapuloperoneal syndrome, myopathic type, 181430 (3)"	AD/AD/AD/AD/AD/AR/AD
+chr14	23889054	23889443	MYH7	chr14:23889054-23889443	0.648717949	0.529135	160760	"Cardiomyopathy, dilated, 1S, 613426 (3)/ Cardiomyopathy, hypertrophic, 1, 192600 (3)/ Laing distal myopathy, 160500 (3)/ Left ventricular noncompaction 5, 613426 (3)/ Myopathy, myosin storage, AD, 608358 (3)/ Myopathy, myosin storage, AR, 255160 (3)/ Scapuloperoneal syndrome, myopathic type, 181430 (3)"	AD/AD/AD/AD/AD/AR/AD
+chr14	23897709	23897879	MYH7	chr14:23897709-23897879	0.50877193	0.687255	160760	"Cardiomyopathy, dilated, 1S, 613426 (3)/ Cardiomyopathy, hypertrophic, 1, 192600 (3)/ Laing distal myopathy, 160500 (3)/ Left ventricular noncompaction 5, 613426 (3)/ Myopathy, myosin storage, AD, 608358 (3)/ Myopathy, myosin storage, AR, 255160 (3)/ Scapuloperoneal syndrome, myopathic type, 181430 (3)"	AD/AD/AD/AD/AD/AR/AD
+chr14	35783567	35783661	PSMA6	chr14:35783567-35783661	0.347368421	0.578014	602855	"{Myocardial infarction, susceptibility to}, 608446 (3)"	
+chr14	50052668	50052767	RPS29	chr14:50052668-50052767	0.5	0.60101	603633	"Diamond-Blackfan anemia 13, 615909 (3)"	AD
+chr14	50053003	50053064	RPS29	chr14:50053003-50053064	0.596774194	0.561475	603633	"Diamond-Blackfan anemia 13, 615909 (3)"	AD
+chr14	58907939	58908061	KIAA0586	chr14:58907939-58908061	0.552845528	0.655738	610178	"Joubert syndrome 23, 616490 (3)/ Short-rib thoracic dysplasia 14 with polydactyly, 616546 (3)"	AR
+chr14	59010601	59010685	KIAA0586	chr14:59010601-59010685	0.447058824	0.630952	610178	"Joubert syndrome 23, 616490 (3)/ Short-rib thoracic dysplasia 14 with polydactyly, 616546 (3)"	AR
+chr14	64892448	64892545	MTHFD1	chr14:64892448-64892545	0.43877551	0.701031	172460	"Combined immunodeficiency and megaloblastic anemia with or without hyperhomocysteinemia, 617780 (3)/ {Neural tube defects, folate-sensitive, susceptibility to}, 601634 (3)"	AR
+chr14	67431908	67432042	GPHN	chr14:67431908-67432042	0.540740741	0.746269	603930	"Molybdenum cofactor deficiency C, 615501 (3)"	AR
+chr15	28387384	28387539	HERC2	chr15:28387384-28387539	0.576923077	0.683871	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28387973	28388098	HERC2	chr15:28387973-28388098	0.452380952	0.52	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28397823	28397976	HERC2	chr15:28397823-28397976	0.590909091	0.72549	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28419541	28419766	HERC2	chr15:28419541-28419766	0.584070796	0.518519	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28420658	28420802	HERC2	chr15:28420658-28420802	0.634482759	0.748843	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28441361	28441500	HERC2	chr15:28441361-28441500	0.371428571	0.333333	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28443524	28443649	HERC2	chr15:28443524-28443649	0.468253968	0.616	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28443747	28443915	HERC2	chr15:28443747-28443915	0.485207101	0.694444	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28447259	28447395	HERC2	chr15:28447259-28447395	0.598540146	0.415441	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28447493	28447760	HERC2	chr15:28447493-28447760	0.604477612	0.473159	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28451386	28451528	HERC2	chr15:28451386-28451528	0.573426573	0.25	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28456148	28456291	HERC2	chr15:28456148-28456291	0.569444444	0.460373	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28457591	28457729	HERC2	chr15:28457591-28457729	0.496402878	0.25	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28458888	28459118	HERC2	chr15:28458888-28459118	0.571428571	0.693478	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28459222	28459418	HERC2	chr15:28459222-28459418	0.644670051	0.498724	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28459801	28459948	HERC2	chr15:28459801-28459948	0.506756757	0.718821	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28460767	28460948	HERC2	chr15:28460767-28460948	0.642857143	0.521639	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28463635	28463817	HERC2	chr15:28463635-28463817	0.469945355	0.32967	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28465598	28465790	HERC2	chr15:28465598-28465790	0.590673575	0.623264	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28467174	28467361	HERC2	chr15:28467174-28467361	0.510638298	0.50713	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28474341	28474492	HERC2	chr15:28474341-28474492	0.434210526	0.442053	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28474606	28474742	HERC2	chr15:28474606-28474742	0.430656934	0.557598	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28474820	28474993	HERC2	chr15:28474820-28474993	0.442528736	0.264451	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28475513	28475646	HERC2	chr15:28475513-28475646	0.380597015	0.137218	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28478292	28478487	HERC2	chr15:28478292-28478487	0.413265306	0.366239	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28478580	28478707	HERC2	chr15:28478580-28478707	0.421875	0.204068	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28478810	28478942	HERC2	chr15:28478810-28478942	0.458646617	0.507576	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28479216	28479430	HERC2	chr15:28479216-28479430	0.562790698	0.350467	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28482109	28482259	HERC2	chr15:28482109-28482259	0.509933775	0.495	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28483260	28483363	HERC2	chr15:28483260-28483363	0.519230769	0.424757	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28483748	28483918	HERC2	chr15:28483748-28483918	0.385964912	0.625	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28499486	28499664	HERC2	chr15:28499486-28499664	0.413407821	0.696629	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28501018	28501142	HERC2	chr15:28501018-28501142	0.496	0.43414	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28538034	28538168	HERC2	chr15:28538034-28538168	0.422222222	0.290423	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28544548	28544662	HERC2	chr15:28544548-28544662	0.443478261	0.435673	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	28566508	28566579	HERC2	chr15:28566508-28566579	0.486111111	0.31338	605837	"Mental retardation, AR 38, 615516 (3)/ [Skin/hair/eye pigmentation 1, blond/brown hair], 227220 (3)/ [Skin/hair/eye pigmentation 1, blue/nonblue eyes], 227220 (3)"	AR
+chr15	40902997	40903074	CASC5	chr15:40902997-40903074	0.576923077	0.479437	609173	"Microcephaly 4, primary, AR, 604321 (3)"	AR
+chr15	40994004	40994124	RAD51	chr15:40994004-40994124	0.570247934	0.471528	179617	"{Breast cancer, susceptibility to}, 114480 (3)/ ?Fanconi anemia, complementation group R, 617244 (3)/ Mirror movements 2, 614508 (3)"	AD
+chr15	43891870	43891958	STRC	chr15:43891870-43891958	0.573033708	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43892158	43892305	STRC	chr15:43892158-43892305	0.547297297	0.619048	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43892394	43892491	STRC	chr15:43892394-43892491	0.551020408	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43893070	43893212	STRC	chr15:43893070-43893212	0.573426573	0.507042	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43896194	43896350	STRC	chr15:43896194-43896350	0.605095541	0.612179	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43896559	43896649	STRC	chr15:43896559-43896649	0.505494505	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43896848	43897044	STRC	chr15:43896848-43897044	0.558375635	0.589286	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43897462	43897597	STRC	chr15:43897462-43897597	0.558823529	0.62963	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43900061	43900173	STRC	chr15:43900061-43900173	0.557522124	0.589286	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43900278	43900401	STRC	chr15:43900278-43900401	0.556451613	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43901474	43901532	STRC	chr15:43901474-43901532	0.491525424	0.646552	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43902510	43902635	STRC	chr15:43902510-43902635	0.571428571	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43903117	43903182	STRC	chr15:43903117-43903182	0.454545455	0.592308	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43903346	43903513	STRC	chr15:43903346-43903513	0.636904762	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43903697	43903735	STRC	chr15:43903697-43903735	0.615384615	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43904040	43904222	STRC	chr15:43904040-43904222	0.612021858	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43904575	43904707	STRC	chr15:43904575-43904707	0.646616541	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43904989	43905104	STRC	chr15:43904989-43905104	0.646551724	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43905243	43905429	STRC	chr15:43905243-43905429	0.631016043	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43906085	43906251	STRC	chr15:43906085-43906251	0.604790419	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43906394	43906510	STRC	chr15:43906394-43906510	0.606837607	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43906612	43906674	STRC	chr15:43906612-43906674	0.555555556	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43907631	43908888	STRC	chr15:43907631-43908888	0.618441971	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43909656	43909680	STRC	chr15:43909656-43909680	0.44	0.5	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43909769	43910554	STRC	chr15:43909769-43910554	0.613231552	0.522293	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	43910857	43910920	STRC	chr15:43910857-43910920	0.640625	0.474868	606440	"Deafness, AR 16, 603720 (3)"	AR
+chr15	45396338	45396563	DUOX2	chr15:45396338-45396563	0.610619469	0.637778	606759	"Thyroid dyshormonogenesis 6, 607200 (3)"	AR
+chr15	45402848	45402908	DUOX2	chr15:45402848-45402908	0.524590164	0.525	606759	"Thyroid dyshormonogenesis 6, 607200 (3)"	AR
+chr15	45403309	45403475	DUOX2	chr15:45403309-45403475	0.670658683	0.5	606759	"Thyroid dyshormonogenesis 6, 607200 (3)"	AR
+chr15	50757244	50757388	USP8	chr15:50757244-50757388	0.4	0.6875	603158	"Pituitary adenoma 4, ACTH-secreting, somatic, 219090 (3)"	
+chr15	75676605	75676778	SIN3A	chr15:75676605-75676778	0.494252874	0.681118	607776	"Witteveen-Kolk syndrome, 613406 (3)"	AD
+chr15	89398083	89402648	ACAN	chr15:89398083-89402648	0.550372317	0.710405	155760	"Short stature and advanced bone age, with or without early-onset osteoarthritis and/or osteochondritis dissecans, 165800 (3)/ ?Spondyloepimetaphyseal dysplasia, aggrecan type, 612813 (3)/ ?Spondyloepiphyseal dysplasia, Kimberley type, 608361 (3)"	AD/AR/AD
+chr16	222912	223006	HBA2	chr16:222912-223006	0.663157895	0.5	141850	"Erythrocytosis (3)/ Heinz body anemia, 140700 (3)/ Hemoglobin H disease, nondeletional, 613978 (3)/ Hypochromic microcytic anemia (3)/ Thalassemia, alpha-, 604131 (3)"	/AD///
+chr16	223124	223328	HBA2	chr16:223124-223328	0.648780488	0.5	141850	"Erythrocytosis (3)/ Heinz body anemia, 140700 (3)/ Hemoglobin H disease, nondeletional, 613978 (3)/ Hypochromic microcytic anemia (3)/ Thalassemia, alpha-, 604131 (3)"	/AD///
+chr16	223471	223599	HBA2	chr16:223471-223599	0.635658915	0.578125	141850	"Erythrocytosis (3)/ Heinz body anemia, 140700 (3)/ Hemoglobin H disease, nondeletional, 613978 (3)/ Hypochromic microcytic anemia (3)/ Thalassemia, alpha-, 604131 (3)"	/AD///
+chr16	226716	226810	HBA1	chr16:226716-226810	0.663157895	0.5	141800	"Erythremias, alpha- (3)/ Heinz body anemias, alpha-, 140700 (3)/ Hemoglobin H disease, nondeletional, 613978 (3)/ Methemoglobinemias, alpha- (3)/ Thalassemias, alpha-, 604131 (3)"	/AD///
+chr16	226928	227132	HBA1	chr16:226928-227132	0.648780488	0.5	141800	"Erythremias, alpha- (3)/ Heinz body anemias, alpha-, 140700 (3)/ Hemoglobin H disease, nondeletional, 613978 (3)/ Methemoglobinemias, alpha- (3)/ Thalassemias, alpha-, 604131 (3)"	/AD///
+chr16	227282	227410	HBA1	chr16:227282-227410	0.635658915	0.578125	141800	"Erythremias, alpha- (3)/ Heinz body anemias, alpha-, 140700 (3)/ Hemoglobin H disease, nondeletional, 613978 (3)/ Methemoglobinemias, alpha- (3)/ Thalassemias, alpha-, 604131 (3)"	/AD///
+chr16	2147869	2147985	PKD1	chr16:2147869-2147985	0.675213675	0.375	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2149645	2149771	PKD1	chr16:2149645-2149771	0.614173228	0.313492	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2149862	2150072	PKD1	chr16:2149862-2150072	0.639810427	0.503571	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2150167	2150310	PKD1	chr16:2150167-2150310	0.659722222	0.608392	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2150397	2150567	PKD1	chr16:2150397-2150567	0.649122807	0.329412	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2152062	2152257	PKD1	chr16:2152062-2152257	0.62244898	0.28547	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2152382	2152634	PKD1	chr16:2152382-2152634	0.664031621	0.65873	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2153267	2153896	PKD1	chr16:2153267-2153896	0.663492063	0.542528	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2154499	2154643	PKD1	chr16:2154499-2154643	0.648275862	0.432292	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2155323	2155475	PKD1	chr16:2155323-2155475	0.640522876	0.230263	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2156092	2156305	PKD1	chr16:2156092-2156305	0.691588785	0.351721	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2156399	2156678	PKD1	chr16:2156399-2156678	0.689285714	0.5	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2156806	2156949	PKD1	chr16:2156806-2156949	0.631944444	0.367133	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2157884	2158033	PKD1	chr16:2157884-2158033	0.693333333	0.62472	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2158253	2161872	PKD1	chr16:2158253-2161872	0.66961326	0.704914	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2162341	2162474	PKD1	chr16:2162341-2162474	0.641791045	0.31015	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2162789	2162964	PKD1	chr16:2162789-2162964	0.642045455	0.748095	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2163162	2163293	PKD1	chr16:2163162-2163293	0.575757576	0.175573	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2164171	2164926	PKD1	chr16:2164171-2164926	0.691798942	0.448675	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2165379	2165626	PKD1	chr16:2165379-2165626	0.709677419	0.359987	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2165993	2166119	PKD1	chr16:2165993-2166119	0.677165354	0	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2166530	2166645	PKD1	chr16:2166530-2166645	0.715517241	0.66087	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2166834	2167054	PKD1	chr16:2166834-2167054	0.701357466	0.143182	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2167490	2167673	PKD1	chr16:2167490-2167673	0.711956522	0.42031	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2167792	2168463	PKD1	chr16:2167792-2168463	0.702380952	0.270864	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2168677	2168846	PKD1	chr16:2168677-2168846	0.676470588	0.177515	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2169115	2169186	PKD1	chr16:2169115-2169186	0.25	0.338028	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2169308	2169379	PKD1	chr16:2169308-2169379	0.680555556	0	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	2185476	2185690	PKD1	chr16:2185476-2185690	0.841860465	0.336449	601313	"Polycystic kidney disease 1, 173900 (3)"	AD
+chr16	5127908	5128018	ALG1	chr16:5127908-5128018	0.585585586	0.653788	605907	"Congenital disorder of glycosylation, type Ik, 608540 (3)"	AR
+chr16	5129065	5129103	ALG1	chr16:5129065-5129103	0.487179487	0.256579	605907	"Congenital disorder of glycosylation, type Ik, 608540 (3)"	AR
+chr16	5129749	5129808	ALG1	chr16:5129749-5129808	0.433333333	0.367232	605907	"Congenital disorder of glycosylation, type Ik, 608540 (3)"	AR
+chr16	5130947	5131057	ALG1	chr16:5130947-5131057	0.603603604	0.601515	605907	"Congenital disorder of glycosylation, type Ik, 608540 (3)"	AR
+chr16	5132560	5132674	ALG1	chr16:5132560-5132674	0.6	0.437135	605907	"Congenital disorder of glycosylation, type Ik, 608540 (3)"	AR
+chr16	5133683	5133758	ALG1	chr16:5133683-5133758	0.486842105	0.246667	605907	"Congenital disorder of glycosylation, type Ik, 608540 (3)"	AR
+chr16	5134751	5134882	ALG1	chr16:5134751-5134882	0.53030303	0.187659	605907	"Congenital disorder of glycosylation, type Ik, 608540 (3)"	AR
+chr16	16295858	16296035	ABCC6	chr16:16295858-16296035	0.561797753	0.723164	603234	"Arterial calcification, generalized, of infancy, 2, 614473 (3)/ Pseudoxanthoma elasticum, 264800 (3)/ Pseudoxanthoma elasticum, forme fruste, 177850 (3)"	AR/AR/AD
+chr16	16297267	16297470	ABCC6	chr16:16297267-16297470	0.56372549	0.706897	603234	"Arterial calcification, generalized, of infancy, 2, 614473 (3)/ Pseudoxanthoma elasticum, 264800 (3)/ Pseudoxanthoma elasticum, forme fruste, 177850 (3)"	AR/AR/AD
+chr16	16302585	16302716	ABCC6	chr16:16302585-16302716	0.560606061	0.503817	603234	"Arterial calcification, generalized, of infancy, 2, 614473 (3)/ Pseudoxanthoma elasticum, 264800 (3)/ Pseudoxanthoma elasticum, forme fruste, 177850 (3)"	AR/AR/AD
+chr16	16306042	16306103	ABCC6	chr16:16306042-16306103	0.612903226	0.5	603234	"Arterial calcification, generalized, of infancy, 2, 614473 (3)/ Pseudoxanthoma elasticum, 264800 (3)/ Pseudoxanthoma elasticum, forme fruste, 177850 (3)"	AR/AR/AD
+chr16	16308181	16308306	ABCC6	chr16:16308181-16308306	0.619047619	0.552	603234	"Arterial calcification, generalized, of infancy, 2, 614473 (3)/ Pseudoxanthoma elasticum, 264800 (3)/ Pseudoxanthoma elasticum, forme fruste, 177850 (3)"	AR/AR/AD
+chr16	16313411	16313539	ABCC6	chr16:16313411-16313539	0.558139535	0.380208	603234	"Arterial calcification, generalized, of infancy, 2, 614473 (3)/ Pseudoxanthoma elasticum, 264800 (3)/ Pseudoxanthoma elasticum, forme fruste, 177850 (3)"	AR/AR/AD
+chr16	16313679	16313804	ABCC6	chr16:16313679-16313804	0.547619048	0.38	603234	"Arterial calcification, generalized, of infancy, 2, 614473 (3)/ Pseudoxanthoma elasticum, 264800 (3)/ Pseudoxanthoma elasticum, forme fruste, 177850 (3)"	AR/AR/AD
+chr16	16315506	16315688	ABCC6	chr16:16315506-16315688	0.606557377	0.451465	603234	"Arterial calcification, generalized, of infancy, 2, 614473 (3)/ Pseudoxanthoma elasticum, 264800 (3)/ Pseudoxanthoma elasticum, forme fruste, 177850 (3)"	AR/AR/AD
+chr16	16317256	16317291	ABCC6	chr16:16317256-16317291	0.805555556	0.333333	603234	"Arterial calcification, generalized, of infancy, 2, 614473 (3)/ Pseudoxanthoma elasticum, 264800 (3)/ Pseudoxanthoma elasticum, forme fruste, 177850 (3)"	AR/AR/AD
+chr16	18806786	18806903	ARL6IP1	chr16:18806786-18806903	0.43220339	0.716524	607669	"?Spastic paraplegia 61, AR, 615685 (3)"	AR
+chr16	21742158	21742251	OTOA	chr16:21742158-21742251	0.489361702	0.612903	607038	"Deafness, AR 22, 607039 (3)"	AR
+chr16	21752042	21752229	OTOA	chr16:21752042-21752229	0.585106383	0.5	607038	"Deafness, AR 22, 607039 (3)"	AR
+chr16	21756202	21756357	OTOA	chr16:21756202-21756357	0.551282051	0.5	607038	"Deafness, AR 22, 607039 (3)"	AR
+chr16	21763256	21763398	OTOA	chr16:21763256-21763398	0.426573427	0.5	607038	"Deafness, AR 22, 607039 (3)"	AR
+chr16	21763690	21763826	OTOA	chr16:21763690-21763826	0.540145985	0.5	607038	"Deafness, AR 22, 607039 (3)"	AR
+chr16	21764348	21764445	OTOA	chr16:21764348-21764445	0.418367347	0.5	607038	"Deafness, AR 22, 607039 (3)"	AR
+chr16	21768403	21768598	OTOA	chr16:21768403-21768598	0.704081633	0.5	607038	"Deafness, AR 22, 607039 (3)"	AR
+chr16	21771791	21771861	OTOA	chr16:21771791-21771861	0.577464789	0.664286	607038	"Deafness, AR 22, 607039 (3)"	AR
+chr16	30200181	30200285	CORO1A	chr16:30200181-30200285	0.638095238	0.5	605000	"Immunodeficiency 8, 615401 (3)"	AR
+chr16	46705617	46705772	VPS35	chr16:46705617-46705772	0.487179487	0.658065	601501	"{Parkinson disease 17}, 614203 (3)"	AD
+chr16	46717420	46717518	VPS35	chr16:46717420-46717518	0.505050505	0.520408	601501	"{Parkinson disease 17}, 614203 (3)"	AD
+chr16	53656131	53656268	RPGRIP1L	chr16:53656131-53656268	0.608695652	0.599757	610937	"COACH syndrome, 216360 (3)/ Joubert syndrome 7, 611560 (3)/ Meckel syndrome 5, 611561 (3)"	AR
+chr16	55836961	55837144	CES1	chr16:55836961-55837144	0.548913043	0.5	114835	Carboxylesterase 1 deficiency (3)	
+chr16	55837441	55837513	CES1	chr16:55837441-55837513	0.493150685	0.333333	114835	Carboxylesterase 1 deficiency (3)	
+chr16	55840245	55840376	CES1	chr16:55840245-55840376	0.5	0.360051	114835	Carboxylesterase 1 deficiency (3)	
+chr16	55854284	55854391	CES1	chr16:55854284-55854391	0.537037037	0.5	114835	Carboxylesterase 1 deficiency (3)	
+chr16	55857462	55857595	CES1	chr16:55857462-55857595	0.582089552	0.631579	114835	Carboxylesterase 1 deficiency (3)	
+chr16	71122204	71122427	HYDIN	chr16:71122204-71122427	0.486607143	0.5	610812	"Ciliary dyskinesia, primary, 5, 608647 (3)"	AR
+chr16	72088552	72088556	HP	chr16:72088552-72088556	0.4	0.5	140100	"[Anhaptoglobinemia], 614081 (3)/ [Hypohaptoglobinemia], 614081 (3)"	
+chr16	72090429	72090530	HP	chr16:72090429-72090530	0.549019608	0.5	140100	"[Anhaptoglobinemia], 614081 (3)/ [Hypohaptoglobinemia], 614081 (3)"	
+chr16	72091291	72091365	HP	chr16:72091291-72091365	0.373333333	0.418919	140100	"[Anhaptoglobinemia], 614081 (3)/ [Hypohaptoglobinemia], 614081 (3)"	
+chr16	72092153	72092254	HP	chr16:72092153-72092254	0.549019608	0.5	140100	"[Anhaptoglobinemia], 614081 (3)/ [Hypohaptoglobinemia], 614081 (3)"	
+chr16	72093013	72093087	HP	chr16:72093013-72093087	0.4	0.675676	140100	"[Anhaptoglobinemia], 614081 (3)/ [Hypohaptoglobinemia], 614081 (3)"	
+chr16	75579250	75579393	TMEM231	chr16:75579250-75579393	0.590277778	0.5	614949	"Joubert syndrome 20, 614970 (3)/ Meckel syndrome 11, 615397 (3)"	AR
+chr16	75579724	75579852	TMEM231	chr16:75579724-75579852	0.503875969	0.5	614949	"Joubert syndrome 20, 614970 (3)/ Meckel syndrome 11, 615397 (3)"	AR
+chr16	81116471	81116568	GCSH	chr16:81116471-81116568	0.367346939	0.545533	238330	"Glycine encephalopathy, 605899 (3)"	AR
+chr16	81118068	81118199	GCSH	chr16:81118068-81118199	0.363636364	0.417939	238330	"Glycine encephalopathy, 605899 (3)"	AR
+chr16	81124206	81124285	GCSH	chr16:81124206-81124285	0.4125	0.687764	238330	"Glycine encephalopathy, 605899 (3)"	AR
+chr16	81129736	81129883	GCSH	chr16:81129736-81129883	0.777027027	0.55102	238330	"Glycine encephalopathy, 605899 (3)"	AR
+chr16	87921735	87921878	CA5A	chr16:87921735-87921878	0.513888889	0.734266	114761	"Hyperammonemia due to carbonic anhydrase VA deficiency, 615751 (3)"	AR
+chr16	87925405	87925560	CA5A	chr16:87925405-87925560	0.685897436	0.736559	114761	"Hyperammonemia due to carbonic anhydrase VA deficiency, 615751 (3)"	AR
+chr16	87936031	87936126	CA5A	chr16:87936031-87936126	0.40625	0.508772	114761	"Hyperammonemia due to carbonic anhydrase VA deficiency, 615751 (3)"	AR
+chr16	87938392	87938510	CA5A	chr16:87938392-87938510	0.579831933	0.710452	114761	"Hyperammonemia due to carbonic anhydrase VA deficiency, 615751 (3)"	AR
+chr16	89334519	89335071	ANKRD11	chr16:89334519-89335071	0.658227848	0.516606	611192	"KBG syndrome, 148050 (3)"	AD
+chr16	89337225	89337317	ANKRD11	chr16:89337225-89337317	0.569892473	0.668478	611192	"KBG syndrome, 148050 (3)"	AD
+chr16	89341222	89341365	ANKRD11	chr16:89341222-89341365	0.618055556	0.678322	611192	"KBG syndrome, 148050 (3)"	AD
+chr16	89341501	89341599	ANKRD11	chr16:89341501-89341599	0.676767677	0.678571	611192	"KBG syndrome, 148050 (3)"	AD
+chr17	4849195	4849292	PFN1	chr17:4849195-4849292	0.510204082	0.675258	176610	"Amyotrophic lateral sclerosis 18, 614808 (3)"	
+chr17	8280882	8281010	RPL26	chr17:8280882-8281010	0.426356589	0.712891	603704	"?Diamond-Blackfan anemia 11, 614900 (3)"	AD
+chr17	8283114	8283254	RPL26	chr17:8283114-8283254	0.460992908	0.442262	603704	"?Diamond-Blackfan anemia 11, 614900 (3)"	AD
+chr17	8285461	8285628	RPL26	chr17:8285461-8285628	0.452380952	0.648204	603704	"?Diamond-Blackfan anemia 11, 614900 (3)"	AD
+chr17	10296148	10296318	MYH8	chr17:10296148-10296318	0.596491228	0.619608	160741	"Carney complex variant, 608837 (3)/ Trismus-pseudocamptodactyly syndrome, 158300 (3)"	/AD
+chr17	10315687	10315836	MYH8	chr17:10315687-10315836	0.54	0.530761	160741	"Carney complex variant, 608837 (3)/ Trismus-pseudocamptodactyly syndrome, 158300 (3)"	/AD
+chr17	10321962	10322118	MYH8	chr17:10321962-10322118	0.573248408	0.473291	160741	"Carney complex variant, 608837 (3)/ Trismus-pseudocamptodactyly syndrome, 158300 (3)"	/AD
+chr17	10426813	10426983	MYH2	chr17:10426813-10426983	0.602339181	0.661765	160740	"Proximal myopathy and ophthalmoplegia, 605637 (3)"	"AR, AD"
+chr17	10428074	10428382	MYH2	chr17:10428074-10428382	0.482200647	0.69697	160740	"Proximal myopathy and ophthalmoplegia, 605637 (3)"	"AR, AD"
+chr17	10432007	10432396	MYH2	chr17:10432007-10432396	0.576923077	0.592331	160740	"Proximal myopathy and ophthalmoplegia, 605637 (3)"	"AR, AD"
+chr17	10432881	10433057	MYH2	chr17:10432881-10433057	0.497175141	0.487689	160740	"Proximal myopathy and ophthalmoplegia, 605637 (3)"	"AR, AD"
+chr17	10433149	10433391	MYH2	chr17:10433149-10433391	0.465020576	0.511364	160740	"Proximal myopathy and ophthalmoplegia, 605637 (3)"	"AR, AD"
+chr17	10440982	10441152	MYH2	chr17:10440982-10441152	0.520467836	0.512255	160740	"Proximal myopathy and ophthalmoplegia, 605637 (3)"	"AR, AD"
+chr17	10442522	10442671	MYH2	chr17:10442522-10442671	0.533333333	0.735459	160740	"Proximal myopathy and ophthalmoplegia, 605637 (3)"	"AR, AD"
+chr17	10447028	10447120	MYH2	chr17:10447028-10447120	0.537634409	0.496377	160740	"Proximal myopathy and ophthalmoplegia, 605637 (3)"	"AR, AD"
+chr17	10546143	10546313	MYH3	chr17:10546143-10546313	0.50877193	0.505882	160720	"Arthrogryposis, distal, type 2A, 193700 (3)/ Arthrogryposis, distal, type 2B, 601680 (3)/ Arthrogryposis, distal, type 8, 178110 (3)"	AD
+chr17	14095306	14095538	COX10	chr17:14095306-14095538	0.575107296	0.633621	602125	"Leigh syndrome due to mitochondrial COX4 deficiency, 256000 (3)/ Mitochondrial complex IV deficiency, 220110 (3)"	"AR, Mitochondrial"
+chr17	16285222	16285911	UBB	chr17:16285222-16285911	0.549275362	0.541122	191339	"Cleft palate, isolated, 119540 (2)"	AD
+chr17	26088170	26088257	NOS2	chr17:26088170-26088257	0.636363636	0.66092	163730;163730	"{Hypertension, susceptibility to}, 145500 (2)/ {Malaria, resistance to}, 611162 (3);{Hypertension, susceptibility to}, 145500 (2)/ {Malaria, resistance to}, 611162 (3)"	Multifactorial/;Multifactorial/
+chr17	26091007	26091170	NOS2	chr17:26091007-26091170	0.634146341	0.711656	163730;163730	"{Hypertension, susceptibility to}, 145500 (2)/ {Malaria, resistance to}, 611162 (3);{Hypertension, susceptibility to}, 145500 (2)/ {Malaria, resistance to}, 611162 (3)"	Multifactorial/;Multifactorial/
+chr17	29541469	29541603	NF1	chr17:29541469-29541603	0.340740741	0.675373	613113	"Leukemia, juvenile myelomonocytic, 607785 (3)/ Neurofibromatosis, familial spinal, 162210 (3)/ Neurofibromatosis, type 1, 162200 (3)/ Neurofibromatosis-Noonan syndrome, 601321 (3)/ Watson syndrome, 193520 (3)"	"AD, Somatic mutation/AD/AD/AD/AD"
+chr17	29556853	29556992	NF1	chr17:29556853-29556992	0.357142857	0.652878	613113	"Leukemia, juvenile myelomonocytic, 607785 (3)/ Neurofibromatosis, familial spinal, 162210 (3)/ Neurofibromatosis, type 1, 162200 (3)/ Neurofibromatosis-Noonan syndrome, 601321 (3)/ Watson syndrome, 193520 (3)"	"AD, Somatic mutation/AD/AD/AD/AD"
+chr17	29557278	29557400	NF1	chr17:29557278-29557400	0.37398374	0.651639	613113	"Leukemia, juvenile myelomonocytic, 607785 (3)/ Neurofibromatosis, familial spinal, 162210 (3)/ Neurofibromatosis, type 1, 162200 (3)/ Neurofibromatosis-Noonan syndrome, 601321 (3)/ Watson syndrome, 193520 (3)"	"AD, Somatic mutation/AD/AD/AD/AD"
+chr17	29557860	29557943	NF1	chr17:29557860-29557943	0.392857143	0.337349	613113	"Leukemia, juvenile myelomonocytic, 607785 (3)/ Neurofibromatosis, familial spinal, 162210 (3)/ Neurofibromatosis, type 1, 162200 (3)/ Neurofibromatosis-Noonan syndrome, 601321 (3)/ Watson syndrome, 193520 (3)"	"AD, Somatic mutation/AD/AD/AD/AD"
+chr17	34416529	34416643	CCL3	chr17:34416529-34416643	0.565217391	0.576754	182283	"{HIV infection, resistance to}, 609423 (2)"	
+chr17	34624259	34624349	CCL3L1	chr17:34624259-34624349	0.582417582	0.382407	601395	"{HIV/AIDS, susceptibility to}, 609423 (3)"	
+chr17	34624771	34624885	CCL3L1	chr17:34624771-34624885	0.547826087	0.366228	601395	"{HIV/AIDS, susceptibility to}, 609423 (3)"	
+chr17	34625571	34625646	CCL3L1	chr17:34625571-34625646	0.618421053	0.5	601395	"{HIV/AIDS, susceptibility to}, 609423 (3)"	
+chr17	38792647	38792778	SMARCE1	chr17:38792647-38792778	0.424242424	0.672392	603111	"Coffin-Siris syndrome 5, 616938 (3)/ {Meningioma, familial, susceptibility to}, 607174 (3)"	AD
+chr17	38802048	38802054	SMARCE1	chr17:38802048-38802054	0.285714286	0.388889	603111	"Coffin-Siris syndrome 5, 616938 (3)/ {Meningioma, familial, susceptibility to}, 607174 (3)"	AD
+chr17	39742562	39743086	KRT14	chr17:39742562-39743086	0.64	0.531966	148066	"Dermatopathia pigmentosa reticularis, 125595 (3)/ Epidermolysis bullosa simplex, Dowling-Meara type, 131760 (3)/ Epidermolysis bullosa simplex, Koebner type, 131900 (3)/ Epidermolysis bullosa simplex, Weber-Cockayne type, 131800 (3)/ Epidermolysis bullosa simplex, recessive 1, 601001 (3)/ Naegeli-Franceschetti-Jadassohn syndrome, 161000 (3)"	AD/AD/AD/AD/AR/AD
+chr17	39766583	39766803	KRT16	chr17:39766583-39766803	0.610859729	0.721212	148067	"Pachyonychia congenita 1, 167200 (3)/ Palmoplantar keratoderma, nonepidermolytic, focal, 613000 (3)"	AD
+chr17	39767891	39767973	KRT16	chr17:39767891-39767973	0.530120482	0.429878	148067	"Pachyonychia congenita 1, 167200 (3)/ Palmoplantar keratoderma, nonepidermolytic, focal, 613000 (3)"	AD
+chr17	39768410	39768940	KRT16	chr17:39768410-39768940	0.638418079	0.551415	148067	"Pachyonychia congenita 1, 167200 (3)/ Palmoplantar keratoderma, nonepidermolytic, focal, 613000 (3)"	AD
+chr17	39776788	39776810	KRT17	chr17:39776788-39776810	0.434782609	0.280303	148069	"Pachyonychia congenita 2, 167210 (3)/ Steatocystoma multiplex, 184500 (3)"	AD
+chr17	39778607	39778763	KRT17	chr17:39778607-39778763	0.605095541	0.674679	148069	"Pachyonychia congenita 2, 167210 (3)/ Steatocystoma multiplex, 184500 (3)"	AD
+chr17	39780330	39780761	KRT17	chr17:39780330-39780761	0.650462963	0.598995	148069	"Pachyonychia congenita 2, 167210 (3)/ Steatocystoma multiplex, 184500 (3)"	AD
+chr17	40364002	40364208	STAT5B	chr17:40364002-40364208	0.579710145	0.696602	604260	"Growth hormone insensitivity with immunodeficiency, 245590 (3)/ Leukemia, acute promyelocytic, somatic, 102578 (3)"	
+chr17	40370741	40370896	STAT5B	chr17:40370741-40370896	0.628205128	0.5	604260	"Growth hormone insensitivity with immunodeficiency, 245590 (3)/ Leukemia, acute promyelocytic, somatic, 102578 (3)"	
+chr17	40371330	40371481	STAT5B	chr17:40371330-40371481	0.671052632	0.5	604260	"Growth hormone insensitivity with immunodeficiency, 245590 (3)/ Leukemia, acute promyelocytic, somatic, 102578 (3)"	
+chr17	40371730	40371860	STAT5B	chr17:40371730-40371860	0.671755725	0.680769	604260	"Growth hormone insensitivity with immunodeficiency, 245590 (3)/ Leukemia, acute promyelocytic, somatic, 102578 (3)"	
+chr17	40762126	40762238	TUBG1	chr17:40762126-40762238	0.592920354	0.665179	191135	"Cortical dysplasia, complex, with other brain malformations 4, 615412 (3)"	AD
+chr17	40762441	40762608	TUBG1	chr17:40762441-40762608	0.595238095	0.590818	191135	"Cortical dysplasia, complex, with other brain malformations 4, 615412 (3)"	AD
+chr17	40766278	40766430	TUBG1	chr17:40766278-40766430	0.620915033	0.539474	191135	"Cortical dysplasia, complex, with other brain malformations 4, 615412 (3)"	AD
+chr17	40766514	40766675	TUBG1	chr17:40766514-40766675	0.648148148	0.680124	191135	"Cortical dysplasia, complex, with other brain malformations 4, 615412 (3)"	AD
+chr17	41231351	41231416	BRCA1	chr17:41231351-41231416	0.378787879	0.519231	113705	"{Breast-ovarian cancer, familial, 1}, 604370 (3)/ {Pancreatic cancer, susceptibility to, 4}, 614320 (3)"	"AD, Multifactorial/"
+chr17	45102046	45102068	GOSR2	chr17:45102046-45102068	0.260869565	0	604027	"Epilepsy, progressive myoclonic 6, 614018 (3)"	AR
+chr17	47484121	47484216	PHB	chr17:47484121-47484216	0.541666667	0.594737	176705	"{Breast cancer, susceptibility to}, 114480 (3)"	AD
+chr17	47490539	47490626	PHB	chr17:47490539-47490626	0.5	0.644636	176705	"{Breast cancer, susceptibility to}, 114480 (3)"	AD
+chr17	61994669	61994866	GH1	chr17:61994669-61994866	0.560606061	0.633249	139250	"Growth hormone deficiency, isolated, type IA, 262400 (3)/ Growth hormone deficiency, isolated, type IB, 612781 (3)/ Growth hormone deficiency, isolated, type II, 173100 (3)/ Kowarski syndrome, 262650 (3)"	AR//AD/AR
+chr17	65889486	65889841	BPTF	chr17:65889486-65889841	0.41011236	0.702817	601819	"Neurodevelopmental disorder with dysmorphic facies and distal limb anomalies, 617755 (3)"	AD
+chr17	65962688	65962772	BPTF	chr17:65962688-65962772	0.447058824	0.553571	601819	"Neurodevelopmental disorder with dysmorphic facies and distal limb anomalies, 617755 (3)"	AD
+chr18	9119472	9119588	NDUFV2	chr18:9119472-9119588	0.461538462	0.637931	600532	"Mitochondrial complex I deficiency, 252010 (3)"	"AR, XLD, Mitochondrial"
+chr18	10911184	10911226	PIEZO2	chr18:10911184-10911226	0.488372093	0.5	613629	"Arthrogryposis, distal, type 3, 114300 (3)/ Arthrogryposis, distal, type 5, 108145 (3)/ Arthrogryposis, distal, with impaired proprioception and touch, 617146 (3)/ ?Marden-Walker syndrome, 248700 (3)"	AD/AD/AR/AD
+chr18	47363887	47364172	MYO5B	chr18:47363887-47364172	0.513986014	0.709064	606540	"Microvillus inclusion disease, 251850 (3)"	AR
+chr19	3594834	3595074	TBXA2R	chr19:3594834-3595074	0.576763485	0.645139	188070	"{Bleeding disorder, platelet-type, 13, susceptibility to}, 614009 (3)"	AD
+chr19	4101017	4101141	MAP2K2	chr19:4101017-4101141	0.584	0.63172	601263	"Cardiofaciocutaneous syndrome 4, 615280 (3)"	
+chr19	7696359	7696442	PET100	chr19:7696359-7696442	0.547619048	0.692771	614770	"Mitochondrial complex IV deficiency, 220110 (3)"	"AR, Mitochondrial"
+chr19	7810404	7810973	CD209	chr19:7810404-7810973	0.554385965	0.542912	604672	"{Dengue fever, protection against}, 614371 (3)/ {HIV type 1, susceptibility to}, 609423 (3)/ {Mycobacterium tuberculosis, susceptibility to}, 607948 (3)"	
+chr19	8386837	8386959	RPS28	chr19:8386837-8386959	0.609756098	0.362705	603685	"Diamond Blackfan anemia 15 with mandibulofacial dysostosis, 606164 (3)"	AD
+chr19	14675598	14675670	TECR	chr19:14675598-14675670	0.547945205	0.736111	610057	"Mental retardation, AR 14, 614020 (3)"	AR
+chr19	14676014	14676102	TECR	chr19:14676014-14676102	0.595505618	0.676136	610057	"Mental retardation, AR 14, 614020 (3)"	AR
+chr19	14676556	14676683	TECR	chr19:14676556-14676683	0.6328125	0.480315	610057	"Mental retardation, AR 14, 614020 (3)"	AR
+chr19	14876132	14876209	EMR2	chr19:14876132-14876209	0.538461538	0.701299	606100	"Vibratory urticaria, 125630 (3)"	AD
+chr19	14876336	14876382	EMR2	chr19:14876336-14876382	0.617021277	0.521739	606100	"Vibratory urticaria, 125630 (3)"	AD
+chr19	14876470	14876616	EMR2	chr19:14876470-14876616	0.585034014	0.5	606100	"Vibratory urticaria, 125630 (3)"	AD
+chr19	14877047	14877193	EMR2	chr19:14877047-14877193	0.598639456	0.619863	606100	"Vibratory urticaria, 125630 (3)"	AD
+chr19	14884750	14884866	EMR2	chr19:14884750-14884866	0.58974359	0.719828	606100	"Vibratory urticaria, 125630 (3)"	AD
+chr19	14885068	14885118	EMR2	chr19:14885068-14885118	0.607843137	0.5	606100	"Vibratory urticaria, 125630 (3)"	AD
+chr19	17086812	17086961	CPAMD8	chr19:17086812-17086961	0.586666667	0.607383	608841	"Anterior segment dysgenesis 8, 617319 (3)"	AR
+chr19	17107921	17108148	CPAMD8	chr19:17107921-17108148	0.644736842	0.570485	608841	"Anterior segment dysgenesis 8, 617319 (3)"	AR
+chr19	17115083	17115196	CPAMD8	chr19:17115083-17115196	0.464912281	0.646018	608841	"Anterior segment dysgenesis 8, 617319 (3)"	AR
+chr19	17132840	17132991	CPAMD8	chr19:17132840-17132991	0.605263158	0.728477	608841	"Anterior segment dysgenesis 8, 617319 (3)"	AR
+chr19	17137361	17137593	CPAMD8	chr19:17137361-17137593	0.798283262	0.676724	608841	"Anterior segment dysgenesis 8, 617319 (3)"	AR
+chr19	39734272	39734370	IFNL3	chr19:39734272-39734370	0.616161616	0.579932	607402	"{Hepatitis C virus infection, response to therapy of}, 609532 (3)"	
+chr19	39734464	39734547	IFNL3	chr19:39734464-39734547	0.702380952	0.656627	607402	"{Hepatitis C virus infection, response to therapy of}, 609532 (3)"	
+chr19	39735057	39735134	IFNL3	chr19:39735057-39735134	0.641025641	0.701299	607402	"{Hepatitis C virus infection, response to therapy of}, 609532 (3)"	
+chr19	39735428	39735607	IFNL3	chr19:39735428-39735607	0.622222222	0.731844	607402	"{Hepatitis C virus infection, response to therapy of}, 609532 (3)"	
+chr19	41349701	41349882	CYP2A6	chr19:41349701-41349882	0.554945055	0.507366	122720	"Coumarin resistance, 122700 (3)/ {Lung cancer, resistance to}, 211980 (3)/ {Nicotine addiction, protection from}, 188890 (3)"	AD/AR/
+chr19	41351199	41351386	CYP2A6	chr19:41351199-41351386	0.531914894	0.620321	122720	"Coumarin resistance, 122700 (3)/ {Lung cancer, resistance to}, 211980 (3)/ {Nicotine addiction, protection from}, 188890 (3)"	AD/AR/
+chr19	41352780	41352956	CYP2A6	chr19:41352780-41352956	0.542372881	0.559659	122720	"Coumarin resistance, 122700 (3)/ {Lung cancer, resistance to}, 211980 (3)/ {Nicotine addiction, protection from}, 188890 (3)"	AD/AR/
+chr19	41354124	41354284	CYP2A6	chr19:41354124-41354284	0.52173913	0.701042	122720	"Coumarin resistance, 122700 (3)/ {Lung cancer, resistance to}, 211980 (3)/ {Nicotine addiction, protection from}, 188890 (3)"	AD/AR/
+chr19	41355723	41355885	CYP2A6	chr19:41355723-41355885	0.625766871	0.566872	122720	"Coumarin resistance, 122700 (3)/ {Lung cancer, resistance to}, 211980 (3)/ {Nicotine addiction, protection from}, 188890 (3)"	AD/AR/
+chr19	41515124	41515300	CYP2B6	chr19:41515124-41515300	0.508474576	0.698864	123930	"{Efavirenz central nervous system toxicity, susceptibility to}, 614546 (3)/ Efavirenz, poor metabolism of, 614546 (3)"	
+chr19	42375419	42375445	RPS19	chr19:42375419-42375445	0.518518519	0.378205	603474	"Diamond-Blackfan anemia 1, 105650 (3)"	AD
+chr19	47341997	47342056	AP2S1	chr19:47341997-47342056	0.4	0.508475	602242	"Hypocalciuric hypercalcemia, type III, 600740 (3)"	AD
+chr19	49468765	49468866	FTL	chr19:49468765-49468866	0.539215686	0.717822	134790	"Hyperferritinemia-cataract syndrome, 600886 (3)/ L-ferritin deficiency, dominant and recessive, 615604 (3)/ Neurodegeneration with brain iron accumulation 3, 606159 (3)"	"AD/AR, AD/AD"
+chr19	49519804	49519971	LHB	chr19:49519804-49519971	0.648809524	0.742515	152780	"Hypogonadotropic hypogonadism 23 with or without anosmia, 228300 (3)"	AR
+chr19	55327956	55327989	KIR3DL1	chr19:55327956-55327989	0.558823529	0.431818	604946	"{AIDS, delayed/rapid progression to}, 609423 (3)"	
+chr19	55336483	55336533	KIR3DL1	chr19:55336483-55336533	0.490196078	0.5	604946	"{AIDS, delayed/rapid progression to}, 609423 (3)"	
+chr19	55340816	55340920	KIR3DL1	chr19:55340816-55340920	0.476190476	0.748397	604946	"{AIDS, delayed/rapid progression to}, 609423 (3)"	
+chr19	55341554	55341730	KIR3DL1	chr19:55341554-55341730	0.497175141	0.747159	604946	"{AIDS, delayed/rapid progression to}, 609423 (3)"	
+chr20	467020	467106	CSNK2A1	chr20:467020-467106	0.563218391	0.75	115440	"Okur-Chung neurodevelopmental syndrome, 617062 (3)"	AD
+chr20	468071	468219	CSNK2A1	chr20:468071-468219	0.516778523	0.665541	115440	"Okur-Chung neurodevelopmental syndrome, 617062 (3)"	AD
+chr20	472898	473008	CSNK2A1	chr20:472898-473008	0.441441441	0.645455	115440	"Okur-Chung neurodevelopmental syndrome, 617062 (3)"	AD
+chr20	476363	476446	CSNK2A1	chr20:476363-476446	0.44047619	0.692771	115440	"Okur-Chung neurodevelopmental syndrome, 617062 (3)"	AD
+chr20	480477	480578	CSNK2A1	chr20:480477-480578	0.382352941	0.658416	115440	"Okur-Chung neurodevelopmental syndrome, 617062 (3)"	AD
+chr20	485762	485873	CSNK2A1	chr20:485762-485873	0.339285714	0.648649	115440	"Okur-Chung neurodevelopmental syndrome, 617062 (3)"	AD
+chr20	489095	489195	CSNK2A1	chr20:489095-489195	0.514851485	0.5	115440	"Okur-Chung neurodevelopmental syndrome, 617062 (3)"	AD
+chr20	33004923	33005045	ITCH	chr20:33004923-33005045	0.552845528	0.528689	606409	"Autoimmune disease, multisystem, with facial dysmorphism, 613385 (3)"	AR
+chr20	45015977	45016076	ELMO2	chr20:45015977-45016076	0.49	0.722222	606421	"Vascular malformation, primary intraosseous, 606893 (3)"	AR
+chr20	57607275	57607306	ATP5E	chr20:57607275-57607306	0.59375	0.741935	606153	"?Mitochondrial complex V (ATP synthase) deficiency, nuclear type 3, 614053 (3)"	
+chr21	34941277	34941393	SON	chr21:34941277-34941393	0.478632479	0.711207	182465	"ZTTK syndrome, 617140 (3)"	AD
+chr22	18650022	18650101	USP18	chr22:18650022-18650101	0.4625	0.721519	607057	"Pseudo-TORCH syndrome 2, 617397 (3)"	AR
+chr22	18652611	18652706	USP18	chr22:18652611-18652706	0.541666667	0.684211	607057	"Pseudo-TORCH syndrome 2, 617397 (3)"	AR
+chr22	18653520	18653687	USP18	chr22:18653520-18653687	0.517857143	0.5	607057	"Pseudo-TORCH syndrome 2, 617397 (3)"	AR
+chr22	18655917	18656048	USP18	chr22:18655917-18656048	0.477272727	0.5	607057	"Pseudo-TORCH syndrome 2, 617397 (3)"	AR
+chr22	18656560	18656609	USP18	chr22:18656560-18656609	0.5	0.5	607057	"Pseudo-TORCH syndrome 2, 617397 (3)"	AR
+chr22	18659539	18659584	USP18	chr22:18659539-18659584	0.413043478	0	607057	"Pseudo-TORCH syndrome 2, 617397 (3)"	AR
+chr22	18906964	18907110	PRODH	chr22:18906964-18907110	0.578231293	0.736301	606810	"Hyperprolinemia, type I, 239500 (3)/ {Schizophrenia, susceptibility to, 4}, 600850 (3)"	AR/AD
+chr22	18909838	18909917	PRODH	chr22:18909838-18909917	0.575	0.721519	606810	"Hyperprolinemia, type I, 239500 (3)/ {Schizophrenia, susceptibility to, 4}, 600850 (3)"	AR/AD
+chr22	21063584	21063667	PI4KA	chr22:21063584-21063667	0.523809524	0.574297	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	21064987	21065146	PI4KA	chr22:21064987-21065146	0.56875	0.408805	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	21065629	21065749	PI4KA	chr22:21065629-21065749	0.537190083	0.470833	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	21066774	21066899	PI4KA	chr22:21066774-21066899	0.634920635	0.401333	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	21066981	21067085	PI4KA	chr22:21066981-21067085	0.59047619	0.333333	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	21068746	21068816	PI4KA	chr22:21068746-21068816	0.450704225	0.333333	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	21071996	21072066	PI4KA	chr22:21071996-21072066	0.591549296	0.521429	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	21087259	21087386	PI4KA	chr22:21087259-21087386	0.5078125	0.569554	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	21088024	21088131	PI4KA	chr22:21088024-21088131	0.555555556	0.41433	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	21088331	21088482	PI4KA	chr22:21088331-21088482	0.625	0.507726	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	21088683	21088841	PI4KA	chr22:21088683-21088841	0.578616352	0.531646	600286	"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis, 616531 (3)"	AR
+chr22	23652511	23652620	BCR	chr22:23652511-23652620	0.509090909	0.38685	151410	"Leukemia, acute lymphocytic, somatic, 613065 (3)/ Leukemia, chronic myeloid, somatic, 608232 (3)"	
+chr22	23653884	23654023	BCR	chr22:23653884-23654023	0.642857143	0.526379	151410	"Leukemia, acute lymphocytic, somatic, 613065 (3)/ Leukemia, chronic myeloid, somatic, 608232 (3)"	
+chr22	23655074	23655208	BCR	chr22:23655074-23655208	0.577777778	0.149876	151410	"Leukemia, acute lymphocytic, somatic, 613065 (3)/ Leukemia, chronic myeloid, somatic, 608232 (3)"	
+chr22	23656739	23656901	BCR	chr22:23656739-23656901	0.613496933	0.608539	151410	"Leukemia, acute lymphocytic, somatic, 613065 (3)/ Leukemia, chronic myeloid, somatic, 608232 (3)"	
+chr22	23915453	23915772	IGLL1	chr22:23915453-23915772	0.596875	0.715256	146770	"Agammaglobulinemia 2, 613500 (3)"	AR
+chr22	24739450	24739533	SPECC1L	chr22:24739450-24739533	0.571428571	0.283133	614140	"?Facial clefting, oblique, 1, 600251 (3)/ Opitz GBBB syndrome, type II, 145410 (3)"	AD
+chr22	25007049	25007212	GGT1	chr22:25007049-25007212	0.603658537	0.634458	612346	"Glutathioninuria, 231950 (1)"	AR
+chr22	25016295	25016487	GGT1	chr22:25016295-25016487	0.694300518	0.429688	612346	"Glutathioninuria, 231950 (1)"	AR
+chr22	25019074	25019223	GGT1	chr22:25019074-25019223	0.613333333	0.566555	612346	"Glutathioninuria, 231950 (1)"	AR
+chr22	25019747	25019883	GGT1	chr22:25019747-25019883	0.605839416	0.443015	612346	"Glutathioninuria, 231950 (1)"	AR
+chr22	25023399	25023586	GGT1	chr22:25023399-25023586	0.617021277	0.178253	612346	"Glutathioninuria, 231950 (1)"	AR
+chr22	25023819	25023946	GGT1	chr22:25023819-25023946	0.5625	0.653543	612346	"Glutathioninuria, 231950 (1)"	AR
+chr22	25024048	25024160	GGT1	chr22:25024048-25024160	0.672566372	0.459821	612346	"Glutathioninuria, 231950 (1)"	AR
+chr22	25024242	25024355	GGT1	chr22:25024242-25024355	0.587719298	0.213864	612346	"Glutathioninuria, 231950 (1)"	AR
+chr22	25024660	25024806	GGT1	chr22:25024660-25024806	0.666666667	0.164384	612346	"Glutathioninuria, 231950 (1)"	AR
+chr22	25625403	25625545	CRYBB2	chr22:25625403-25625545	0.524475524	0.679577	123620	"Cataract 3, multiple types, 601547 (3)"	AD
+chr22	29083885	29083974	CHEK2	chr22:29083885-29083974	0.611111111	0.673221	604373	"{Breast and colorectal cancer, susceptibility to} (3)/ {Breast cancer, susceptibility to}, 114480 (3)/ Li-Fraumeni syndrome, 609265 (3)/ Osteosarcoma, somatic, 259500 (3)/ {Prostate cancer, familial, susceptibility to}, 176807 (3)"	/AD///AD
+chr22	29085123	29085203	CHEK2	chr22:29085123-29085203	0.444444444	0.2125	604373	"{Breast and colorectal cancer, susceptibility to} (3)/ {Breast cancer, susceptibility to}, 114480 (3)/ Li-Fraumeni syndrome, 609265 (3)/ Osteosarcoma, somatic, 259500 (3)/ {Prostate cancer, familial, susceptibility to}, 176807 (3)"	/AD///AD
+chr22	29090020	29090105	CHEK2	chr22:29090020-29090105	0.488372093	0.533333	604373	"{Breast and colorectal cancer, susceptibility to} (3)/ {Breast cancer, susceptibility to}, 114480 (3)/ Li-Fraumeni syndrome, 609265 (3)/ Osteosarcoma, somatic, 259500 (3)/ {Prostate cancer, familial, susceptibility to}, 176807 (3)"	/AD///AD
+chr22	29091115	29091230	CHEK2	chr22:29091115-29091230	0.456896552	0.678261	604373	"{Breast and colorectal cancer, susceptibility to} (3)/ {Breast cancer, susceptibility to}, 114480 (3)/ Li-Fraumeni syndrome, 609265 (3)/ Osteosarcoma, somatic, 259500 (3)/ {Prostate cancer, familial, susceptibility to}, 176807 (3)"	/AD///AD
+chr22	29091698	29091861	CHEK2	chr22:29091698-29091861	0.463414634	0.644172	604373	"{Breast and colorectal cancer, susceptibility to} (3)/ {Breast cancer, susceptibility to}, 114480 (3)/ Li-Fraumeni syndrome, 609265 (3)/ Osteosarcoma, somatic, 259500 (3)/ {Prostate cancer, familial, susceptibility to}, 176807 (3)"	/AD///AD
+chr22	29669730	29669853	EWSR1	chr22:29669730-29669853	0.532258065	0.727642	133450	"Ewing sarcoma, 612219 (3)/ Neuroepithelioma, 612219 (3)"	
+chr22	29674019	29674205	EWSR1	chr22:29674019-29674205	0.572192513	0.729391	133450	"Ewing sarcoma, 612219 (3)/ Neuroepithelioma, 612219 (3)"	
+chr22	29678379	29678546	EWSR1	chr22:29678379-29678546	0.547619048	0.724551	133450	"Ewing sarcoma, 612219 (3)/ Neuroepithelioma, 612219 (3)"	
+chr22	36650009	36650037	APOL1	chr22:36650009-36650037	0.379310345	0.571429	603743	"{End-stage renal disease, nondiabetic, susceptibility to}, 612551 (3)/ {Glomerulosclerosis, focal segmental, 4, susceptibility to}, 612551 (3)"	
+chr22	41916175	41916280	ACO2	chr22:41916175-41916280	0.603773585	0.693651	100850	"Infantile cerebellar-retinal degeneration, 614559 (3)/ ?Optic atrophy 9, 616289 (3)"	AR
+chr22	42522576	42522754	CYP2D6	chr22:42522576-42522754	0.648044693	0.68633	124030	"{Codeine sensitivity}, 608902 (3)/ {Debrisoquine sensitivity}, 608902 (3)"	AR
+chr22	42522853	42522994	CYP2D6	chr22:42522853-42522994	0.598591549	0.553191	124030	"{Codeine sensitivity}, 608902 (3)/ {Debrisoquine sensitivity}, 608902 (3)"	AR
+chr22	42523449	42523636	CYP2D6	chr22:42523449-42523636	0.595744681	0.687166	124030	"{Codeine sensitivity}, 608902 (3)/ {Debrisoquine sensitivity}, 608902 (3)"	AR
+chr22	42524176	42524352	CYP2D6	chr22:42524176-42524352	0.610169492	0.716856	124030	"{Codeine sensitivity}, 608902 (3)/ {Debrisoquine sensitivity}, 608902 (3)"	AR
+chr22	42524786	42524946	CYP2D6	chr22:42524786-42524946	0.645962733	0.525	124030	"{Codeine sensitivity}, 608902 (3)/ {Debrisoquine sensitivity}, 608902 (3)"	AR
+chr22	42525740	42525911	CYP2D6	chr22:42525740-42525911	0.720930233	0.734893	124030	"{Codeine sensitivity}, 608902 (3)/ {Debrisoquine sensitivity}, 608902 (3)"	AR
+chrX	5821118	5821907	NLGN4X	chrX:5821118-5821907	0.575949367	0.683143	300427	"{Asperger syndrome susceptibility, XL 2}, 300497 (3)/ {Autism susceptibility, XL 2}, 300495 (3)/ Mental retardation, XL, 300495 (3)"	"Isolated cases, XL, Multifactorial"
+chrX	8503632	8503852	KAL1	chrX:8503632-8503852	0.488687783	0.686364	300836	"Hypogonadotropic hypogonadism 1 with or without anosmia (Kallmann syndrome 1), 308700 (3)"	XLR
+chrX	8507705	8507799	KAL1	chrX:8507705-8507799	0.536842105	0.68617	300836	"Hypogonadotropic hypogonadism 1 with or without anosmia (Kallmann syndrome 1), 308700 (3)"	XLR
+chrX	11314899	11314946	AMELX	chrX:11314899-11314946	0.5	0.585106	300391	"Amelogenesis imperfecta, type 1E, 301200 (3)"	XLD
+chrX	13732526	13732624	TRAPPC2	chrX:13732526-13732624	0.343434343	0.673469	300202	"Spondyloepiphyseal dysplasia tarda, 313400 (3)"	XLR
+chrX	13734123	13734208	TRAPPC2	chrX:13734123-13734208	0.255813953	0.694118	300202	"Spondyloepiphyseal dysplasia tarda, 313400 (3)"	XLR
+chrX	13737990	13738101	TRAPPC2	chrX:13737990-13738101	0.419642857	0.734985	300202	"Spondyloepiphyseal dysplasia tarda, 313400 (3)"	XLR
+chrX	13767546	13767652	OFD1	chrX:13767546-13767652	0.327102804	0.735849	300170	"Joubert syndrome 10, 300804 (3)/ Orofaciodigital syndrome I, 311200 (3)/ ?Retinitis pigmentosa 23, 300424 (3)/ Simpson-Golabi-Behmel syndrome, type 2, 300209 (3)"	XLR/XLD/XLR/XLR
+chrX	15863502	15863639	AP1S2	chrX:15863502-15863639	0.376811594	0.678832	300629	"Mental retardation, XL syndromic 5, 304340 (3)"	XLR
+chrX	15864026	15864134	AP1S2	chrX:15864026-15864134	0.357798165	0.648148	300629	"Mental retardation, XL syndromic 5, 304340 (3)"	XLR
+chrX	15870469	15870647	AP1S2	chrX:15870469-15870647	0.402234637	0.69382	300629	"Mental retardation, XL syndromic 5, 304340 (3)"	XLR
+chrX	21985314	21985434	SMS	chrX:21985314-21985434	0.537190083	0.604167	607642;300105	"Smith-Magenis syndrome, 182290 (3);Mental retardation, XL, Snyder-Robinson type, 309583 (3)"	"AD, Isolated cases;XLR"
+chrX	21990015	21990108	SMS	chrX:21990015-21990108	0.446808511	0.641577	607642;300105	"Smith-Magenis syndrome, 182290 (3);Mental retardation, XL, Snyder-Robinson type, 309583 (3)"	"AD, Isolated cases;XLR"
+chrX	21996078	21996232	SMS	chrX:21996078-21996232	0.451612903	0.648268	607642;300105	"Smith-Magenis syndrome, 182290 (3);Mental retardation, XL, Snyder-Robinson type, 309583 (3)"	"AD, Isolated cases;XLR"
+chrX	21996995	21997084	SMS	chrX:21996995-21997084	0.4	0.698502	607642;300105	"Smith-Magenis syndrome, 182290 (3);Mental retardation, XL, Snyder-Robinson type, 309583 (3)"	"AD, Isolated cases;XLR"
+chrX	22003262	22003341	SMS	chrX:22003262-22003341	0.3875	0.683544	607642;300105	"Smith-Magenis syndrome, 182290 (3);Mental retardation, XL, Snyder-Robinson type, 309583 (3)"	"AD, Isolated cases;XLR"
+chrX	22012430	22012469	SMS	chrX:22012430-22012469	0.4	0.478632	607642;300105	"Smith-Magenis syndrome, 182290 (3);Mental retardation, XL, Snyder-Robinson type, 309583 (3)"	"AD, Isolated cases;XLR"
+chrX	24078205	24078299	EIF2S3	chrX:24078205-24078299	0.463157895	0.680851	300161	"Mental retardation, XL, syndromic, Borck type, 300987 (3)"	XLR
+chrX	24084115	24084209	EIF2S3	chrX:24084115-24084209	0.389473684	0.670213	300161	"Mental retardation, XL, syndromic, Borck type, 300987 (3)"	XLR
+chrX	24089675	24089844	EIF2S3	chrX:24089675-24089844	0.470588235	0.698225	300161	"Mental retardation, XL, syndromic, Borck type, 300987 (3)"	XLR
+chrX	24094839	24094902	EIF2S3	chrX:24094839-24094902	0.40625	0.706349	300161	"Mental retardation, XL, syndromic, Borck type, 300987 (3)"	XLR
+chrX	30686129	30686235	GK	chrX:30686129-30686235	0.364485981	0.560535	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30695492	30695569	GK	chrX:30695492-30695569	0.5	0.614719	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30709240	30709316	GK	chrX:30709240-30709316	0.376623377	0.673246	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30712517	30712654	GK	chrX:30712517-30712654	0.427536232	0.535888	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30714159	30714268	GK	chrX:30714159-30714268	0.409090909	0.527523	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30718955	30719022	GK	chrX:30718955-30719022	0.470588235	0.711443	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30726171	30726251	GK	chrX:30726171-30726251	0.407407407	0.65	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30736655	30736733	GK	chrX:30736655-30736733	0.405063291	0.576923	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30737536	30737632	GK	chrX:30737536-30737632	0.463917526	0.546007	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30738128	30738212	GK	chrX:30738128-30738212	0.4	0.623016	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30738738	30738858	GK	chrX:30738738-30738858	0.41322314	0.572222	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30742218	30742298	GK	chrX:30742218-30742298	0.382716049	0.55625	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30745583	30745669	GK	chrX:30745583-30745669	0.436781609	0.65407	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	30746849	30746859	GK	chrX:30746849-30746859	0.272727273	0.666667	300474	"Glycerol kinase deficiency, 307030 (3)"	XLR
+chrX	48125722	48125822	SSX1	chrX:48125722-48125822	0.504950495	0.521667	312820	"?Sarcoma, synovial, 300813 (3)"	
+chrX	48935496	48935570	WDR45	chrX:48935496-48935570	0.586666667	0.736486	300526	"Neurodegeneration with brain iron accumulation 5, 300894 (3)"	XLD
+chrX	48935496	48935570	WDR45	chrX:48935496-48935570	0.586666667	0.736486	300526	"Neurodegeneration with brain iron accumulation 5, 300894 (3)"	XLD
+chrX	64958832	64959056	MSN	chrX:64958832-64959056	0.56	0.729911	309845	"Immunodeficiency 50, 300988 (3)"	XLR
+chrX	69366483	69366678	IGBP1	chrX:69366483-69366678	0.418367347	0.64359	300139	"Corpus callosum, agenesis of, with mental retardation, ocular coloboma and micrognathia, 300472 (3)"	XLR
+chrX	69516848	69517038	KIF4A	chrX:69516848-69517038	0.408376963	0.721053	300521	"?Mental retardation, XL 100, 300923 (3)"	XLR
+chrX	70117315	70117396	TEX11	chrX:70117315-70117396	0.56097561	0.0802469	300311	"Spermatogenic failure, XL, 2, 309120 (3)"	XLR
+chrX	70511629	70511822	NONO	chrX:70511629-70511822	0.417525773	0.696891	300084	"Mental retardation, XL, syndromic 34, 300967 (3)"	XL
+chrX	70517227	70517311	NONO	chrX:70517227-70517311	0.494117647	0.696429	300084	"Mental retardation, XL, syndromic 34, 300967 (3)"	XL
+chrX	70595017	70595136	TAF1	chrX:70595017-70595136	0.45	0.714286	313650	"Dystonia-Parkinsonism, XL, 314250 (3)/ Mental retardation, XL, syndromic 33, 300966 (3)"	XLR
+chrX	70608087	70608228	TAF1	chrX:70608087-70608228	0.443661972	0.70922	313650	"Dystonia-Parkinsonism, XL, 314250 (3)/ Mental retardation, XL, syndromic 33, 300966 (3)"	XLR
+chrX	70612725	70612844	TAF1	chrX:70612725-70612844	0.475	0.718487	313650	"Dystonia-Parkinsonism, XL, 314250 (3)/ Mental retardation, XL, syndromic 33, 300966 (3)"	XLR
+chrX	70626488	70626596	TAF1	chrX:70626488-70626596	0.449541284	0.75	313650	"Dystonia-Parkinsonism, XL, 314250 (3)/ Mental retardation, XL, syndromic 33, 300966 (3)"	XLR
+chrX	71904348	71904430	PHKA1	chrX:71904348-71904430	0.373493976	0.670732	311870	"Muscle glycogenosis, 300559 (3)"	XLR
+chrX	71915558	71915726	PHKA1	chrX:71915558-71915726	0.461538462	0.592262	311870	"Muscle glycogenosis, 300559 (3)"	XLR
+chrX	71932621	71932779	PHKA1	chrX:71932621-71932779	0.51572327	0.708861	311870	"Muscle glycogenosis, 300559 (3)"	XLR
+chrX	123022469	123022568	XIAP	chrX:123022469-123022568	0.47	0.722222	300079	"Lymphoproliferative syndrome, XL, 2, 300635 (3)"	
+chrX	123025088	123025166	XIAP	chrX:123025088-123025166	0.329113924	0.737179	300079	"Lymphoproliferative syndrome, XL, 2, 300635 (3)"	
+chrX	135956301	135956611	RBMX	chrX:135956301-135956611	0.553054662	0.566667	300199	"?Mental retardation, XL, syndromic 11, Shashi type, 300238 (3)"	XLR
+chrX	135957245	135957327	RBMX	chrX:135957245-135957327	0.421686747	0.699187	300199	"?Mental retardation, XL, syndromic 11, Shashi type, 300238 (3)"	XLR
+chrX	135957417	135957542	RBMX	chrX:135957417-135957542	0.412698413	0.735333	300199	"?Mental retardation, XL, syndromic 11, Shashi type, 300238 (3)"	XLR
+chrX	135958662	135958814	RBMX	chrX:135958662-135958814	0.503267974	0.623355	300199	"?Mental retardation, XL, syndromic 11, Shashi type, 300238 (3)"	XLR
+chrX	135960074	135960245	RBMX	chrX:135960074-135960245	0.540697674	0.577973	300199	"?Mental retardation, XL, syndromic 11, Shashi type, 300238 (3)"	XLR
+chrX	135961176	135961282	RBMX	chrX:135961176-135961282	0.439252336	0.643868	300199	"?Mental retardation, XL, syndromic 11, Shashi type, 300238 (3)"	XLR
+chrX	135961478	135961586	RBMX	chrX:135961478-135961586	0.431192661	0.686728	300199	"?Mental retardation, XL, syndromic 11, Shashi type, 300238 (3)"	XLR
+chrX	148584842	148585019	IDS	chrX:148584842-148585019	0.56741573	0.5	300823	"Mucopolysaccharidosis II, 309900 (3)"	XLR
+chrX	150154524	150154663	HMGB3	chrX:150154524-150154663	0.45	0.667266	300193	"?Microphthalmia, syndromic 13, 300915 (3)"	XL
+chrX	150155601	150155775	HMGB3	chrX:150155601-150155775	0.451428571	0.65613	300193	"?Microphthalmia, syndromic 13, 300915 (3)"	XL
+chrX	152956759	152957008	SLC6A8	chrX:152956759-152957008	0.592	0.747657	300036	"Cerebral creatine deficiency syndrome 1, 300352 (3)"	XLR
+chrX	152957430	152957562	SLC6A8	chrX:152957430-152957562	0.593984962	0.631313	300036	"Cerebral creatine deficiency syndrome 1, 300352 (3)"	XLR
+chrX	152958718	152958821	SLC6A8	chrX:152958718-152958821	0.548076923	0.747573	300036	"Cerebral creatine deficiency syndrome 1, 300352 (3)"	XLR
+chrX	152958917	152959041	SLC6A8	chrX:152958917-152959041	0.584	0.623656	300036	"Cerebral creatine deficiency syndrome 1, 300352 (3)"	XLR
+chrX	152959988	152960088	SLC6A8	chrX:152959988-152960088	0.574257426	0.706667	300036	"Cerebral creatine deficiency syndrome 1, 300352 (3)"	XLR
+chrX	152960529	152960669	SLC6A8	chrX:152960529-152960669	0.638297872	0.704762	300036	"Cerebral creatine deficiency syndrome 1, 300352 (3)"	XLR
+chrX	152967462	152967562	BCAP31	chrX:152967462-152967562	0.564356436	0.538333	300398	"Deafness, dystonia, and cerebral hypomyelination, 300475 (3)"	XLR
+chrX	152968390	152968513	BCAP31	chrX:152968390-152968513	0.548387097	0.739837	300398	"Deafness, dystonia, and cerebral hypomyelination, 300475 (3)"	XLR
+chrX	153008441	153008525	ABCD1	chrX:153008441-153008525	0.588235294	0.638889	300371	"Adrenoleukodystrophy, 300100 (3)/ Adrenomyeloneuropathy, adult, 300100 (3)"	XLR
+chrX	153008943	153009189	ABCD1	chrX:153008943-153009189	0.663967611	0.746951	300371	"Adrenoleukodystrophy, 300100 (3)/ Adrenomyeloneuropathy, adult, 300100 (3)"	XLR
+chrX	153409758	153409869	OPN1LW	chrX:153409758-153409869	0.607142857	0.333333	300822	"Blue cone monochromacy, 303700 (3)/ Colorblindness, protan, 303900 (3)"	XLR/XL
+chrX	153416128	153416424	OPN1LW	chrX:153416128-153416424	0.579124579	0.602477	300822	"Blue cone monochromacy, 303700 (3)/ Colorblindness, protan, 303900 (3)"	XLR/XL
+chrX	153418413	153418581	OPN1LW	chrX:153418413-153418581	0.573964497	0.65873	300822	"Blue cone monochromacy, 303700 (3)/ Colorblindness, protan, 303900 (3)"	XLR/XL
+chrX	153420049	153420214	OPN1LW	chrX:153420049-153420214	0.596385542	0.543434	300822	"Blue cone monochromacy, 303700 (3)/ Colorblindness, protan, 303900 (3)"	XLR/XL
+chrX	153421769	153422008	OPN1LW	chrX:153421769-153422008	0.541666667	0.726639	300822	"Blue cone monochromacy, 303700 (3)/ Colorblindness, protan, 303900 (3)"	XLR/XL
+chrX	153424291	153424401	OPN1LW	chrX:153424291-153424401	0.522522523	0.333333	300822	"Blue cone monochromacy, 303700 (3)/ Colorblindness, protan, 303900 (3)"	XLR/XL
+chrX	153448167	153448278	OPN1MW	chrX:153448167-153448278	0.607142857	0.333333	300821	"Blue cone monochromacy, 303700 (3)/ Colorblindness, deutan, 303800 (3)"	XLR/XL
+chrX	153453259	153453555	OPN1MW	chrX:153453259-153453555	0.579124579	0.404842	300821	"Blue cone monochromacy, 303700 (3)/ Colorblindness, deutan, 303800 (3)"	XLR/XL
+chrX	153455543	153455711	OPN1MW	chrX:153455543-153455711	0.568047337	0.414683	300821	"Blue cone monochromacy, 303700 (3)/ Colorblindness, deutan, 303800 (3)"	XLR/XL
+chrX	153457179	153457344	OPN1MW	chrX:153457179-153457344	0.608433735	0.385859	300821	"Blue cone monochromacy, 303700 (3)/ Colorblindness, deutan, 303800 (3)"	XLR/XL
+chrX	153458899	153459138	OPN1MW	chrX:153458899-153459138	0.55	0.504881	300821	"Blue cone monochromacy, 303700 (3)/ Colorblindness, deutan, 303800 (3)"	XLR/XL
+chrX	153461421	153461531	OPN1MW	chrX:153461421-153461531	0.522522523	0.333333	300821	"Blue cone monochromacy, 303700 (3)/ Colorblindness, deutan, 303800 (3)"	XLR/XL
+chrX	153627679	153627737	RPL10	chrX:153627679-153627737	0.525423729	0.706897	312173	"{Autism, susceptibility to, XL 5}, 300847 (3)/ Mental retardation, XL, syndromic, 35, 300998 (3)"	/XLR
+chrX	153628144	153628282	RPL10	chrX:153628144-153628282	0.539568345	0.54529	312173	"{Autism, susceptibility to, XL 5}, 300847 (3)/ Mental retardation, XL, syndromic, 35, 300998 (3)"	/XLR
+chrX	153628805	153628967	RPL10	chrX:153628805-153628967	0.576687117	0.282922	312173	"{Autism, susceptibility to, XL 5}, 300847 (3)/ Mental retardation, XL, syndromic, 35, 300998 (3)"	/XLR
+chrX	153629043	153629195	RPL10	chrX:153629043-153629195	0.529411765	0.196272	312173	"{Autism, susceptibility to, XL 5}, 300847 (3)/ Mental retardation, XL, syndromic, 35, 300998 (3)"	/XLR
+chrX	153784380	153784591	IKBKG	chrX:153784380-153784591	0.594339623	0.5	300248	"Ectodermal dysplasia, hypohidrotic, with immune deficiency, 300291 (3)/ Ectodermal, dysplasia, anhidrotic, lymphedema and immunodeficiency, 300301 (3)/ Immunodeficiency 33, 300636 (3)/ Immunodeficiency, isolated, 300584 (3)/ Incontinentia pigmenti, 308300 (3)/ Invasive pneumococcal disease, recurrent isolated, 2, 300640 (3)"	//XLR//XLD/
+chrX	153786747	153786865	IKBKG	chrX:153786747-153786865	0.621848739	0.5	300248	"Ectodermal dysplasia, hypohidrotic, with immune deficiency, 300291 (3)/ Ectodermal, dysplasia, anhidrotic, lymphedema and immunodeficiency, 300301 (3)/ Immunodeficiency 33, 300636 (3)/ Immunodeficiency, isolated, 300584 (3)/ Incontinentia pigmenti, 308300 (3)/ Invasive pneumococcal disease, recurrent isolated, 2, 300640 (3)"	//XLR//XLD/
+chrX	153788622	153788774	IKBKG	chrX:153788622-153788774	0.745098039	0.5	300248	"Ectodermal dysplasia, hypohidrotic, with immune deficiency, 300291 (3)/ Ectodermal, dysplasia, anhidrotic, lymphedema and immunodeficiency, 300301 (3)/ Immunodeficiency 33, 300636 (3)/ Immunodeficiency, isolated, 300584 (3)/ Incontinentia pigmenti, 308300 (3)/ Invasive pneumococcal disease, recurrent isolated, 2, 300640 (3)"	//XLR//XLD/
+chrX	153789903	153789999	IKBKG	chrX:153789903-153789999	0.577319588	0.5	300248	"Ectodermal dysplasia, hypohidrotic, with immune deficiency, 300291 (3)/ Ectodermal, dysplasia, anhidrotic, lymphedema and immunodeficiency, 300301 (3)/ Immunodeficiency 33, 300636 (3)/ Immunodeficiency, isolated, 300584 (3)/ Incontinentia pigmenti, 308300 (3)/ Invasive pneumococcal disease, recurrent isolated, 2, 300640 (3)"	//XLR//XLD/
+chrX	153791025	153791168	IKBKG	chrX:153791025-153791168	0.590277778	0.5	300248	"Ectodermal dysplasia, hypohidrotic, with immune deficiency, 300291 (3)/ Ectodermal, dysplasia, anhidrotic, lymphedema and immunodeficiency, 300301 (3)/ Immunodeficiency 33, 300636 (3)/ Immunodeficiency, isolated, 300584 (3)/ Incontinentia pigmenti, 308300 (3)/ Invasive pneumococcal disease, recurrent isolated, 2, 300640 (3)"	//XLR//XLD/
+chrX	153791774	153791916	IKBKG	chrX:153791774-153791916	0.622377622	0.5	300248	"Ectodermal dysplasia, hypohidrotic, with immune deficiency, 300291 (3)/ Ectodermal, dysplasia, anhidrotic, lymphedema and immunodeficiency, 300301 (3)/ Immunodeficiency 33, 300636 (3)/ Immunodeficiency, isolated, 300584 (3)/ Incontinentia pigmenti, 308300 (3)/ Invasive pneumococcal disease, recurrent isolated, 2, 300640 (3)"	//XLR//XLD/
+chrX	153792174	153792235	IKBKG	chrX:153792174-153792235	0.693548387	0.5	300248	"Ectodermal dysplasia, hypohidrotic, with immune deficiency, 300291 (3)/ Ectodermal, dysplasia, anhidrotic, lymphedema and immunodeficiency, 300301 (3)/ Immunodeficiency 33, 300636 (3)/ Immunodeficiency, isolated, 300584 (3)/ Incontinentia pigmenti, 308300 (3)/ Invasive pneumococcal disease, recurrent isolated, 2, 300640 (3)"	//XLR//XLD/
+chrX	153792534	153792676	IKBKG	chrX:153792534-153792676	0.608391608	0.5	300248	"Ectodermal dysplasia, hypohidrotic, with immune deficiency, 300291 (3)/ Ectodermal, dysplasia, anhidrotic, lymphedema and immunodeficiency, 300301 (3)/ Immunodeficiency 33, 300636 (3)/ Immunodeficiency, isolated, 300584 (3)/ Incontinentia pigmenti, 308300 (3)/ Invasive pneumococcal disease, recurrent isolated, 2, 300640 (3)"	//XLR//XLD/
+chrX	154721196	154721327	TMLHE	chrX:154721196-154721327	0.477272727	0.522901	300777	"{Autism, susceptibility to, XL 6}, 300872 (3)"	XLR
+chrX	154722018	154722156	TMLHE	chrX:154722018-154722156	0.482014388	0.5	300777	"{Autism, susceptibility to, XL 6}, 300872 (3)"	XLR
