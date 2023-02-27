@@ -1,23 +1,17 @@
 package main
 
 import (
+	"bufio"
+	"embed"
 	"flag"
 	"github.com/liserjrqlxue/goUtil/fmtUtil"
 	"github.com/liserjrqlxue/goUtil/math"
 	"github.com/liserjrqlxue/goUtil/osUtil"
+	"github.com/liserjrqlxue/goUtil/scannerUtil"
 	"github.com/liserjrqlxue/goUtil/simpleUtil"
 	"github.com/liserjrqlxue/goUtil/stringsUtil"
-	"log"
-	"os"
-	"path/filepath"
-
 	"github.com/liserjrqlxue/goUtil/textUtil"
-)
-
-// os
-var (
-	ex, _  = os.Executable()
-	exPath = filepath.Dir(ex)
+	"log"
 )
 
 var (
@@ -38,6 +32,9 @@ var (
 	)
 )
 
+//go:embed map.txt
+var emFS embed.FS
+
 func main() {
 	flag.Parse()
 	if *in == "" || *out == "" {
@@ -45,7 +42,12 @@ func main() {
 	}
 
 	var meanMappability = make(map[string][]*Mappability)
-	var maps, _ = textUtil.File2MapArray(filepath.Join(exPath, "map.txt"), "\t", nil)
+	var mapTxt, err = emFS.Open("map.txt")
+	simpleUtil.CheckErr(err)
+	defer simpleUtil.DeferClose(mapTxt)
+	var scan = bufio.NewScanner(mapTxt)
+	var maps, _ = scannerUtil.Scanner2MapArray(scan, "\t", nil)
+
 	for _, item := range maps {
 		var m = map2Map(item)
 		var ms = meanMappability[m.chromosome]
